@@ -2,58 +2,190 @@
 <html lang="ru">
 <head>
 <meta charset="UTF-8">
-<title>JoinUP Test</title>
+<title>CRM Kanban</title>
+
 <style>
+
 body{
+    margin:0;
     font-family:Arial;
-    margin:40px;
+    background:#f5f5f5;
 }
-button{
-    padding:10px 20px;
-    font-size:18px;
+
+header{
+    background:#1976d2;
+    color:white;
+    padding:15px;
+    font-size:24px;
 }
-pre{
-    white-space:pre-wrap;
-    border:1px solid #ccc;
+
+#board{
+    display:flex;
+    gap:20px;
+    padding:20px;
+}
+
+.column{
+
+    flex:1;
+    background:white;
+    border-radius:10px;
     padding:10px;
-    margin-top:20px;
+    min-height:600px;
+
+    box-shadow:0 0 10px rgba(0,0,0,.1);
 }
+
+.column h2{
+
+    margin-top:0;
+    text-align:center;
+}
+
+.card{
+
+    background:#fff;
+    border-left:5px solid #1976d2;
+
+    margin-bottom:10px;
+    padding:10px;
+
+    border-radius:6px;
+
+    cursor:grab;
+
+    box-shadow:0 2px 6px rgba(0,0,0,.15);
+}
+
+.card:hover{
+
+    background:#f0f8ff;
+}
+
+button{
+
+    margin:20px;
+
+    padding:10px 20px;
+
+    font-size:16px;
+}
+
 </style>
+
 </head>
+
 <body>
 
-<h2>Проверка JoinUP API</h2>
+<header>
 
-<button onclick="load()">Получить страны</button>
+CRM Турфирмы
 
-<pre id="result"></pre>
+</header>
+
+<button onclick="addCard()">
+
+Добавить клиента
+
+</button>
+
+<div id="board">
+
+<div class="column"
+     ondrop="drop(event)"
+     ondragover="allowDrop(event)"
+     id="new">
+
+<h2>🟢 Новые</h2>
+
+</div>
+
+<div class="column"
+     ondrop="drop(event)"
+     ondragover="allowDrop(event)"
+     id="work">
+
+<h2>🟡 Подбор тура</h2>
+
+</div>
+
+<div class="column"
+     ondrop="drop(event)"
+     ondragover="allowDrop(event)"
+     id="pay">
+
+<h2>🟠 Оплата</h2>
+
+</div>
+
+<div class="column"
+     ondrop="drop(event)"
+     ondragover="allowDrop(event)"
+     id="done">
+
+<h2>🔵 Завершено</h2>
+
+</div>
+
+</div>
 
 <script>
 
-async function load(){
+let counter=1;
 
-    const result=document.getElementById("result");
+function addCard(){
 
-    result.textContent="Загрузка...";
+    const client=prompt("Имя клиента");
 
-    try{
+    if(!client)return;
 
-        const response=await fetch(
-        "https://joinup.ua/api/main/tour/regions?lang=uk&currency=UAH");
+    const card=document.createElement("div");
 
-        result.textContent=
-        "HTTP: "+response.status+"\n\n";
+    card.className="card";
 
-        const text=await response.text();
+    card.draggable=true;
 
-        result.textContent+=text;
+    card.id="card"+counter++;
 
-    }
-    catch(e){
+    card.ondragstart=drag;
 
-        result.textContent=e;
+    card.innerHTML=`
+<b>${client}</b><br>
+Египет<br>
+05.07.2026<br>
+Тел: +380...
+`;
 
-    }
+    document
+    .getElementById("new")
+    .appendChild(card);
+
+}
+
+function allowDrop(e){
+
+    e.preventDefault();
+
+}
+
+function drag(e){
+
+    e.dataTransfer.setData("id",e.target.id);
+
+}
+
+function drop(e){
+
+    e.preventDefault();
+
+    const id=e.dataTransfer.getData("id");
+
+    e.currentTarget.appendChild(
+        document.getElementById(id)
+    );
+
+    // Здесь потом будем сохранять в Google Sheets
+    console.log("Перемещено в",e.currentTarget.id);
 
 }
 

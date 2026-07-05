@@ -7,6 +7,7 @@ URL = (
     "&origins=325"
     "&destinations=c_9"
     "&pax_adl=2"
+    "&page=2"
     "&offer_type=tour"
     "&dates=2026-07-07:2026-07-14"
     "&stays=7"

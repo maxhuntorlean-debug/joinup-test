@@ -1,35 +1,36 @@
 import requests
 import json
 
-url = "https://joinup.ua/api/main/tour/regions?lang=uk&currency=UAH"
+URL = (
+    "https://joinup.ua/api/main/tour/tours"
+    "?default=true"
+    "&origins=325"
+    "&destinations=c_9"
+    "&pax_adl=2"
+    "&offer_type=tour"
+    "&dates=2026-07-07:2026-07-14"
+    "&stays=7"
+    "&lang=uk"
+    "&currency=UAH"
+)
 
 headers = {
     "User-Agent": "Mozilla/5.0",
     "Accept": "*/*"
 }
 
-session = requests.Session()
+response = requests.get(URL, headers=headers)
 
-response = session.get(url, headers=headers)
+print("Status:", response.status_code)
 
-print("=" * 60)
-print("STATUS")
-print("=" * 60)
-print(response.status_code)
+if response.status_code == 200:
 
-print("\n" + "=" * 60)
-print("REQUEST HEADERS")
-print("=" * 60)
-for k, v in response.request.headers.items():
-    print(f"{k}: {v}")
+    data = response.json()
 
-print("\n" + "=" * 60)
-print("RESPONSE HEADERS")
-print("=" * 60)
-for k, v in response.headers.items():
-    print(f"{k}: {v}")
+    with open("tours.json", "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
 
-print("\n" + "=" * 60)
-print("FIRST 500 SYMBOLS")
-print("=" * 60)
-print(response.text[:500])
+    print("Файл tours.json сохранен")
+
+else:
+    print(response.text)

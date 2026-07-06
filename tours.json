@@ -2,648 +2,6 @@
   "tours": [
     {
       "hotel": {
-        "id": "32581",
-        "name": "Bliss Nada Beach Resorts (ex. Hotelux Jolie Beach)",
-        "category": {
-          "category": "4",
-          "name": "4 - Чотири зірки"
-        },
-        "badges": [
-          {
-            "type": "other",
-            "name": "Рекомендує",
-            "icon": "https://static.joinup.travel/badges/exclusive.svg"
-          }
-        ],
-        "descriptions": [
-          {
-            "title": "Опис",
-            "description": "Готель розташований на узбережжі Червоного моря, у спокійній зоні регіону Марса-Алам. Це гарний вибір для тих, хто цінує поєднання відпочинку на морі та невимушену атмосферу. Готель підходить для спокійного відпочинку на морі з можливістю насолодитися снорклінгом та дайвінгом.",
-            "type": "general"
-          }
-        ],
-        "media": [
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bless-55_.jpg",
-            "alt": "Зона басейну курорту з пальмами та видом на пляж під ясним блакитним небом. - Зона басейну курорту з пальмами та видом на пляж під ясним блакитним небом."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/31147/photos/NADA-RESOR.jpg",
-            "alt": "Вечірній вигляд на зону басейну з дерев'яним мостом та шезлонгами. - Вечірній вигляд на зону басейну з дерев'яним мостом та шезлонгами."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/31147/photos/NADA-RESORT-316-.jpg",
-            "alt": "Зона басейну з пальмами та шезлонгами на сутінках. - Зона басейну з пальмами та шезлонгами на сутінках."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-55.jpg",
-            "alt": "Велика зовнішня шахова дошка з великими фігурами та лавками. - Велика зовнішня шахова дошка з великими фігурами та лавками."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/31147/photos/NADA-RESORT-377.jpg",
-            "alt": "Пара йде уздовж пляжу з пальмами та солом'яними парасольками. - Пара йде уздовж пляжу з пальмами та солом'яними парасольками."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-170.jpg",
-            "alt": "Пара йде по пляжу з пальмами та парасольками. - Пара йде по пляжу з пальмами та парасольками."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-200.jpg",
-            "alt": "Діти спускаються з кольорових водних гірок у басейн. - Діти спускаються з кольорових водних гірок у басейн."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bless-50.jpg",
-            "alt": "Вид на море з напоями на столі та пляжними парасольками. - Вид на море з напоями на столі та пляжними парасольками."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-64.jpg",
-            "alt": "Пляж з шезлонгами та парасольками під ясним небом. - Пляж з шезлонгами та парасольками під ясним небом."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-188.jpg",
-            "alt": "Крупний план кута будівлі з блакитною решіткою та ясним небом. - Крупний план кута будівлі з блакитною решіткою та ясним небом."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/31147/photos/12-Copy.jpg",
-            "alt": "Традиційна палатка з подушками, кальяном і верблюдами поблизу на заході сонця. - Традиційна палатка з подушками, кальяном і верблюдами поблизу на заході сонця."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-138.jpg",
-            "alt": "Простора лобі готелю з синіми стільцями та декоративними колонами. - Простора лобі готелю з синіми стільцями та декоративними колонами."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-119.jpg",
-            "alt": "Елегантне лобі готелю з декоративними люстрами та синіми акцентами. - Елегантне лобі готелю з декоративними люстрами та синіми акцентами."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-120.jpg",
-            "alt": "Яскраве лобі готелю з синіми стільцями та великим круглим дизайном стелі. - Яскраве лобі готелю з синіми стільцями та великим круглим дизайном стелі."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-118.jpg",
-            "alt": "Лобі готелю з синіми стільцями та видом на відкриту територію. - Лобі готелю з синіми стільцями та видом на відкриту територію."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-136.jpg",
-            "alt": "Магазин сувенірів, що демонструє різні місцеві ремесла та дрібнички. - Магазин сувенірів, що демонструє різні місцеві ремесла та дрібнички."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-116.jpg",
-            "alt": "Сходи, що ведуть на верхні поверхи готелю з декоративними муралами. - Сходи, що ведуть на верхні поверхи готелю з декоративними муралами."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-191.jpg",
-            "alt": "Центр дайвінгу з обладнанням та гідрокостюмами, виставленими на вулиці. - Центр дайвінгу з обладнанням та гідрокостюмами, виставленими на вулиці."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-152.jpg",
-            "alt": "Відкрита зона для сидіння з синіми стільцями та столами під затіненим перголою. - Відкрита зона для сидіння з синіми стільцями та столами під затіненим перголою."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-250.jpg",
-            "alt": "Зона відпочинку з великими вікнами, що відкривають вид на басейн і пальми. - Зона відпочинку з великими вікнами, що відкривають вид на басейн і пальми."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bless-47.jpg",
-            "alt": "Стіл для сніданку, накритий різними стравами та напоями з видом на басейн. - Стіл для сніданку, накритий різними стравами та напоями з видом на басейн."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-130.jpg",
-            "alt": "Обідня зона з дерев'яними столами та стільцями, накритими для їжі. - Обідня зона з дерев'яними столами та стільцями, накритими для їжі."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-88.jpg",
-            "alt": "Простора обідня зона з дерев'яними столами та стільцями, готова для гостей. - Простора обідня зона з дерев'яними столами та стільцями, готова для гостей."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-151.jpg",
-            "alt": "Відкрита зона для їжі з дерев'яними столами та стільцями під затіненим навісом. - Відкрита зона для їжі з дерев'яними столами та стільцями під затіненим навісом."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-129.jpg",
-            "alt": "Яскрава зона відпочинку з візерунковими сидіннями та декоративним настінним мистецтвом. - Яскрава зона відпочинку з візерунковими сидіннями та декоративним настінним мистецтвом."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-154.jpg",
-            "alt": "Барна зона з прилавком, на якому виставлені напої, та місцями для гостей. - Барна зона з прилавком, на якому виставлені напої, та місцями для гостей."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-114.jpg",
-            "alt": "Вітрина аптеки з різними медичними товарами та ліками. - Вітрина аптеки з різними медичними товарами та ліками."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-122.jpg",
-            "alt": "Відкрита тераса з білими стільцями та столами з видом на сад. - Відкрита тераса з білими стільцями та столами з видом на сад."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-255.jpg",
-            "alt": "Спортивна зона з тренажерами, включаючи бігові доріжки та ваги. - Спортивна зона з тренажерами, включаючи бігові доріжки та ваги."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-219.jpg",
-            "alt": "Місцевий чоловік веде верблюда уздовж пляжу під ясним блакитним небом. - Місцевий чоловік веде верблюда уздовж пляжу під ясним блакитним небом."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-150.jpg",
-            "alt": "Настільний теніс з синім столом і ракетками в зоні відпочинку. - Настільний теніс з синім столом і ракетками в зоні відпочинку."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-137.jpg",
-            "alt": "Зона більярду з двома столами та декоративним настінним мистецтвом. - Зона більярду з двома столами та декоративним настінним мистецтвом."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-256.jpg",
-            "alt": "Тенісний корт з сіткою та пальмами на задньому плані. - Тенісний корт з сіткою та пальмами на задньому плані."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-227.jpg",
-            "alt": "Дитячий майданчик з кольоровим обладнанням, включаючи гірки та гойдалки. - Дитячий майданчик з кольоровим обладнанням, включаючи гірки та гойдалки."
-          }
-        ],
-        "special_info": {
-          "check_in": {
-            "name": "Реєстрація",
-            "value": "14:00"
-          },
-          "check_out": {
-            "name": "Виїзд з готелю",
-            "value": "12:00"
-          },
-          "group": null,
-          "total_rooms": null
-        },
-        "location": {
-          "city": "Marsa Alam",
-          "country": "Egypt",
-          "full_address": "Nada Marsa Alam, Red Sea",
-          "latitude": "25.411952",
-          "longitude": "34.692768",
-          "region": [
-            {
-              "id": "c_9",
-              "name": "Єгипет",
-              "slug": "egypt",
-              "code_iso": "EG",
-              "type": "country",
-              "sub_regions": [],
-              "departure_cities": [],
-              "price_from": null
-            },
-            {
-              "id": "o_1334",
-              "name": "Марса Алам",
-              "slug": "marsa-alam",
-              "code_iso": "",
-              "type": "city",
-              "sub_regions": [],
-              "departure_cities": [],
-              "price_from": null
-            }
-          ],
-          "description": "",
-          "additional_info": []
-        }
-      },
-      "offers": [
-        {
-          "id": "0x430A0000002800000001450000000900000E130000000000F4D954B48000000004717A0700007F450000B8400000164100000005000000000000000000000001000564DBB48700000700000000008FC4B00000000302020000636363B4800000B487000002000000002400000000000000010000000012DA9EA6000476B20000172200000000",
-          "from": {
-            "id": "325",
-            "name": "Кишинів",
-            "slug": "",
-            "code_iso": "",
-            "type": "city",
-            "sub_regions": [],
-            "departure_cities": [],
-            "price_from": null
-          },
-          "stay": {
-            "label": "7",
-            "stay": 7
-          },
-          "date_start": "2026-07-07",
-          "date_end": "2026-07-14",
-          "board": {
-            "board_type": "HB",
-            "name": "Напівпансіон",
-            "code": "5"
-          },
-          "rooms": [
-            {
-              "code": "47168",
-              "name": "Standard Room ",
-              "placement": "2AD"
-            }
-          ],
-          "transports": [
-            {
-              "type": "flight",
-              "direction": "outbound",
-              "availability": null,
-              "params": {
-                "class": null,
-                "flight_number": "8311",
-                "marketing_airline": {
-                  "name": "SkyUp Airlines",
-                  "code": "4V",
-                  "logo": null,
-                  "plane": null
-                },
-                "operating_airline": null,
-                "departure": {
-                  "code": "RMO",
-                  "name": "Chişinău International Airport",
-                  "timezone": "Europe/Chisinau"
-                },
-                "departure_terminal": "",
-                "arrival": {
-                  "code": "HRG",
-                  "name": "Hurghada International Airport",
-                  "timezone": "Africa/Cairo"
-                },
-                "arrival_terminal": "",
-                "std": "2026-07-07T08:35:00+00:00",
-                "sta": "2026-07-07T12:05:00+00:00",
-                "luggage": [
-                  {
-                    "type": "HNDL",
-                    "weight": 9
-                  },
-                  {
-                    "type": "CBAG",
-                    "weight": 23
-                  }
-                ]
-              }
-            },
-            {
-              "type": "flight",
-              "direction": "inbound",
-              "availability": null,
-              "params": {
-                "class": null,
-                "flight_number": "8312",
-                "marketing_airline": {
-                  "name": "SkyUp Airlines",
-                  "code": "4V",
-                  "logo": null,
-                  "plane": null
-                },
-                "operating_airline": null,
-                "departure": {
-                  "code": "HRG",
-                  "name": "Hurghada International Airport",
-                  "timezone": "Africa/Cairo"
-                },
-                "departure_terminal": "",
-                "arrival": {
-                  "code": "RMO",
-                  "name": "Chişinău International Airport",
-                  "timezone": "Europe/Chisinau"
-                },
-                "arrival_terminal": "",
-                "std": "2026-07-14T13:05:00+00:00",
-                "sta": "2026-07-14T16:50:00+00:00",
-                "luggage": [
-                  {
-                    "type": "HNDL",
-                    "weight": 9
-                  },
-                  {
-                    "type": "CBAG",
-                    "weight": 23
-                  }
-                ]
-              }
-            }
-          ],
-          "price": {
-            "components": [
-              {
-                "title": "Base-1-RMO/291194",
-                "type": "tour",
-                "price": {
-                  "price": "49997.00",
-                  "currency": {
-                    "code": "UAH",
-                    "sign": "₴"
-                  }
-                }
-              }
-            ],
-            "per_pax_price": null,
-            "average_history_price": null,
-            "full_price": null,
-            "total_price": {
-              "price": "49997.00",
-              "currency": {
-                "code": "UAH",
-                "sign": "₴"
-              }
-            },
-            "full_installment_price": null,
-            "installment_price": null,
-            "payment_price": null,
-            "total_price_description": "Повна оплата доступна карткою або через Apple/Google Pay.",
-            "installment_price_description": "",
-            "badges": [],
-            "commission": null
-          },
-          "promotion": null,
-          "badges": [],
-          "notes": [],
-          "availability": null,
-          "stop_sale": null,
-          "is_booking_available": null,
-          "is_dynamic": false,
-          "pax_adl": [],
-          "pax_chd": [],
-          "children_ages": []
-        }
-      ],
-      "media": [
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bless-55_.jpg",
-          "alt": "Зона басейну курорту з пальмами та видом на пляж під ясним блакитним небом. - Зона басейну курорту з пальмами та видом на пляж під ясним блакитним небом."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/31147/photos/NADA-RESOR.jpg",
-          "alt": "Вечірній вигляд на зону басейну з дерев'яним мостом та шезлонгами. - Вечірній вигляд на зону басейну з дерев'яним мостом та шезлонгами."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/31147/photos/NADA-RESORT-316-.jpg",
-          "alt": "Зона басейну з пальмами та шезлонгами на сутінках. - Зона басейну з пальмами та шезлонгами на сутінках."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-55.jpg",
-          "alt": "Велика зовнішня шахова дошка з великими фігурами та лавками. - Велика зовнішня шахова дошка з великими фігурами та лавками."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/31147/photos/NADA-RESORT-377.jpg",
-          "alt": "Пара йде уздовж пляжу з пальмами та солом'яними парасольками. - Пара йде уздовж пляжу з пальмами та солом'яними парасольками."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-170.jpg",
-          "alt": "Пара йде по пляжу з пальмами та парасольками. - Пара йде по пляжу з пальмами та парасольками."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-200.jpg",
-          "alt": "Діти спускаються з кольорових водних гірок у басейн. - Діти спускаються з кольорових водних гірок у басейн."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bless-50.jpg",
-          "alt": "Вид на море з напоями на столі та пляжними парасольками. - Вид на море з напоями на столі та пляжними парасольками."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-64.jpg",
-          "alt": "Пляж з шезлонгами та парасольками під ясним небом. - Пляж з шезлонгами та парасольками під ясним небом."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-188.jpg",
-          "alt": "Крупний план кута будівлі з блакитною решіткою та ясним небом. - Крупний план кута будівлі з блакитною решіткою та ясним небом."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/31147/photos/12-Copy.jpg",
-          "alt": "Традиційна палатка з подушками, кальяном і верблюдами поблизу на заході сонця. - Традиційна палатка з подушками, кальяном і верблюдами поблизу на заході сонця."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-138.jpg",
-          "alt": "Простора лобі готелю з синіми стільцями та декоративними колонами. - Простора лобі готелю з синіми стільцями та декоративними колонами."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-119.jpg",
-          "alt": "Елегантне лобі готелю з декоративними люстрами та синіми акцентами. - Елегантне лобі готелю з декоративними люстрами та синіми акцентами."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-120.jpg",
-          "alt": "Яскраве лобі готелю з синіми стільцями та великим круглим дизайном стелі. - Яскраве лобі готелю з синіми стільцями та великим круглим дизайном стелі."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-118.jpg",
-          "alt": "Лобі готелю з синіми стільцями та видом на відкриту територію. - Лобі готелю з синіми стільцями та видом на відкриту територію."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-136.jpg",
-          "alt": "Магазин сувенірів, що демонструє різні місцеві ремесла та дрібнички. - Магазин сувенірів, що демонструє різні місцеві ремесла та дрібнички."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-116.jpg",
-          "alt": "Сходи, що ведуть на верхні поверхи готелю з декоративними муралами. - Сходи, що ведуть на верхні поверхи готелю з декоративними муралами."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-191.jpg",
-          "alt": "Центр дайвінгу з обладнанням та гідрокостюмами, виставленими на вулиці. - Центр дайвінгу з обладнанням та гідрокостюмами, виставленими на вулиці."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-152.jpg",
-          "alt": "Відкрита зона для сидіння з синіми стільцями та столами під затіненим перголою. - Відкрита зона для сидіння з синіми стільцями та столами під затіненим перголою."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-250.jpg",
-          "alt": "Зона відпочинку з великими вікнами, що відкривають вид на басейн і пальми. - Зона відпочинку з великими вікнами, що відкривають вид на басейн і пальми."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bless-47.jpg",
-          "alt": "Стіл для сніданку, накритий різними стравами та напоями з видом на басейн. - Стіл для сніданку, накритий різними стравами та напоями з видом на басейн."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-130.jpg",
-          "alt": "Обідня зона з дерев'яними столами та стільцями, накритими для їжі. - Обідня зона з дерев'яними столами та стільцями, накритими для їжі."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-88.jpg",
-          "alt": "Простора обідня зона з дерев'яними столами та стільцями, готова для гостей. - Простора обідня зона з дерев'яними столами та стільцями, готова для гостей."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-151.jpg",
-          "alt": "Відкрита зона для їжі з дерев'яними столами та стільцями під затіненим навісом. - Відкрита зона для їжі з дерев'яними столами та стільцями під затіненим навісом."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-129.jpg",
-          "alt": "Яскрава зона відпочинку з візерунковими сидіннями та декоративним настінним мистецтвом. - Яскрава зона відпочинку з візерунковими сидіннями та декоративним настінним мистецтвом."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-154.jpg",
-          "alt": "Барна зона з прилавком, на якому виставлені напої, та місцями для гостей. - Барна зона з прилавком, на якому виставлені напої, та місцями для гостей."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-114.jpg",
-          "alt": "Вітрина аптеки з різними медичними товарами та ліками. - Вітрина аптеки з різними медичними товарами та ліками."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-122.jpg",
-          "alt": "Відкрита тераса з білими стільцями та столами з видом на сад. - Відкрита тераса з білими стільцями та столами з видом на сад."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-255.jpg",
-          "alt": "Спортивна зона з тренажерами, включаючи бігові доріжки та ваги. - Спортивна зона з тренажерами, включаючи бігові доріжки та ваги."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-219.jpg",
-          "alt": "Місцевий чоловік веде верблюда уздовж пляжу під ясним блакитним небом. - Місцевий чоловік веде верблюда уздовж пляжу під ясним блакитним небом."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-150.jpg",
-          "alt": "Настільний теніс з синім столом і ракетками в зоні відпочинку. - Настільний теніс з синім столом і ракетками в зоні відпочинку."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-137.jpg",
-          "alt": "Зона більярду з двома столами та декоративним настінним мистецтвом. - Зона більярду з двома столами та декоративним настінним мистецтвом."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-256.jpg",
-          "alt": "Тенісний корт з сіткою та пальмами на задньому плані. - Тенісний корт з сіткою та пальмами на задньому плані."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-227.jpg",
-          "alt": "Дитячий майданчик з кольоровим обладнанням, включаючи гірки та гойдалки. - Дитячий майданчик з кольоровим обладнанням, включаючи гірки та гойдалки."
-        }
-      ],
-      "links": [
-        {
-          "type": "agent_hotel_page",
-          "link": "https://agent.joinup.ua/uk/hotel/32581"
-        }
-      ]
-    },
-    {
-      "hotel": {
         "id": "36195",
         "name": "Eagles Down Town Zahabia Resort (ex.Zahabia Village)",
         "category": {
@@ -808,7 +166,7 @@
       },
       "offers": [
         {
-          "id": "0x430A0000002800000001450000000900000E130000000000F4D967B48000000004717A0700008D630000B8400000164100000006000000000000000000000001000564DBB48700000700000000009155DC0000000302020000636363B4800000B4870000020000000024000000000000000100000000385CBEF2000476B20000172200000000",
+          "id": "0x430A0000002800000001450000000900000E130000000000F4D967B48000000004717A0700008D630000B840000016410000000600000000000000000000000100056982B487000007000000000069A99C0000000302020000636363B4800000B4870000020000000024000000000000000100000000385CBEF2000476B20000172200000000",
           "from": {
             "id": "325",
             "name": "Кишинів",
@@ -925,7 +283,7 @@
                 "title": "Base-1-RMO/291194",
                 "type": "tour",
                 "price": {
-                  "price": "50542.00",
+                  "price": "36745.00",
                   "currency": {
                     "code": "UAH",
                     "sign": "₴"
@@ -937,7 +295,7 @@
             "average_history_price": null,
             "full_price": null,
             "total_price": {
-              "price": "50542.00",
+              "price": "36745.00",
               "currency": {
                 "code": "UAH",
                 "sign": "₴"
@@ -1444,7 +802,7 @@
       },
       "offers": [
         {
-          "id": "0x430A0000002800000001450000000900000E130000000000F4D9B8B48000000004717A070000ED2B0000B8400000164100000006000000000000000000000001000564DBB48700000700000000009428840000000302020000636363B4800000B487000002000000002400000000000000010000000038627817000476B20000172200000000",
+          "id": "0x430A0000002800000001450000000900000E130000000000F4D9B8B48000000004717A070000ED2B0000B840000016410000000600000000000000000000000100056982B48700000700000000006C7C440000000302020000636363B4800000B487000002000000002400000000000000010000000038627817000476B20000172200000000",
           "from": {
             "id": "325",
             "name": "Кишинів",
@@ -1561,7 +919,7 @@
                 "title": "Base-1-RMO/291194",
                 "type": "tour",
                 "price": {
-                  "price": "51524.00",
+                  "price": "37727.00",
                   "currency": {
                     "code": "UAH",
                     "sign": "₴"
@@ -1573,7 +931,7 @@
             "average_history_price": null,
             "full_price": null,
             "total_price": {
-              "price": "51524.00",
+              "price": "37727.00",
               "currency": {
                 "code": "UAH",
                 "sign": "₴"
@@ -1922,492 +1280,6 @@
     },
     {
       "hotel": {
-        "id": "57914",
-        "name": "Sun & Sea Hotel Hurghada",
-        "category": {
-          "category": "3",
-          "name": "3 - Три зірки"
-        },
-        "badges": [],
-        "descriptions": [
-          {
-            "title": "Опис",
-            "description": "Невеликий затишний готель у самому центрі Хургади для економічного відпочинку. Поруч зона з безліччю кафе, барів та сувенірних магазинів.",
-            "type": "general"
-          }
-        ],
-        "media": [
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40789/photos/Main-Pool-2.jpg",
-            "alt": "Готельна будівля з басейном, оточеним пальмами під ясним блакитним небом. - Готельна будівля з басейном, оточеним пальмами під ясним блакитним небом."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40789/photos/Pool-1.jpg",
-            "alt": "Близький вигляд готельної будівлі з балконами та басейном попереду. - Близький вигляд готельної будівлі з балконами та басейном попереду."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40789/photos/Main-Entrance.jpg",
-            "alt": "Зовнішній вигляд готелю з вивіскою та пальмами попереду. - Зовнішній вигляд готелю з вивіскою та пальмами попереду."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40789/photos/pool-1.jpg",
-            "alt": "Інший кут готельної будівлі, що демонструє зону басейну та балкони. - Інший кут готельної будівлі, що демонструє зону басейну та балкони."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40789/photos/Main-Pool-1.jpg",
-            "alt": "Близький вигляд зони басейну з пальмами та шезлонгами. - Близький вигляд зони басейну з пальмами та шезлонгами."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40789/photos/Pool-View-Room.jpg",
-            "alt": "Вид на балкони готелю та пальми з внутрішнього двору. - Вид на балкони готелю та пальми з внутрішнього двору."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40789/photos/Pool-Aqua.jpg",
-            "alt": "Зона басейну з водною гіркою та пальмами на задньому плані. - Зона басейну з водною гіркою та пальмами на задньому плані."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40789/photos/Hotel-Beach.jpg",
-            "alt": "Пляжна зона з солом'яними парасольками та шезлонгами біля води. - Пляжна зона з солом'яними парасольками та шезлонгами біля води."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40789/photos/Beach-Over-View2.jpg",
-            "alt": "Ще один вигляд пляжної зони з парасольками та шезлонгами. - Ще один вигляд пляжної зони з парасольками та шезлонгами."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40789/photos/Hotel-Landescape.jpg",
-            "alt": "Внутрішній двір з пальмами та місцями для сидіння для гостей. - Внутрішній двір з пальмами та місцями для сидіння для гостей."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40789/photos/Reception-Lobby-Bar.jpg",
-            "alt": "Лобі з бірштанговими диванами та стійкою реєстрації. - Лобі з бірштанговими диванами та стійкою реєстрації."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40789/photos/Reception.jpg",
-            "alt": "Зона відпочинку з бірштанговими диванами та скляним кавовим столиком. - Зона відпочинку з бірштанговими диванами та скляним кавовим столиком."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40789/photos/Restaurant-Lunch.jpg",
-            "alt": "Обідня зона з накритими столами та фіолетовими стільцями. - Обідня зона з накритими столами та фіолетовими стільцями."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40789/photos/Main-Restaurant-Dinner.jpg",
-            "alt": "Обідня зона з червоними скатертинами та фіолетовими стільцями. - Обідня зона з червоними скатертинами та фіолетовими стільцями."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40789/photos/Lunch-Setup.jpg",
-            "alt": "Обідня зона з накритими столами та кольоровим декором. - Обідня зона з накритими столами та кольоровим декором."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40789/photos/1-27.jpg",
-            "alt": "Sun & Sea Hotel Hurghada"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40789/photos/2-24.jpg",
-            "alt": "Sun & Sea Hotel Hurghada"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40789/photos/3-19.jpg",
-            "alt": "Десертний буфет з різноманітними солодощами та випічкою. - Десертний буфет з різноманітними солодощами та випічкою."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40789/photos/Desert-Buffett.jpg",
-            "alt": "Зона шведського столу з салатами та соусами. - Зона шведського столу з салатами та соусами."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40789/photos/Dinner-Buffet.jpg",
-            "alt": "Зона шведського столу з різними стравами та десертами. - Зона шведського столу з різними стравами та десертами."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40789/photos/Hot-Section-Buffett.jpg",
-            "alt": "Зона шведського столу з рисом та різними стравами. - Зона шведського столу з рисом та різними стравами."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40789/photos/Sun-Sea-Beach.jpg",
-            "alt": "Пляжна зона з шезлонгами та солом'яними парасольками. - Пляжна зона з шезлонгами та солом'яними парасольками."
-          }
-        ],
-        "special_info": {
-          "check_in": null,
-          "check_out": null,
-          "group": null,
-          "total_rooms": null
-        },
-        "location": {
-          "city": "Hurghada",
-          "country": "Egypt",
-          "full_address": "",
-          "latitude": "27.209855844051",
-          "longitude": "33.84487",
-          "region": [
-            {
-              "id": "c_9",
-              "name": "Єгипет",
-              "slug": "egypt",
-              "code_iso": "EG",
-              "type": "country",
-              "sub_regions": [],
-              "departure_cities": [],
-              "price_from": null
-            },
-            {
-              "id": "o_1313",
-              "name": "Хургада",
-              "slug": "hurghada",
-              "code_iso": "",
-              "type": "city",
-              "sub_regions": [],
-              "departure_cities": [],
-              "price_from": null
-            }
-          ],
-          "description": "",
-          "additional_info": []
-        }
-      },
-      "offers": [
-        {
-          "id": "0x430A0000002800000001450000000900000E130000000000DCBC3EB48300000004717B070000E23A0000B84000001641000000060000000000000000000002370005673FB48A000006000000000098353C0000000302020000636363B4830000B48900000200000000240000000000000001000000001B59D18C000474340000172200000000",
-          "from": {
-            "id": "325",
-            "name": "Кишинів",
-            "slug": "",
-            "code_iso": "",
-            "type": "city",
-            "sub_regions": [],
-            "departure_cities": [],
-            "price_from": null
-          },
-          "stay": {
-            "label": "6+1",
-            "stay": 7
-          },
-          "date_start": "2026-07-10",
-          "date_end": "2026-07-17",
-          "board": {
-            "board_type": "AI",
-            "name": "Все включено",
-            "code": "6"
-          },
-          "rooms": [
-            {
-              "code": "47168",
-              "name": "Standard Room ",
-              "placement": "2AD"
-            }
-          ],
-          "transports": [
-            {
-              "type": "flight",
-              "direction": "outbound",
-              "availability": null,
-              "params": {
-                "class": null,
-                "flight_number": "8309",
-                "marketing_airline": {
-                  "name": "SkyUp Airlines",
-                  "code": "4V",
-                  "logo": null,
-                  "plane": null
-                },
-                "operating_airline": null,
-                "departure": {
-                  "code": "RMO",
-                  "name": "Chişinău International Airport",
-                  "timezone": "Europe/Chisinau"
-                },
-                "departure_terminal": "",
-                "arrival": {
-                  "code": "HRG",
-                  "name": "Hurghada International Airport",
-                  "timezone": "Africa/Cairo"
-                },
-                "arrival_terminal": "",
-                "std": "2026-07-10T00:05:00+00:00",
-                "sta": "2026-07-10T03:35:00+00:00",
-                "luggage": [
-                  {
-                    "type": "HNDL",
-                    "weight": 9
-                  },
-                  {
-                    "type": "CBAG",
-                    "weight": 23
-                  }
-                ]
-              }
-            },
-            {
-              "type": "flight",
-              "direction": "inbound",
-              "availability": null,
-              "params": {
-                "class": null,
-                "flight_number": "8310",
-                "marketing_airline": {
-                  "name": "SkyUp Airlines",
-                  "code": "4V",
-                  "logo": null,
-                  "plane": null
-                },
-                "operating_airline": null,
-                "departure": {
-                  "code": "HRG",
-                  "name": "Hurghada International Airport",
-                  "timezone": "Africa/Cairo"
-                },
-                "departure_terminal": "",
-                "arrival": {
-                  "code": "RMO",
-                  "name": "Chişinău International Airport",
-                  "timezone": "Europe/Chisinau"
-                },
-                "arrival_terminal": "",
-                "std": "2026-07-17T04:35:00+00:00",
-                "sta": "2026-07-17T08:20:00+00:00",
-                "luggage": [
-                  {
-                    "type": "HNDL",
-                    "weight": 9
-                  },
-                  {
-                    "type": "CBAG",
-                    "weight": 23
-                  }
-                ]
-              }
-            }
-          ],
-          "price": {
-            "components": [
-              {
-                "title": "Base2-RMO/291195",
-                "type": "tour",
-                "price": {
-                  "price": "52932.00",
-                  "currency": {
-                    "code": "UAH",
-                    "sign": "₴"
-                  }
-                }
-              }
-            ],
-            "per_pax_price": null,
-            "average_history_price": null,
-            "full_price": null,
-            "total_price": {
-              "price": "52932.00",
-              "currency": {
-                "code": "UAH",
-                "sign": "₴"
-              }
-            },
-            "full_installment_price": null,
-            "installment_price": null,
-            "payment_price": null,
-            "total_price_description": "Повна оплата доступна карткою або через Apple/Google Pay.",
-            "installment_price_description": "",
-            "badges": [],
-            "commission": null
-          },
-          "promotion": null,
-          "badges": [],
-          "notes": [],
-          "availability": null,
-          "stop_sale": null,
-          "is_booking_available": null,
-          "is_dynamic": false,
-          "pax_adl": [],
-          "pax_chd": [],
-          "children_ages": []
-        }
-      ],
-      "media": [
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40789/photos/Main-Pool-2.jpg",
-          "alt": "Готельна будівля з басейном, оточеним пальмами під ясним блакитним небом. - Готельна будівля з басейном, оточеним пальмами під ясним блакитним небом."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40789/photos/Pool-1.jpg",
-          "alt": "Близький вигляд готельної будівлі з балконами та басейном попереду. - Близький вигляд готельної будівлі з балконами та басейном попереду."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40789/photos/Main-Entrance.jpg",
-          "alt": "Зовнішній вигляд готелю з вивіскою та пальмами попереду. - Зовнішній вигляд готелю з вивіскою та пальмами попереду."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40789/photos/pool-1.jpg",
-          "alt": "Інший кут готельної будівлі, що демонструє зону басейну та балкони. - Інший кут готельної будівлі, що демонструє зону басейну та балкони."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40789/photos/Main-Pool-1.jpg",
-          "alt": "Близький вигляд зони басейну з пальмами та шезлонгами. - Близький вигляд зони басейну з пальмами та шезлонгами."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40789/photos/Pool-View-Room.jpg",
-          "alt": "Вид на балкони готелю та пальми з внутрішнього двору. - Вид на балкони готелю та пальми з внутрішнього двору."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40789/photos/Pool-Aqua.jpg",
-          "alt": "Зона басейну з водною гіркою та пальмами на задньому плані. - Зона басейну з водною гіркою та пальмами на задньому плані."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40789/photos/Hotel-Beach.jpg",
-          "alt": "Пляжна зона з солом'яними парасольками та шезлонгами біля води. - Пляжна зона з солом'яними парасольками та шезлонгами біля води."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40789/photos/Beach-Over-View2.jpg",
-          "alt": "Ще один вигляд пляжної зони з парасольками та шезлонгами. - Ще один вигляд пляжної зони з парасольками та шезлонгами."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40789/photos/Hotel-Landescape.jpg",
-          "alt": "Внутрішній двір з пальмами та місцями для сидіння для гостей. - Внутрішній двір з пальмами та місцями для сидіння для гостей."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40789/photos/Reception-Lobby-Bar.jpg",
-          "alt": "Лобі з бірштанговими диванами та стійкою реєстрації. - Лобі з бірштанговими диванами та стійкою реєстрації."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40789/photos/Reception.jpg",
-          "alt": "Зона відпочинку з бірштанговими диванами та скляним кавовим столиком. - Зона відпочинку з бірштанговими диванами та скляним кавовим столиком."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40789/photos/Restaurant-Lunch.jpg",
-          "alt": "Обідня зона з накритими столами та фіолетовими стільцями. - Обідня зона з накритими столами та фіолетовими стільцями."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40789/photos/Main-Restaurant-Dinner.jpg",
-          "alt": "Обідня зона з червоними скатертинами та фіолетовими стільцями. - Обідня зона з червоними скатертинами та фіолетовими стільцями."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40789/photos/Lunch-Setup.jpg",
-          "alt": "Обідня зона з накритими столами та кольоровим декором. - Обідня зона з накритими столами та кольоровим декором."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40789/photos/1-27.jpg",
-          "alt": "Sun & Sea Hotel Hurghada"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40789/photos/2-24.jpg",
-          "alt": "Sun & Sea Hotel Hurghada"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40789/photos/3-19.jpg",
-          "alt": "Десертний буфет з різноманітними солодощами та випічкою. - Десертний буфет з різноманітними солодощами та випічкою."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40789/photos/Desert-Buffett.jpg",
-          "alt": "Зона шведського столу з салатами та соусами. - Зона шведського столу з салатами та соусами."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40789/photos/Dinner-Buffet.jpg",
-          "alt": "Зона шведського столу з різними стравами та десертами. - Зона шведського столу з різними стравами та десертами."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40789/photos/Hot-Section-Buffett.jpg",
-          "alt": "Зона шведського столу з рисом та різними стравами. - Зона шведського столу з рисом та різними стравами."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40789/photos/Sun-Sea-Beach.jpg",
-          "alt": "Пляжна зона з шезлонгами та солом'яними парасольками. - Пляжна зона з шезлонгами та солом'яними парасольками."
-        }
-      ],
-      "links": [
-        {
-          "type": "agent_hotel_page",
-          "link": "https://agent.joinup.ua/uk/hotel/57914"
-        }
-      ]
-    },
-    {
-      "hotel": {
         "id": "47539",
         "name": "Viva Blue Resort Soma Bay (Adults Only 12+)",
         "category": {
@@ -2626,7 +1498,7 @@
       },
       "offers": [
         {
-          "id": "0x430A0000002800000001450000000900000E130000000000F4D987B48000000004717A070000B9B30000319C0000164100000005000000000000000000000001000564DBB4870000070000000000997D5C0000000302020000636363B4800000B4870000020000000024000000000000000100000000385B09AE000476B20000172200000000",
+          "id": "0x430A0000002800000001450000000900000E130000000000F4D987B48000000004717A070000B9B30000319C000016410000000500000000000000000000000100056982B487000007000000000071D11C0000000302020000636363B4800000B4870000020000000024000000000000000100000000385B09AE000476B20000172200000000",
           "from": {
             "id": "325",
             "name": "Кишинів",
@@ -2743,7 +1615,7 @@
                 "title": "Base-1-RMO/291194",
                 "type": "tour",
                 "price": {
-                  "price": "53378.00",
+                  "price": "39581.00",
                   "currency": {
                     "code": "UAH",
                     "sign": "₴"
@@ -2755,7 +1627,7 @@
             "average_history_price": null,
             "full_price": null,
             "total_price": {
-              "price": "53378.00",
+              "price": "39581.00",
               "currency": {
                 "code": "UAH",
                 "sign": "₴"
@@ -3298,7 +2170,7 @@
       },
       "offers": [
         {
-          "id": "0x430A0000002800000001450000000900000E130000000000F4D8FDB48000000004717A070000668F0000B8400000164100000006000000000000000000000001000564DBB48700000700000000009A1DE80000000302020000636363B4800000B48700000200000000240000000000000001000000002CA3F9AE000476B20000172200000000",
+          "id": "0x430A0000002800000001450000000900000E130000000000F4D8FDB48000000004717A070000668F0000B840000016410000000600000000000000000000000100056982B48700000700000000007271A80000000302020000636363B4800000B48700000200000000240000000000000001000000002CA3F9AE000476B20000172200000000",
           "from": {
             "id": "325",
             "name": "Кишинів",
@@ -3415,7 +2287,7 @@
                 "title": "Base-1-RMO/291194",
                 "type": "tour",
                 "price": {
-                  "price": "53596.00",
+                  "price": "39799.00",
                   "currency": {
                     "code": "UAH",
                     "sign": "₴"
@@ -3427,7 +2299,7 @@
             "average_history_price": null,
             "full_price": null,
             "total_price": {
-              "price": "53596.00",
+              "price": "39799.00",
               "currency": {
                 "code": "UAH",
                 "sign": "₴"
@@ -4006,7 +2878,7 @@
       },
       "offers": [
         {
-          "id": "0x430A0000002800000001450000000900000E130000000000F4D9E2B48000000004717A07000129ED00016B920000164100000005000000000000000000000001000564DBB48700000700000000009ABE740000000302020000636363B4800000B48700000200000000240000000000000001000000003868B296000476B20000172200000000",
+          "id": "0x430A0000002800000001450000000900000E130000000000F4D9E2B48000000004717A07000129ED00016B92000016410000000500000000000000000000000100056982B48700000700000000007312340000000302020000636363B4800000B48700000200000000240000000000000001000000003868B296000476B20000172200000000",
           "from": {
             "id": "325",
             "name": "Кишинів",
@@ -4123,7 +2995,7 @@
                 "title": "Base-1-RMO/291194",
                 "type": "tour",
                 "price": {
-                  "price": "53814.00",
+                  "price": "40017.00",
                   "currency": {
                     "code": "UAH",
                     "sign": "₴"
@@ -4135,7 +3007,7 @@
             "average_history_price": null,
             "full_price": null,
             "total_price": {
-              "price": "53814.00",
+              "price": "40017.00",
               "currency": {
                 "code": "UAH",
                 "sign": "₴"
@@ -4612,7 +3484,7 @@
       },
       "offers": [
         {
-          "id": "0x430A0000002800000001450000000900000E130000000000F4D980B48000000004717A070000A3590000B8400000164100000006000000000000000000000001000564DBB48700000700000000009C50040000000302020000636363B4800000B48700000200000000240000000000000001000000001311A0D3000476B20000172200000000",
+          "id": "0x430A0000002800000001450000000900000E130000000000F4D980B48000000004717A070000A3590000B840000016410000000600000000000000000000000100056982B487000007000000000074A3C40000000302020000636363B4800000B48700000200000000240000000000000001000000001311A0D3000476B20000172200000000",
           "from": {
             "id": "325",
             "name": "Кишинів",
@@ -4729,7 +3601,7 @@
                 "title": "Base-1-RMO/291194",
                 "type": "tour",
                 "price": {
-                  "price": "54359.00",
+                  "price": "40563.00",
                   "currency": {
                     "code": "UAH",
                     "sign": "₴"
@@ -4741,7 +3613,7 @@
             "average_history_price": null,
             "full_price": null,
             "total_price": {
-              "price": "54359.00",
+              "price": "40563.00",
               "currency": {
                 "code": "UAH",
                 "sign": "₴"
@@ -5080,7 +3952,7 @@
       },
       "offers": [
         {
-          "id": "0x430A0000002800000001450000000900000E130000000000F4D906B48000000004717A07000066E30000B8400000164100000006000000000000000000000001000564DBB48700000700000000009C50040000000302020000636363B4800000B487000002000000002400000000000000010000000012D01259000476B20000172200000000",
+          "id": "0x430A0000002800000001450000000900000E130000000000F4D906B48000000004717A07000066E30000B840000016410000000600000000000000000000000100056982B487000007000000000074A3C40000000302020000636363B4800000B487000002000000002400000000000000010000000012D01259000476B20000172200000000",
           "from": {
             "id": "325",
             "name": "Кишинів",
@@ -5197,7 +4069,7 @@
                 "title": "Base-1-RMO/291194",
                 "type": "tour",
                 "price": {
-                  "price": "54359.00",
+                  "price": "40563.00",
                   "currency": {
                     "code": "UAH",
                     "sign": "₴"
@@ -5209,7 +4081,7 @@
             "average_history_price": null,
             "full_price": null,
             "total_price": {
-              "price": "54359.00",
+              "price": "40563.00",
               "currency": {
                 "code": "UAH",
                 "sign": "₴"
@@ -5301,6 +4173,498 @@
         {
           "type": "agent_hotel_page",
           "link": "https://agent.joinup.ua/uk/hotel/26339"
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "id": "27524",
+        "name": "Mosaique El Gouna",
+        "category": {
+          "category": "4",
+          "name": "4 - Чотири зірки"
+        },
+        "badges": [],
+        "descriptions": [
+          {
+            "title": "Опис",
+            "description": "Готель, розташований за кілька хвилин ходьби від основних визначних пам'яток Ель-Гуни, пропонує гостям краєвиди на яхти в пристані. На території є відкриті басейни для дорослих та дітей, ресторан, два бари. Номери обладнані балконом або терасою, кондиціонером, сейфом, міні-баром та душем з феном.",
+            "type": "general"
+          }
+        ],
+        "media": [
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-El-Gouna-5.jpg",
+            "alt": "Вид на зону басейну, оточену будівлями та яскравими квітами. - Вид на зону басейну, оточену будівлями та яскравими квітами."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-El-Gouna-1.jpg",
+            "alt": "Інший ракурс зони басейну з шезлонгами та парасольками. - Інший ракурс зони басейну з шезлонгами та парасольками."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-El-Gouna-2.jpg",
+            "alt": "Чіткий вид на басейн, що відображає навколишню архітектуру. - Чіткий вид на басейн, що відображає навколишню архітектуру."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-El-Gouna-3.jpg",
+            "alt": "Вид з балкона на зону басейну з місцями для сидіння. - Вид з балкона на зону басейну з місцями для сидіння."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-El-Gouna-4.jpg",
+            "alt": "Вид з балкона з квітами та зоною басейну на задньому плані. - Вид з балкона з квітами та зоною басейну на задньому плані."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-exterior.jpg",
+            "alt": "Зовнішній вигляд готелю з пальмами та водними елементами. - Зовнішній вигляд готелю з пальмами та водними елементами."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-facade-2.jpg",
+            "alt": "Фронтальний вигляд входу в готель з пальмами вздовж стежки. - Фронтальний вигляд входу в готель з пальмами вздовж стежки."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-El-Gouna-Marina-Hotel-frontview.jpg",
+            "alt": "Бічний вигляд готелю, що демонструє його архітектуру та пальми. - Бічний вигляд готелю, що демонструє його архітектуру та пальми."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/El-Gouna-Red-Sea-New-Marina-Mosaique-Hotel-Top-View.jpg",
+            "alt": "Аерофотознімок марини з яхтами та прибережними будівлями. - Аерофотознімок марини з яхтами та прибережними будівлями."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/El-Gouna-aerial-view-Marina-moods.jpg",
+            "alt": "Аерофотознімок пляжної зони з шезлонгами та пляжними парасолями. - Аерофотознімок пляжної зони з шезлонгами та пляжними парасолями."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-hotel-El-Gouna-pool-Egypt.jpg",
+            "alt": "Зона біля басейну з шезлонгами та столом для напоїв. - Зона біля басейну з шезлонгами та столом для напоїв."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-marina-promenade.jpg",
+            "alt": "Вечірній вигляд на територію готелю з підсвіченими пальмами. - Вечірній вигляд на територію готелю з підсвіченими пальмами."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-kids-Pool.jpg",
+            "alt": "Зона басейну з затіненими місцями для сидіння та чистою блакитною водою. - Зона басейну з затіненими місцями для сидіння та чистою блакитною водою."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-Reception.jpg",
+            "alt": "Реєстраційна зона з кольоровими сидіннями та декоративними стінними елементами. - Реєстраційна зона з кольоровими сидіннями та декоративними стінними елементами."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-hotel-lobby-El-Gouna-1.jpg",
+            "alt": "Ще один вигляд зони реєстрації з яскравими сидіннями та декором. - Ще один вигляд зони реєстрації з яскравими сидіннями та декором."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-hotel-lobby-El-Gouna-2.jpg",
+            "alt": "Простора лобі з кольоровими сидіннями та фонтаном у центрі. - Простора лобі з кольоровими сидіннями та фонтаном у центрі."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-lobby-bar-cocktails.jpg",
+            "alt": "Крупний план напоїв на барній стійці з декоративним фоном. - Крупний план напоїв на барній стійці з декоративним фоном."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-Restaurant-indoor-area.jpg",
+            "alt": "Обідня зона з видом на марину та пальми за вікном. - Обідня зона з видом на марину та пальми за вікном."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-Red-Sea-lobby.jpg",
+            "alt": "Простора лобі з високими стелями та декоративними світильниками. - Простора лобі з високими стелями та декоративними світильниками."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-main-restaurant-chefs.jpg",
+            "alt": "Шеф-кухарі готують їжу в обідній зоні з привітною атмосферою. - Шеф-кухарі готують їжу в обідній зоні з привітною атмосферою."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Merbey-Restaurant-Mosaique-Hotel-El-Gouna-Red-Sea-Egypt.jpg",
+            "alt": "Елегантна обідня зона з арками та стильними столовими наборами. - Елегантна обідня зона з арками та стильними столовими наборами."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/el-gouna-red-sea-beaches-egypt-marina-beach-club.jpeg",
+            "alt": "Пляжна зона з солом'яними парасолями та шезлонгами на піску. - Пляжна зона з солом'яними парасолями та шезлонгами на піску."
+          }
+        ],
+        "special_info": {
+          "check_in": {
+            "name": "Реєстрація",
+            "value": "14:00"
+          },
+          "check_out": {
+            "name": "Виїзд з готелю",
+            "value": "12:00"
+          },
+          "group": null,
+          "total_rooms": null
+        },
+        "location": {
+          "city": "El Gouna",
+          "country": "Egypt",
+          "full_address": "",
+          "latitude": "27.412161131106",
+          "longitude": "33.67244583573",
+          "region": [
+            {
+              "id": "c_9",
+              "name": "Єгипет",
+              "slug": "egypt",
+              "code_iso": "EG",
+              "type": "country",
+              "sub_regions": [],
+              "departure_cities": [],
+              "price_from": null
+            },
+            {
+              "id": "o_1318",
+              "name": "Ель-Гуна",
+              "slug": "el-gouna",
+              "code_iso": "",
+              "type": "city",
+              "sub_regions": [],
+              "departure_cities": [],
+              "price_from": null
+            }
+          ],
+          "description": "",
+          "additional_info": []
+        }
+      },
+      "offers": [
+        {
+          "id": "0x430A0000002800000001450000000900000E130000000000F4D945B48000000004717A0700006B840000003A000016410000000400000000000000000000000100056982B487000007000000000074A3C40000000302020000636363B4800000B487000002000000002400000000000000010000000038612BF0000476B20000172200000000",
+          "from": {
+            "id": "325",
+            "name": "Кишинів",
+            "slug": "",
+            "code_iso": "",
+            "type": "city",
+            "sub_regions": [],
+            "departure_cities": [],
+            "price_from": null
+          },
+          "stay": {
+            "label": "7",
+            "stay": 7
+          },
+          "date_start": "2026-07-07",
+          "date_end": "2026-07-14",
+          "board": {
+            "board_type": "BB",
+            "name": "Ліжко та сніданок",
+            "code": "4"
+          },
+          "rooms": [
+            {
+              "code": "58",
+              "name": "Deluxe Room",
+              "placement": "2AD"
+            }
+          ],
+          "transports": [
+            {
+              "type": "flight",
+              "direction": "outbound",
+              "availability": null,
+              "params": {
+                "class": null,
+                "flight_number": "8311",
+                "marketing_airline": {
+                  "name": "SkyUp Airlines",
+                  "code": "4V",
+                  "logo": null,
+                  "plane": null
+                },
+                "operating_airline": null,
+                "departure": {
+                  "code": "RMO",
+                  "name": "Chişinău International Airport",
+                  "timezone": "Europe/Chisinau"
+                },
+                "departure_terminal": "",
+                "arrival": {
+                  "code": "HRG",
+                  "name": "Hurghada International Airport",
+                  "timezone": "Africa/Cairo"
+                },
+                "arrival_terminal": "",
+                "std": "2026-07-07T08:35:00+00:00",
+                "sta": "2026-07-07T12:05:00+00:00",
+                "luggage": [
+                  {
+                    "type": "HNDL",
+                    "weight": 9
+                  },
+                  {
+                    "type": "CBAG",
+                    "weight": 23
+                  }
+                ]
+              }
+            },
+            {
+              "type": "flight",
+              "direction": "inbound",
+              "availability": null,
+              "params": {
+                "class": null,
+                "flight_number": "8312",
+                "marketing_airline": {
+                  "name": "SkyUp Airlines",
+                  "code": "4V",
+                  "logo": null,
+                  "plane": null
+                },
+                "operating_airline": null,
+                "departure": {
+                  "code": "HRG",
+                  "name": "Hurghada International Airport",
+                  "timezone": "Africa/Cairo"
+                },
+                "departure_terminal": "",
+                "arrival": {
+                  "code": "RMO",
+                  "name": "Chişinău International Airport",
+                  "timezone": "Europe/Chisinau"
+                },
+                "arrival_terminal": "",
+                "std": "2026-07-14T13:05:00+00:00",
+                "sta": "2026-07-14T16:50:00+00:00",
+                "luggage": [
+                  {
+                    "type": "HNDL",
+                    "weight": 9
+                  },
+                  {
+                    "type": "CBAG",
+                    "weight": 23
+                  }
+                ]
+              }
+            }
+          ],
+          "price": {
+            "components": [
+              {
+                "title": "Base-1-RMO/291194",
+                "type": "tour",
+                "price": {
+                  "price": "40563.00",
+                  "currency": {
+                    "code": "UAH",
+                    "sign": "₴"
+                  }
+                }
+              }
+            ],
+            "per_pax_price": null,
+            "average_history_price": null,
+            "full_price": null,
+            "total_price": {
+              "price": "40563.00",
+              "currency": {
+                "code": "UAH",
+                "sign": "₴"
+              }
+            },
+            "full_installment_price": null,
+            "installment_price": null,
+            "payment_price": null,
+            "total_price_description": "Повна оплата доступна карткою або через Apple/Google Pay.",
+            "installment_price_description": "",
+            "badges": [],
+            "commission": null
+          },
+          "promotion": null,
+          "badges": [],
+          "notes": [],
+          "availability": null,
+          "stop_sale": null,
+          "is_booking_available": null,
+          "is_dynamic": false,
+          "pax_adl": [],
+          "pax_chd": [],
+          "children_ages": []
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-El-Gouna-5.jpg",
+          "alt": "Вид на зону басейну, оточену будівлями та яскравими квітами. - Вид на зону басейну, оточену будівлями та яскравими квітами."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-El-Gouna-1.jpg",
+          "alt": "Інший ракурс зони басейну з шезлонгами та парасольками. - Інший ракурс зони басейну з шезлонгами та парасольками."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-El-Gouna-2.jpg",
+          "alt": "Чіткий вид на басейн, що відображає навколишню архітектуру. - Чіткий вид на басейн, що відображає навколишню архітектуру."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-El-Gouna-3.jpg",
+          "alt": "Вид з балкона на зону басейну з місцями для сидіння. - Вид з балкона на зону басейну з місцями для сидіння."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-El-Gouna-4.jpg",
+          "alt": "Вид з балкона з квітами та зоною басейну на задньому плані. - Вид з балкона з квітами та зоною басейну на задньому плані."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-exterior.jpg",
+          "alt": "Зовнішній вигляд готелю з пальмами та водними елементами. - Зовнішній вигляд готелю з пальмами та водними елементами."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-facade-2.jpg",
+          "alt": "Фронтальний вигляд входу в готель з пальмами вздовж стежки. - Фронтальний вигляд входу в готель з пальмами вздовж стежки."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-El-Gouna-Marina-Hotel-frontview.jpg",
+          "alt": "Бічний вигляд готелю, що демонструє його архітектуру та пальми. - Бічний вигляд готелю, що демонструє його архітектуру та пальми."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/El-Gouna-Red-Sea-New-Marina-Mosaique-Hotel-Top-View.jpg",
+          "alt": "Аерофотознімок марини з яхтами та прибережними будівлями. - Аерофотознімок марини з яхтами та прибережними будівлями."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/El-Gouna-aerial-view-Marina-moods.jpg",
+          "alt": "Аерофотознімок пляжної зони з шезлонгами та пляжними парасолями. - Аерофотознімок пляжної зони з шезлонгами та пляжними парасолями."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-hotel-El-Gouna-pool-Egypt.jpg",
+          "alt": "Зона біля басейну з шезлонгами та столом для напоїв. - Зона біля басейну з шезлонгами та столом для напоїв."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-marina-promenade.jpg",
+          "alt": "Вечірній вигляд на територію готелю з підсвіченими пальмами. - Вечірній вигляд на територію готелю з підсвіченими пальмами."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-kids-Pool.jpg",
+          "alt": "Зона басейну з затіненими місцями для сидіння та чистою блакитною водою. - Зона басейну з затіненими місцями для сидіння та чистою блакитною водою."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-Reception.jpg",
+          "alt": "Реєстраційна зона з кольоровими сидіннями та декоративними стінними елементами. - Реєстраційна зона з кольоровими сидіннями та декоративними стінними елементами."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-hotel-lobby-El-Gouna-1.jpg",
+          "alt": "Ще один вигляд зони реєстрації з яскравими сидіннями та декором. - Ще один вигляд зони реєстрації з яскравими сидіннями та декором."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-hotel-lobby-El-Gouna-2.jpg",
+          "alt": "Простора лобі з кольоровими сидіннями та фонтаном у центрі. - Простора лобі з кольоровими сидіннями та фонтаном у центрі."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-lobby-bar-cocktails.jpg",
+          "alt": "Крупний план напоїв на барній стійці з декоративним фоном. - Крупний план напоїв на барній стійці з декоративним фоном."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-Restaurant-indoor-area.jpg",
+          "alt": "Обідня зона з видом на марину та пальми за вікном. - Обідня зона з видом на марину та пальми за вікном."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-Red-Sea-lobby.jpg",
+          "alt": "Простора лобі з високими стелями та декоративними світильниками. - Простора лобі з високими стелями та декоративними світильниками."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-main-restaurant-chefs.jpg",
+          "alt": "Шеф-кухарі готують їжу в обідній зоні з привітною атмосферою. - Шеф-кухарі готують їжу в обідній зоні з привітною атмосферою."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Merbey-Restaurant-Mosaique-Hotel-El-Gouna-Red-Sea-Egypt.jpg",
+          "alt": "Елегантна обідня зона з арками та стильними столовими наборами. - Елегантна обідня зона з арками та стильними столовими наборами."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/el-gouna-red-sea-beaches-egypt-marina-beach-club.jpeg",
+          "alt": "Пляжна зона з солом'яними парасолями та шезлонгами на піску. - Пляжна зона з солом'яними парасолями та шезлонгами на піску."
+        }
+      ],
+      "links": [
+        {
+          "type": "agent_hotel_page",
+          "link": "https://agent.joinup.ua/uk/hotel/27524"
         }
       ]
     },
@@ -5458,7 +4822,7 @@
       },
       "offers": [
         {
-          "id": "0x430A0000002800000001450000000900000E130000000000F4D98FB48000000004717A070000C1DC0000B8400000164100000004000000000000000000000001000564DBB48700000700000000009C50040000000302020000636363B4800000B4870000020000000024000000000000000100000000385B0C7A000476B20000172200000000",
+          "id": "0x430A0000002800000001450000000900000E130000000000F4D98FB48000000004717A070000C1DC0000B840000016410000000400000000000000000000000100056982B487000007000000000074A3C40000000302020000636363B4800000B4870000020000000024000000000000000100000000385B0C7A000476B20000172200000000",
           "from": {
             "id": "325",
             "name": "Кишинів",
@@ -5575,7 +4939,7 @@
                 "title": "Base-1-RMO/291194",
                 "type": "tour",
                 "price": {
-                  "price": "54359.00",
+                  "price": "40563.00",
                   "currency": {
                     "code": "UAH",
                     "sign": "₴"
@@ -5587,7 +4951,7 @@
             "average_history_price": null,
             "full_price": null,
             "total_price": {
-              "price": "54359.00",
+              "price": "40563.00",
               "currency": {
                 "code": "UAH",
                 "sign": "₴"
@@ -5711,12 +5075,360 @@
           "link": "https://agent.joinup.ua/uk/hotel/49628"
         }
       ]
+    },
+    {
+      "hotel": {
+        "id": "49627",
+        "name": "Captain's Inn El Gouna",
+        "category": {
+          "category": "3",
+          "name": "3 - Три зірки"
+        },
+        "badges": [],
+        "descriptions": [
+          {
+            "title": "Опис",
+            "description": "Captain’s Inn — це невеликий готель, ідеально розташований в красивій гавані Абу-Тіг, в самому модному місці — Ель-Гуна на узбережжі Червоного моря. В готелі знаходиться один з найпопулярніших ресторанівз великою терасою і столиками на набережній, звідки відкривається вид на блакитну воду причалу. Гості готелю Captain’s Inn також можуть відвідувати басейни готелю Ali Pasha, один з яких підігрівається взимку, а також піщаний пляж Marina Beach. Кілька багатомовних дайв-центрів, розташованих навколо пристані для яхт, роблять Captain’s Inn ідеальним дайвінг-готелем. Він також особливо популярний серед кайтсерферов, і любителів кайтбординга. Активні туристи і любителі вечірок будуть в захваті від усіх зручностей і можливостей відпочинку, пропонованих курортним містом Ель-Гуна.\n\nІнформація про структуру готелю і про номерний фонд:\n\nГотель складається з одного 3-х поверхового будинку.\nЗагальна кількість номерів — 56.\nРеновація - в готелі проведено капітальний ремонт.",
+            "type": "general"
+          }
+        ],
+        "media": [
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/51152/photos/El_Gouna_Red_Sea_Aerial_Shot_Abu_Tig_Marina-1-copy-3.jpeg",
+            "alt": "Захід сонця над мариною з яхтами та пальмами. - Захід сонця над мариною з яхтами та пальмами."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/51152/photos/OHM_Captains_Inn_El_Gouna_Red_Sea_Egypt_facade.jpeg",
+            "alt": "Жінка стоїть на балконі з видом на пальму. - Жінка стоїть на балконі з видом на пальму."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/51152/photos/El-Gouna-Red-Sea-Abu-Tig-Marina-Ali-Pasha-Hotel.jpeg",
+            "alt": "Аерознімок марини з човнами та навколишніми будівлями. - Аерознімок марини з човнами та навколишніми будівлями."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/51152/photos/Ancient_Sands_Golf_Resort_-Residences_El_Gouna_Red_Sea_The_Beach_-10-1.jpeg",
+            "alt": "Пляжна зона з солом'яними хатами та пальмами під блакитним небом. - Пляжна зона з солом'яними хатами та пальмами під блакитним небом."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/51152/photos/s-1.jpeg",
+            "alt": "Відкрита зона для обіду з столами з видом на марину. - Відкрита зона для обіду з столами з видом на марину."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/51152/photos/s.jpeg",
+            "alt": "Ресторан Marina Steakhouse з квітами та відкритими місцями для сидіння. - Ресторан Marina Steakhouse з квітами та відкритими місцями для сидіння."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/51152/photos/s-4.jpeg",
+            "alt": "Балкон з місцями для сидіння та видом на марину і човни. - Балкон з місцями для сидіння та видом на марину і човни."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/51152/photos/OHM_Captains_Inn_El_Gouna_Red_Sea_Egypt_serving.jpeg",
+            "alt": "Стильний балкон кімнати з місцями для сидіння та видом на марину. - Стильний балкон кімнати з місцями для сидіння та видом на марину."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/51152/photos/s-3.jpeg",
+            "alt": "Відкрита зона для обіду з столами з видом на марину. - Відкрита зона для обіду з столами з видом на марину."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/51152/photos/s-2.jpeg",
+            "alt": "Обідня зона з дерев'яними столами та смугастими стільцями. - Обідня зона з дерев'яними столами та смугастими стільцями."
+          }
+        ],
+        "special_info": {
+          "check_in": {
+            "name": "Реєстрація",
+            "value": "14:00"
+          },
+          "check_out": {
+            "name": "Виїзд з готелю",
+            "value": "12:00"
+          },
+          "group": null,
+          "total_rooms": null
+        },
+        "location": {
+          "city": "El Gouna",
+          "country": "Egypt",
+          "full_address": "",
+          "latitude": "27.4085416",
+          "longitude": "33.674091",
+          "region": [
+            {
+              "id": "c_9",
+              "name": "Єгипет",
+              "slug": "egypt",
+              "code_iso": "EG",
+              "type": "country",
+              "sub_regions": [],
+              "departure_cities": [],
+              "price_from": null
+            },
+            {
+              "id": "o_1318",
+              "name": "Ель-Гуна",
+              "slug": "el-gouna",
+              "code_iso": "",
+              "type": "city",
+              "sub_regions": [],
+              "departure_cities": [],
+              "price_from": null
+            }
+          ],
+          "description": "",
+          "additional_info": []
+        }
+      },
+      "offers": [
+        {
+          "id": "0x430A0000002800000001450000000900000E130000000000F4D98EB48000000004717A070000C1DB0000B840000016410000000400000000000000000000000100056982B487000007000000000074A3C40000000302020000636363B4800000B4870000020000000024000000000000000100000000385B0C57000476B20000172200000000",
+          "from": {
+            "id": "325",
+            "name": "Кишинів",
+            "slug": "",
+            "code_iso": "",
+            "type": "city",
+            "sub_regions": [],
+            "departure_cities": [],
+            "price_from": null
+          },
+          "stay": {
+            "label": "7",
+            "stay": 7
+          },
+          "date_start": "2026-07-07",
+          "date_end": "2026-07-14",
+          "board": {
+            "board_type": "BB",
+            "name": "Ліжко та сніданок",
+            "code": "4"
+          },
+          "rooms": [
+            {
+              "code": "47168",
+              "name": "Standard Room ",
+              "placement": "2AD"
+            }
+          ],
+          "transports": [
+            {
+              "type": "flight",
+              "direction": "outbound",
+              "availability": null,
+              "params": {
+                "class": null,
+                "flight_number": "8311",
+                "marketing_airline": {
+                  "name": "SkyUp Airlines",
+                  "code": "4V",
+                  "logo": null,
+                  "plane": null
+                },
+                "operating_airline": null,
+                "departure": {
+                  "code": "RMO",
+                  "name": "Chişinău International Airport",
+                  "timezone": "Europe/Chisinau"
+                },
+                "departure_terminal": "",
+                "arrival": {
+                  "code": "HRG",
+                  "name": "Hurghada International Airport",
+                  "timezone": "Africa/Cairo"
+                },
+                "arrival_terminal": "",
+                "std": "2026-07-07T08:35:00+00:00",
+                "sta": "2026-07-07T12:05:00+00:00",
+                "luggage": [
+                  {
+                    "type": "HNDL",
+                    "weight": 9
+                  },
+                  {
+                    "type": "CBAG",
+                    "weight": 23
+                  }
+                ]
+              }
+            },
+            {
+              "type": "flight",
+              "direction": "inbound",
+              "availability": null,
+              "params": {
+                "class": null,
+                "flight_number": "8312",
+                "marketing_airline": {
+                  "name": "SkyUp Airlines",
+                  "code": "4V",
+                  "logo": null,
+                  "plane": null
+                },
+                "operating_airline": null,
+                "departure": {
+                  "code": "HRG",
+                  "name": "Hurghada International Airport",
+                  "timezone": "Africa/Cairo"
+                },
+                "departure_terminal": "",
+                "arrival": {
+                  "code": "RMO",
+                  "name": "Chişinău International Airport",
+                  "timezone": "Europe/Chisinau"
+                },
+                "arrival_terminal": "",
+                "std": "2026-07-14T13:05:00+00:00",
+                "sta": "2026-07-14T16:50:00+00:00",
+                "luggage": [
+                  {
+                    "type": "HNDL",
+                    "weight": 9
+                  },
+                  {
+                    "type": "CBAG",
+                    "weight": 23
+                  }
+                ]
+              }
+            }
+          ],
+          "price": {
+            "components": [
+              {
+                "title": "Base-1-RMO/291194",
+                "type": "tour",
+                "price": {
+                  "price": "40563.00",
+                  "currency": {
+                    "code": "UAH",
+                    "sign": "₴"
+                  }
+                }
+              }
+            ],
+            "per_pax_price": null,
+            "average_history_price": null,
+            "full_price": null,
+            "total_price": {
+              "price": "40563.00",
+              "currency": {
+                "code": "UAH",
+                "sign": "₴"
+              }
+            },
+            "full_installment_price": null,
+            "installment_price": null,
+            "payment_price": null,
+            "total_price_description": "Повна оплата доступна карткою або через Apple/Google Pay.",
+            "installment_price_description": "",
+            "badges": [],
+            "commission": null
+          },
+          "promotion": null,
+          "badges": [],
+          "notes": [],
+          "availability": null,
+          "stop_sale": null,
+          "is_booking_available": null,
+          "is_dynamic": false,
+          "pax_adl": [],
+          "pax_chd": [],
+          "children_ages": []
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/51152/photos/El_Gouna_Red_Sea_Aerial_Shot_Abu_Tig_Marina-1-copy-3.jpeg",
+          "alt": "Захід сонця над мариною з яхтами та пальмами. - Захід сонця над мариною з яхтами та пальмами."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/51152/photos/OHM_Captains_Inn_El_Gouna_Red_Sea_Egypt_facade.jpeg",
+          "alt": "Жінка стоїть на балконі з видом на пальму. - Жінка стоїть на балконі з видом на пальму."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/51152/photos/El-Gouna-Red-Sea-Abu-Tig-Marina-Ali-Pasha-Hotel.jpeg",
+          "alt": "Аерознімок марини з човнами та навколишніми будівлями. - Аерознімок марини з човнами та навколишніми будівлями."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/51152/photos/Ancient_Sands_Golf_Resort_-Residences_El_Gouna_Red_Sea_The_Beach_-10-1.jpeg",
+          "alt": "Пляжна зона з солом'яними хатами та пальмами під блакитним небом. - Пляжна зона з солом'яними хатами та пальмами під блакитним небом."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/51152/photos/s-1.jpeg",
+          "alt": "Відкрита зона для обіду з столами з видом на марину. - Відкрита зона для обіду з столами з видом на марину."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/51152/photos/s.jpeg",
+          "alt": "Ресторан Marina Steakhouse з квітами та відкритими місцями для сидіння. - Ресторан Marina Steakhouse з квітами та відкритими місцями для сидіння."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/51152/photos/s-4.jpeg",
+          "alt": "Балкон з місцями для сидіння та видом на марину і човни. - Балкон з місцями для сидіння та видом на марину і човни."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/51152/photos/OHM_Captains_Inn_El_Gouna_Red_Sea_Egypt_serving.jpeg",
+          "alt": "Стильний балкон кімнати з місцями для сидіння та видом на марину. - Стильний балкон кімнати з місцями для сидіння та видом на марину."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/51152/photos/s-3.jpeg",
+          "alt": "Відкрита зона для обіду з столами з видом на марину. - Відкрита зона для обіду з столами з видом на марину."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/51152/photos/s-2.jpeg",
+          "alt": "Обідня зона з дерев'яними столами та смугастими стільцями. - Обідня зона з дерев'яними столами та смугастими стільцями."
+        }
+      ],
+      "links": [
+        {
+          "type": "agent_hotel_page",
+          "link": "https://agent.joinup.ua/uk/hotel/49627"
+        }
+      ]
     }
   ],
   "pagination": {
     "per_page": 10,
     "current_page": 2,
-    "last_page": 39,
+    "last_page": 38,
     "first_item": null,
     "last_item": null,
     "total_items": null

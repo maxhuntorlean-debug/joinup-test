@@ -2,6 +2,648 @@
   "tours": [
     {
       "hotel": {
+        "id": "32581",
+        "name": "Bliss Nada Beach Resorts (ex. Hotelux Jolie Beach)",
+        "category": {
+          "category": "4",
+          "name": "4 - Чотири зірки"
+        },
+        "badges": [
+          {
+            "type": "other",
+            "name": "Рекомендує",
+            "icon": "https://static.joinup.travel/badges/exclusive.svg"
+          }
+        ],
+        "descriptions": [
+          {
+            "title": "Опис",
+            "description": "Готель розташований на узбережжі Червоного моря, у спокійній зоні регіону Марса-Алам. Це гарний вибір для тих, хто цінує поєднання відпочинку на морі та невимушену атмосферу. Готель підходить для спокійного відпочинку на морі з можливістю насолодитися снорклінгом та дайвінгом.",
+            "type": "general"
+          }
+        ],
+        "media": [
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bless-55_.jpg",
+            "alt": "Зона басейну курорту з пальмами та видом на пляж під ясним блакитним небом. - Зона басейну курорту з пальмами та видом на пляж під ясним блакитним небом."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/31147/photos/NADA-RESOR.jpg",
+            "alt": "Вечірній вигляд на зону басейну з дерев'яним мостом та шезлонгами. - Вечірній вигляд на зону басейну з дерев'яним мостом та шезлонгами."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/31147/photos/NADA-RESORT-316-.jpg",
+            "alt": "Зона басейну з пальмами та шезлонгами на сутінках. - Зона басейну з пальмами та шезлонгами на сутінках."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-55.jpg",
+            "alt": "Велика зовнішня шахова дошка з великими фігурами та лавками. - Велика зовнішня шахова дошка з великими фігурами та лавками."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/31147/photos/NADA-RESORT-377.jpg",
+            "alt": "Пара йде уздовж пляжу з пальмами та солом'яними парасольками. - Пара йде уздовж пляжу з пальмами та солом'яними парасольками."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-170.jpg",
+            "alt": "Пара йде по пляжу з пальмами та парасольками. - Пара йде по пляжу з пальмами та парасольками."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-200.jpg",
+            "alt": "Діти спускаються з кольорових водних гірок у басейн. - Діти спускаються з кольорових водних гірок у басейн."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bless-50.jpg",
+            "alt": "Вид на море з напоями на столі та пляжними парасольками. - Вид на море з напоями на столі та пляжними парасольками."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-64.jpg",
+            "alt": "Пляж з шезлонгами та парасольками під ясним небом. - Пляж з шезлонгами та парасольками під ясним небом."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-188.jpg",
+            "alt": "Крупний план кута будівлі з блакитною решіткою та ясним небом. - Крупний план кута будівлі з блакитною решіткою та ясним небом."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/31147/photos/12-Copy.jpg",
+            "alt": "Традиційна палатка з подушками, кальяном і верблюдами поблизу на заході сонця. - Традиційна палатка з подушками, кальяном і верблюдами поблизу на заході сонця."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-138.jpg",
+            "alt": "Простора лобі готелю з синіми стільцями та декоративними колонами. - Простора лобі готелю з синіми стільцями та декоративними колонами."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-119.jpg",
+            "alt": "Елегантне лобі готелю з декоративними люстрами та синіми акцентами. - Елегантне лобі готелю з декоративними люстрами та синіми акцентами."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-120.jpg",
+            "alt": "Яскраве лобі готелю з синіми стільцями та великим круглим дизайном стелі. - Яскраве лобі готелю з синіми стільцями та великим круглим дизайном стелі."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-118.jpg",
+            "alt": "Лобі готелю з синіми стільцями та видом на відкриту територію. - Лобі готелю з синіми стільцями та видом на відкриту територію."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-136.jpg",
+            "alt": "Магазин сувенірів, що демонструє різні місцеві ремесла та дрібнички. - Магазин сувенірів, що демонструє різні місцеві ремесла та дрібнички."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-116.jpg",
+            "alt": "Сходи, що ведуть на верхні поверхи готелю з декоративними муралами. - Сходи, що ведуть на верхні поверхи готелю з декоративними муралами."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-191.jpg",
+            "alt": "Центр дайвінгу з обладнанням та гідрокостюмами, виставленими на вулиці. - Центр дайвінгу з обладнанням та гідрокостюмами, виставленими на вулиці."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-152.jpg",
+            "alt": "Відкрита зона для сидіння з синіми стільцями та столами під затіненим перголою. - Відкрита зона для сидіння з синіми стільцями та столами під затіненим перголою."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-250.jpg",
+            "alt": "Зона відпочинку з великими вікнами, що відкривають вид на басейн і пальми. - Зона відпочинку з великими вікнами, що відкривають вид на басейн і пальми."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bless-47.jpg",
+            "alt": "Стіл для сніданку, накритий різними стравами та напоями з видом на басейн. - Стіл для сніданку, накритий різними стравами та напоями з видом на басейн."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-130.jpg",
+            "alt": "Обідня зона з дерев'яними столами та стільцями, накритими для їжі. - Обідня зона з дерев'яними столами та стільцями, накритими для їжі."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-88.jpg",
+            "alt": "Простора обідня зона з дерев'яними столами та стільцями, готова для гостей. - Простора обідня зона з дерев'яними столами та стільцями, готова для гостей."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-151.jpg",
+            "alt": "Відкрита зона для їжі з дерев'яними столами та стільцями під затіненим навісом. - Відкрита зона для їжі з дерев'яними столами та стільцями під затіненим навісом."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-129.jpg",
+            "alt": "Яскрава зона відпочинку з візерунковими сидіннями та декоративним настінним мистецтвом. - Яскрава зона відпочинку з візерунковими сидіннями та декоративним настінним мистецтвом."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-154.jpg",
+            "alt": "Барна зона з прилавком, на якому виставлені напої, та місцями для гостей. - Барна зона з прилавком, на якому виставлені напої, та місцями для гостей."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-114.jpg",
+            "alt": "Вітрина аптеки з різними медичними товарами та ліками. - Вітрина аптеки з різними медичними товарами та ліками."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-122.jpg",
+            "alt": "Відкрита тераса з білими стільцями та столами з видом на сад. - Відкрита тераса з білими стільцями та столами з видом на сад."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-255.jpg",
+            "alt": "Спортивна зона з тренажерами, включаючи бігові доріжки та ваги. - Спортивна зона з тренажерами, включаючи бігові доріжки та ваги."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-219.jpg",
+            "alt": "Місцевий чоловік веде верблюда уздовж пляжу під ясним блакитним небом. - Місцевий чоловік веде верблюда уздовж пляжу під ясним блакитним небом."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-150.jpg",
+            "alt": "Настільний теніс з синім столом і ракетками в зоні відпочинку. - Настільний теніс з синім столом і ракетками в зоні відпочинку."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-137.jpg",
+            "alt": "Зона більярду з двома столами та декоративним настінним мистецтвом. - Зона більярду з двома столами та декоративним настінним мистецтвом."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-256.jpg",
+            "alt": "Тенісний корт з сіткою та пальмами на задньому плані. - Тенісний корт з сіткою та пальмами на задньому плані."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-227.jpg",
+            "alt": "Дитячий майданчик з кольоровим обладнанням, включаючи гірки та гойдалки. - Дитячий майданчик з кольоровим обладнанням, включаючи гірки та гойдалки."
+          }
+        ],
+        "special_info": {
+          "check_in": {
+            "name": "Реєстрація",
+            "value": "14:00"
+          },
+          "check_out": {
+            "name": "Виїзд з готелю",
+            "value": "12:00"
+          },
+          "group": null,
+          "total_rooms": null
+        },
+        "location": {
+          "city": "Marsa Alam",
+          "country": "Egypt",
+          "full_address": "Nada Marsa Alam, Red Sea",
+          "latitude": "25.411952",
+          "longitude": "34.692768",
+          "region": [
+            {
+              "id": "c_9",
+              "name": "Єгипет",
+              "slug": "egypt",
+              "code_iso": "EG",
+              "type": "country",
+              "sub_regions": [],
+              "departure_cities": [],
+              "price_from": null
+            },
+            {
+              "id": "o_1334",
+              "name": "Марса Алам",
+              "slug": "marsa-alam",
+              "code_iso": "",
+              "type": "city",
+              "sub_regions": [],
+              "departure_cities": [],
+              "price_from": null
+            }
+          ],
+          "description": "",
+          "additional_info": []
+        }
+      },
+      "offers": [
+        {
+          "id": "0x430A0000002800000001450000000900000E130000000000D21FF8B48400000004717A0700007F450000B8400000164100000005000000000000000000000001000575D2B48B0000070000000000869DB80000000302020000636363B4840000B48B000002000000002400000000000000010000000012D95E62000476B20000172200000000",
+          "from": {
+            "id": "325",
+            "name": "Кишинів",
+            "slug": "",
+            "code_iso": "",
+            "type": "city",
+            "sub_regions": [],
+            "departure_cities": [],
+            "price_from": null
+          },
+          "stay": {
+            "label": "7",
+            "stay": 7
+          },
+          "date_start": "2026-07-11",
+          "date_end": "2026-07-18",
+          "board": {
+            "board_type": "HB",
+            "name": "Напівпансіон",
+            "code": "5"
+          },
+          "rooms": [
+            {
+              "code": "47168",
+              "name": "Standard Room ",
+              "placement": "2AD"
+            }
+          ],
+          "transports": [
+            {
+              "type": "flight",
+              "direction": "outbound",
+              "availability": null,
+              "params": {
+                "class": null,
+                "flight_number": "8311",
+                "marketing_airline": {
+                  "name": "SkyUp Airlines",
+                  "code": "4V",
+                  "logo": null,
+                  "plane": null
+                },
+                "operating_airline": null,
+                "departure": {
+                  "code": "RMO",
+                  "name": "Chişinău International Airport",
+                  "timezone": "Europe/Chisinau"
+                },
+                "departure_terminal": "",
+                "arrival": {
+                  "code": "HRG",
+                  "name": "Hurghada International Airport",
+                  "timezone": "Africa/Cairo"
+                },
+                "arrival_terminal": "",
+                "std": "2026-07-11T08:55:00+00:00",
+                "sta": "2026-07-11T12:25:00+00:00",
+                "luggage": [
+                  {
+                    "type": "HNDL",
+                    "weight": 9
+                  },
+                  {
+                    "type": "CBAG",
+                    "weight": 23
+                  }
+                ]
+              }
+            },
+            {
+              "type": "flight",
+              "direction": "inbound",
+              "availability": null,
+              "params": {
+                "class": null,
+                "flight_number": "8312",
+                "marketing_airline": {
+                  "name": "SkyUp Airlines",
+                  "code": "4V",
+                  "logo": null,
+                  "plane": null
+                },
+                "operating_airline": null,
+                "departure": {
+                  "code": "HRG",
+                  "name": "Hurghada International Airport",
+                  "timezone": "Africa/Cairo"
+                },
+                "departure_terminal": "",
+                "arrival": {
+                  "code": "RMO",
+                  "name": "Chişinău International Airport",
+                  "timezone": "Europe/Chisinau"
+                },
+                "arrival_terminal": "",
+                "std": "2026-07-18T13:25:00+00:00",
+                "sta": "2026-07-18T17:10:00+00:00",
+                "luggage": [
+                  {
+                    "type": "HNDL",
+                    "weight": 9
+                  },
+                  {
+                    "type": "CBAG",
+                    "weight": 23
+                  }
+                ]
+              }
+            }
+          ],
+          "price": {
+            "components": [
+              {
+                "title": "Base-1-RMO/291194",
+                "type": "tour",
+                "price": {
+                  "price": "46686.00",
+                  "currency": {
+                    "code": "UAH",
+                    "sign": "₴"
+                  }
+                }
+              }
+            ],
+            "per_pax_price": null,
+            "average_history_price": null,
+            "full_price": null,
+            "total_price": {
+              "price": "46686.00",
+              "currency": {
+                "code": "UAH",
+                "sign": "₴"
+              }
+            },
+            "full_installment_price": null,
+            "installment_price": null,
+            "payment_price": null,
+            "total_price_description": "Повна оплата доступна карткою або через Apple/Google Pay.",
+            "installment_price_description": "",
+            "badges": [],
+            "commission": null
+          },
+          "promotion": null,
+          "badges": [],
+          "notes": [],
+          "availability": null,
+          "stop_sale": null,
+          "is_booking_available": null,
+          "is_dynamic": false,
+          "pax_adl": [],
+          "pax_chd": [],
+          "children_ages": []
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bless-55_.jpg",
+          "alt": "Зона басейну курорту з пальмами та видом на пляж під ясним блакитним небом. - Зона басейну курорту з пальмами та видом на пляж під ясним блакитним небом."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/31147/photos/NADA-RESOR.jpg",
+          "alt": "Вечірній вигляд на зону басейну з дерев'яним мостом та шезлонгами. - Вечірній вигляд на зону басейну з дерев'яним мостом та шезлонгами."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/31147/photos/NADA-RESORT-316-.jpg",
+          "alt": "Зона басейну з пальмами та шезлонгами на сутінках. - Зона басейну з пальмами та шезлонгами на сутінках."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-55.jpg",
+          "alt": "Велика зовнішня шахова дошка з великими фігурами та лавками. - Велика зовнішня шахова дошка з великими фігурами та лавками."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/31147/photos/NADA-RESORT-377.jpg",
+          "alt": "Пара йде уздовж пляжу з пальмами та солом'яними парасольками. - Пара йде уздовж пляжу з пальмами та солом'яними парасольками."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-170.jpg",
+          "alt": "Пара йде по пляжу з пальмами та парасольками. - Пара йде по пляжу з пальмами та парасольками."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-200.jpg",
+          "alt": "Діти спускаються з кольорових водних гірок у басейн. - Діти спускаються з кольорових водних гірок у басейн."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bless-50.jpg",
+          "alt": "Вид на море з напоями на столі та пляжними парасольками. - Вид на море з напоями на столі та пляжними парасольками."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-64.jpg",
+          "alt": "Пляж з шезлонгами та парасольками під ясним небом. - Пляж з шезлонгами та парасольками під ясним небом."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-188.jpg",
+          "alt": "Крупний план кута будівлі з блакитною решіткою та ясним небом. - Крупний план кута будівлі з блакитною решіткою та ясним небом."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/31147/photos/12-Copy.jpg",
+          "alt": "Традиційна палатка з подушками, кальяном і верблюдами поблизу на заході сонця. - Традиційна палатка з подушками, кальяном і верблюдами поблизу на заході сонця."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-138.jpg",
+          "alt": "Простора лобі готелю з синіми стільцями та декоративними колонами. - Простора лобі готелю з синіми стільцями та декоративними колонами."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-119.jpg",
+          "alt": "Елегантне лобі готелю з декоративними люстрами та синіми акцентами. - Елегантне лобі готелю з декоративними люстрами та синіми акцентами."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-120.jpg",
+          "alt": "Яскраве лобі готелю з синіми стільцями та великим круглим дизайном стелі. - Яскраве лобі готелю з синіми стільцями та великим круглим дизайном стелі."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-118.jpg",
+          "alt": "Лобі готелю з синіми стільцями та видом на відкриту територію. - Лобі готелю з синіми стільцями та видом на відкриту територію."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-136.jpg",
+          "alt": "Магазин сувенірів, що демонструє різні місцеві ремесла та дрібнички. - Магазин сувенірів, що демонструє різні місцеві ремесла та дрібнички."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-116.jpg",
+          "alt": "Сходи, що ведуть на верхні поверхи готелю з декоративними муралами. - Сходи, що ведуть на верхні поверхи готелю з декоративними муралами."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-191.jpg",
+          "alt": "Центр дайвінгу з обладнанням та гідрокостюмами, виставленими на вулиці. - Центр дайвінгу з обладнанням та гідрокостюмами, виставленими на вулиці."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-152.jpg",
+          "alt": "Відкрита зона для сидіння з синіми стільцями та столами під затіненим перголою. - Відкрита зона для сидіння з синіми стільцями та столами під затіненим перголою."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-250.jpg",
+          "alt": "Зона відпочинку з великими вікнами, що відкривають вид на басейн і пальми. - Зона відпочинку з великими вікнами, що відкривають вид на басейн і пальми."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bless-47.jpg",
+          "alt": "Стіл для сніданку, накритий різними стравами та напоями з видом на басейн. - Стіл для сніданку, накритий різними стравами та напоями з видом на басейн."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-130.jpg",
+          "alt": "Обідня зона з дерев'яними столами та стільцями, накритими для їжі. - Обідня зона з дерев'яними столами та стільцями, накритими для їжі."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-88.jpg",
+          "alt": "Простора обідня зона з дерев'яними столами та стільцями, готова для гостей. - Простора обідня зона з дерев'яними столами та стільцями, готова для гостей."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-151.jpg",
+          "alt": "Відкрита зона для їжі з дерев'яними столами та стільцями під затіненим навісом. - Відкрита зона для їжі з дерев'яними столами та стільцями під затіненим навісом."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-129.jpg",
+          "alt": "Яскрава зона відпочинку з візерунковими сидіннями та декоративним настінним мистецтвом. - Яскрава зона відпочинку з візерунковими сидіннями та декоративним настінним мистецтвом."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-154.jpg",
+          "alt": "Барна зона з прилавком, на якому виставлені напої, та місцями для гостей. - Барна зона з прилавком, на якому виставлені напої, та місцями для гостей."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-114.jpg",
+          "alt": "Вітрина аптеки з різними медичними товарами та ліками. - Вітрина аптеки з різними медичними товарами та ліками."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-122.jpg",
+          "alt": "Відкрита тераса з білими стільцями та столами з видом на сад. - Відкрита тераса з білими стільцями та столами з видом на сад."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-255.jpg",
+          "alt": "Спортивна зона з тренажерами, включаючи бігові доріжки та ваги. - Спортивна зона з тренажерами, включаючи бігові доріжки та ваги."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-219.jpg",
+          "alt": "Місцевий чоловік веде верблюда уздовж пляжу під ясним блакитним небом. - Місцевий чоловік веде верблюда уздовж пляжу під ясним блакитним небом."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-150.jpg",
+          "alt": "Настільний теніс з синім столом і ракетками в зоні відпочинку. - Настільний теніс з синім столом і ракетками в зоні відпочинку."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-137.jpg",
+          "alt": "Зона більярду з двома столами та декоративним настінним мистецтвом. - Зона більярду з двома столами та декоративним настінним мистецтвом."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-256.jpg",
+          "alt": "Тенісний корт з сіткою та пальмами на задньому плані. - Тенісний корт з сіткою та пальмами на задньому плані."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/31147/photos/Nada-Bliss-resort-227.jpg",
+          "alt": "Дитячий майданчик з кольоровим обладнанням, включаючи гірки та гойдалки. - Дитячий майданчик з кольоровим обладнанням, включаючи гірки та гойдалки."
+        }
+      ],
+      "links": [
+        {
+          "type": "agent_hotel_page",
+          "link": "https://agent.joinup.ua/uk/hotel/32581"
+        }
+      ]
+    },
+    {
+      "hotel": {
         "id": "60715",
         "name": "Beach Safari Nubian Resort",
         "category": {
@@ -370,7 +1012,7 @@
       },
       "offers": [
         {
-          "id": "0x430A0000002800000001450000000900000E130000000000DCBC56B48300000004717B070000ED2B0000B8400000164100000006000000000000000000000237000575D2B48A0000060000000000723CEC0000000302020000636363B4830000B489000002000000002400000000000000010000000038963E17000474340000172200000000",
+          "id": "0x430A0000002800000001450000000900000E130000000000D2205BB48400000004717A070000ED2B0000B8400000164100000006000000000000000000000001000575D2B48B00000700000000008B018C0000000302020000636363B4840000B48B0000020000000024000000000000000100000000386D5350000476B20000172200000000",
           "from": {
             "id": "325",
             "name": "Кишинів",
@@ -382,11 +1024,11 @@
             "price_from": null
           },
           "stay": {
-            "label": "6+1",
+            "label": "7",
             "stay": 7
           },
-          "date_start": "2026-07-10",
-          "date_end": "2026-07-17",
+          "date_start": "2026-07-11",
+          "date_end": "2026-07-18",
           "board": {
             "board_type": "AI",
             "name": "Все включено",
@@ -406,7 +1048,7 @@
               "availability": null,
               "params": {
                 "class": null,
-                "flight_number": "8309",
+                "flight_number": "8311",
                 "marketing_airline": {
                   "name": "SkyUp Airlines",
                   "code": "4V",
@@ -426,8 +1068,8 @@
                   "timezone": "Africa/Cairo"
                 },
                 "arrival_terminal": "",
-                "std": "2026-07-10T00:05:00+00:00",
-                "sta": "2026-07-10T03:35:00+00:00",
+                "std": "2026-07-11T08:55:00+00:00",
+                "sta": "2026-07-11T12:25:00+00:00",
                 "luggage": [
                   {
                     "type": "HNDL",
@@ -446,7 +1088,7 @@
               "availability": null,
               "params": {
                 "class": null,
-                "flight_number": "8310",
+                "flight_number": "8312",
                 "marketing_airline": {
                   "name": "SkyUp Airlines",
                   "code": "4V",
@@ -466,8 +1108,8 @@
                   "timezone": "Europe/Chisinau"
                 },
                 "arrival_terminal": "",
-                "std": "2026-07-17T04:35:00+00:00",
-                "sta": "2026-07-17T08:20:00+00:00",
+                "std": "2026-07-18T13:25:00+00:00",
+                "sta": "2026-07-18T17:10:00+00:00",
                 "luggage": [
                   {
                     "type": "HNDL",
@@ -484,10 +1126,10 @@
           "price": {
             "components": [
               {
-                "title": "Base2-RMO/291195",
+                "title": "Base-1-RMO/291194",
                 "type": "tour",
                 "price": {
-                  "price": "39619.00",
+                  "price": "48209.00",
                   "currency": {
                     "code": "UAH",
                     "sign": "₴"
@@ -499,7 +1141,7 @@
             "average_history_price": null,
             "full_price": null,
             "total_price": {
-              "price": "39619.00",
+              "price": "48209.00",
               "currency": {
                 "code": "UAH",
                 "sign": "₴"
@@ -843,390 +1485,6 @@
         {
           "type": "agent_hotel_page",
           "link": "https://agent.joinup.ua/uk/hotel/60715"
-        }
-      ]
-    },
-    {
-      "hotel": {
-        "id": "57044",
-        "name": "Magic Beach",
-        "category": {
-          "category": "4",
-          "name": "4 - Чотири зірки"
-        },
-        "badges": [],
-        "descriptions": [
-          {
-            "title": "Опис",
-            "description": "Magic Beach 4 * розташований на березі Червоного моря на півночі Хургади (район El Helal) за десять хвилин від старого міста. Перевагою готелю є сучасні номери з захоплюючим краєвидом на море. Готель славиться щирою східною гостинністю і привітністю.",
-            "type": "general"
-          }
-        ],
-        "media": [
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40717/photos/Magic-Beach-1.jpg",
-            "alt": "Пляжна зона з синіми шезлонгами та солом'яними парасольками під ясним блакитним небом. - Пляжна зона з синіми шезлонгами та солом'яними парасольками під ясним блакитним небом."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40717/photos/Magic-Beach-11.jpg",
-            "alt": "Пташиний погляд на готель з басейном і шезлонгами, оточеними зеленню. - Пташиний погляд на готель з басейном і шезлонгами, оточеними зеленню."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40717/photos/Magic-Beach-13.jpg",
-            "alt": "Вид на зону басейну готелю з шезлонгами та терасою ресторану. - Вид на зону басейну готелю з шезлонгами та терасою ресторану."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40717/photos/Magic-Beach-10.jpg",
-            "alt": "Внутрішній двір готелю з басейном, столами та стільцями, оточений кам'яними доріжками. - Внутрішній двір готелю з басейном, столами та стільцями, оточений кам'яними доріжками."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40717/photos/Magic-Beach-2.jpg",
-            "alt": "Обідня зона в ресторані готелю з накритими столами для гостей. - Обідня зона в ресторані готелю з накритими столами для гостей."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40717/photos/Magic-Beach-3.jpg",
-            "alt": "Пляжна зона з білими шезлонгами та солом'яними парасольками біля моря. - Пляжна зона з білими шезлонгами та солом'яними парасольками біля моря."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40717/photos/Magic-Beach-4.jpg",
-            "alt": "Трав'яна зона з столами та стільцями з видом на море та пляжні парасольки. - Трав'яна зона з столами та стільцями з видом на море та пляжні парасольки."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40717/photos/Magic-Beach-5.jpg",
-            "alt": "Зовнішній вигляд готелю з зоною басейну та відкритими місцями для гостей. - Зовнішній вигляд готелю з зоною басейну та відкритими місцями для гостей."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40717/photos/Magic-Beach-6.jpg",
-            "alt": "Сад готелю з зеленими газонами та квітковими клумбами навколо будівлі. - Сад готелю з зеленими газонами та квітковими клумбами навколо будівлі."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40717/photos/Magic-Beach-7.jpg",
-            "alt": "Вид на пляж та готель з моря, з парасольками та пальмами. - Вид на пляж та готель з моря, з парасольками та пальмами."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40717/photos/Magic-Beach-8.jpg",
-            "alt": "Зона басейну з чистою блакитною водою та шезлонгами під сонцем. - Зона басейну з чистою блакитною водою та шезлонгами під сонцем."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40717/photos/Magic-Beach-9.jpg",
-            "alt": "Пташиний погляд на зону басейну готелю з шезлонгами та морем на задньому плані. - Пташиний погляд на зону басейну готелю з шезлонгами та морем на задньому плані."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40717/photos/Magic-Beach-12.jpg",
-            "alt": "Вид на готель з басейном і шезлонгами, оточеними зеленню та пальмами. - Вид на готель з басейном і шезлонгами, оточеними зеленню та пальмами."
-          }
-        ],
-        "special_info": {
-          "check_in": {
-            "name": "Реєстрація",
-            "value": "14:00"
-          },
-          "check_out": {
-            "name": "Виїзд з готелю",
-            "value": "12:00"
-          },
-          "group": null,
-          "total_rooms": null
-        },
-        "location": {
-          "city": "Hurghada",
-          "country": "Egypt",
-          "full_address": "",
-          "latitude": "27.264179973389",
-          "longitude": "33.806531311963",
-          "region": [
-            {
-              "id": "c_9",
-              "name": "Єгипет",
-              "slug": "egypt",
-              "code_iso": "EG",
-              "type": "country",
-              "sub_regions": [],
-              "departure_cities": [],
-              "price_from": null
-            },
-            {
-              "id": "o_1313",
-              "name": "Хургада",
-              "slug": "hurghada",
-              "code_iso": "",
-              "type": "city",
-              "sub_regions": [],
-              "departure_cities": [],
-              "price_from": null
-            }
-          ],
-          "description": "",
-          "additional_info": []
-        }
-      },
-      "offers": [
-        {
-          "id": "0x430A0000002800000001450000000900000E130000000000D22041B48400000004717A070000DED40000B8400000164100000005000000000000000000000001000575D2B48B00000700000000007333CC0000000302020000636363B4840000B48B00000200000000240000000000000001000000001B6481EE000476B20000172200000000",
-          "from": {
-            "id": "325",
-            "name": "Кишинів",
-            "slug": "",
-            "code_iso": "",
-            "type": "city",
-            "sub_regions": [],
-            "departure_cities": [],
-            "price_from": null
-          },
-          "stay": {
-            "label": "7",
-            "stay": 7
-          },
-          "date_start": "2026-07-11",
-          "date_end": "2026-07-18",
-          "board": {
-            "board_type": "HB",
-            "name": "Напівпансіон",
-            "code": "5"
-          },
-          "rooms": [
-            {
-              "code": "47168",
-              "name": "Standard Room ",
-              "placement": "2AD"
-            }
-          ],
-          "transports": [
-            {
-              "type": "flight",
-              "direction": "outbound",
-              "availability": null,
-              "params": {
-                "class": null,
-                "flight_number": "8311",
-                "marketing_airline": {
-                  "name": "SkyUp Airlines",
-                  "code": "4V",
-                  "logo": null,
-                  "plane": null
-                },
-                "operating_airline": null,
-                "departure": {
-                  "code": "RMO",
-                  "name": "Chişinău International Airport",
-                  "timezone": "Europe/Chisinau"
-                },
-                "departure_terminal": "",
-                "arrival": {
-                  "code": "HRG",
-                  "name": "Hurghada International Airport",
-                  "timezone": "Africa/Cairo"
-                },
-                "arrival_terminal": "",
-                "std": "2026-07-11T08:55:00+00:00",
-                "sta": "2026-07-11T12:25:00+00:00",
-                "luggage": [
-                  {
-                    "type": "HNDL",
-                    "weight": 9
-                  },
-                  {
-                    "type": "CBAG",
-                    "weight": 23
-                  }
-                ]
-              }
-            },
-            {
-              "type": "flight",
-              "direction": "inbound",
-              "availability": null,
-              "params": {
-                "class": null,
-                "flight_number": "8312",
-                "marketing_airline": {
-                  "name": "SkyUp Airlines",
-                  "code": "4V",
-                  "logo": null,
-                  "plane": null
-                },
-                "operating_airline": null,
-                "departure": {
-                  "code": "HRG",
-                  "name": "Hurghada International Airport",
-                  "timezone": "Africa/Cairo"
-                },
-                "departure_terminal": "",
-                "arrival": {
-                  "code": "RMO",
-                  "name": "Chişinău International Airport",
-                  "timezone": "Europe/Chisinau"
-                },
-                "arrival_terminal": "",
-                "std": "2026-07-18T13:25:00+00:00",
-                "sta": "2026-07-18T17:10:00+00:00",
-                "luggage": [
-                  {
-                    "type": "HNDL",
-                    "weight": 9
-                  },
-                  {
-                    "type": "CBAG",
-                    "weight": 23
-                  }
-                ]
-              }
-            }
-          ],
-          "price": {
-            "components": [
-              {
-                "title": "Base-1-RMO/291194",
-                "type": "tour",
-                "price": {
-                  "price": "39953.00",
-                  "currency": {
-                    "code": "UAH",
-                    "sign": "₴"
-                  }
-                }
-              }
-            ],
-            "per_pax_price": null,
-            "average_history_price": null,
-            "full_price": null,
-            "total_price": {
-              "price": "39953.00",
-              "currency": {
-                "code": "UAH",
-                "sign": "₴"
-              }
-            },
-            "full_installment_price": null,
-            "installment_price": null,
-            "payment_price": null,
-            "total_price_description": "Повна оплата доступна карткою або через Apple/Google Pay.",
-            "installment_price_description": "",
-            "badges": [],
-            "commission": null
-          },
-          "promotion": null,
-          "badges": [],
-          "notes": [],
-          "availability": null,
-          "stop_sale": null,
-          "is_booking_available": null,
-          "is_dynamic": false,
-          "pax_adl": [],
-          "pax_chd": [],
-          "children_ages": []
-        }
-      ],
-      "media": [
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40717/photos/Magic-Beach-1.jpg",
-          "alt": "Пляжна зона з синіми шезлонгами та солом'яними парасольками під ясним блакитним небом. - Пляжна зона з синіми шезлонгами та солом'яними парасольками під ясним блакитним небом."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40717/photos/Magic-Beach-11.jpg",
-          "alt": "Пташиний погляд на готель з басейном і шезлонгами, оточеними зеленню. - Пташиний погляд на готель з басейном і шезлонгами, оточеними зеленню."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40717/photos/Magic-Beach-13.jpg",
-          "alt": "Вид на зону басейну готелю з шезлонгами та терасою ресторану. - Вид на зону басейну готелю з шезлонгами та терасою ресторану."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40717/photos/Magic-Beach-10.jpg",
-          "alt": "Внутрішній двір готелю з басейном, столами та стільцями, оточений кам'яними доріжками. - Внутрішній двір готелю з басейном, столами та стільцями, оточений кам'яними доріжками."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40717/photos/Magic-Beach-2.jpg",
-          "alt": "Обідня зона в ресторані готелю з накритими столами для гостей. - Обідня зона в ресторані готелю з накритими столами для гостей."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40717/photos/Magic-Beach-3.jpg",
-          "alt": "Пляжна зона з білими шезлонгами та солом'яними парасольками біля моря. - Пляжна зона з білими шезлонгами та солом'яними парасольками біля моря."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40717/photos/Magic-Beach-4.jpg",
-          "alt": "Трав'яна зона з столами та стільцями з видом на море та пляжні парасольки. - Трав'яна зона з столами та стільцями з видом на море та пляжні парасольки."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40717/photos/Magic-Beach-5.jpg",
-          "alt": "Зовнішній вигляд готелю з зоною басейну та відкритими місцями для гостей. - Зовнішній вигляд готелю з зоною басейну та відкритими місцями для гостей."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40717/photos/Magic-Beach-6.jpg",
-          "alt": "Сад готелю з зеленими газонами та квітковими клумбами навколо будівлі. - Сад готелю з зеленими газонами та квітковими клумбами навколо будівлі."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40717/photos/Magic-Beach-7.jpg",
-          "alt": "Вид на пляж та готель з моря, з парасольками та пальмами. - Вид на пляж та готель з моря, з парасольками та пальмами."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40717/photos/Magic-Beach-8.jpg",
-          "alt": "Зона басейну з чистою блакитною водою та шезлонгами під сонцем. - Зона басейну з чистою блакитною водою та шезлонгами під сонцем."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40717/photos/Magic-Beach-9.jpg",
-          "alt": "Пташиний погляд на зону басейну готелю з шезлонгами та морем на задньому плані. - Пташиний погляд на зону басейну готелю з шезлонгами та морем на задньому плані."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40717/photos/Magic-Beach-12.jpg",
-          "alt": "Вид на готель з басейном і шезлонгами, оточеними зеленню та пальмами. - Вид на готель з басейном і шезлонгами, оточеними зеленню та пальмами."
-        }
-      ],
-      "links": [
-        {
-          "type": "agent_hotel_page",
-          "link": "https://agent.joinup.ua/uk/hotel/57044"
         }
       ]
     },
@@ -1582,7 +1840,7 @@
       },
       "offers": [
         {
-          "id": "0x430A0000002800000001450000000900000E130000000000DCBB9CB48300000004717B070000668F0000B8400000164100000006000000000000000000000237000575D2B48A000006000000000076F1380000000302020000636363B4830000B48900000200000000240000000000000001000000002CA2F37D000474340000172200000000",
+          "id": "0x430A0000002800000001450000000900000E130000000000D21FA1B48400000004717A070000668F0000B8400000164100000006000000000000000000000001000575D2B48B000007000000000090F6F00000000302020000636363B4840000B48B00000200000000240000000000000001000000002CA325E6000476B20000172200000000",
           "from": {
             "id": "325",
             "name": "Кишинів",
@@ -1594,11 +1852,11 @@
             "price_from": null
           },
           "stay": {
-            "label": "6+1",
+            "label": "7",
             "stay": 7
           },
-          "date_start": "2026-07-10",
-          "date_end": "2026-07-17",
+          "date_start": "2026-07-11",
+          "date_end": "2026-07-18",
           "board": {
             "board_type": "AI",
             "name": "Все включено",
@@ -1618,7 +1876,7 @@
               "availability": null,
               "params": {
                 "class": null,
-                "flight_number": "8309",
+                "flight_number": "8311",
                 "marketing_airline": {
                   "name": "SkyUp Airlines",
                   "code": "4V",
@@ -1638,8 +1896,8 @@
                   "timezone": "Africa/Cairo"
                 },
                 "arrival_terminal": "",
-                "std": "2026-07-10T00:05:00+00:00",
-                "sta": "2026-07-10T03:35:00+00:00",
+                "std": "2026-07-11T08:55:00+00:00",
+                "sta": "2026-07-11T12:25:00+00:00",
                 "luggage": [
                   {
                     "type": "HNDL",
@@ -1658,7 +1916,7 @@
               "availability": null,
               "params": {
                 "class": null,
-                "flight_number": "8310",
+                "flight_number": "8312",
                 "marketing_airline": {
                   "name": "SkyUp Airlines",
                   "code": "4V",
@@ -1678,8 +1936,8 @@
                   "timezone": "Europe/Chisinau"
                 },
                 "arrival_terminal": "",
-                "std": "2026-07-17T04:35:00+00:00",
-                "sta": "2026-07-17T08:20:00+00:00",
+                "std": "2026-07-18T13:25:00+00:00",
+                "sta": "2026-07-18T17:10:00+00:00",
                 "luggage": [
                   {
                     "type": "HNDL",
@@ -1696,10 +1954,10 @@
           "price": {
             "components": [
               {
-                "title": "Base2-RMO/291195",
+                "title": "Base-1-RMO/291194",
                 "type": "tour",
                 "price": {
-                  "price": "41250.00",
+                  "price": "50275.00",
                   "currency": {
                     "code": "UAH",
                     "sign": "₴"
@@ -1711,7 +1969,7 @@
             "average_history_price": null,
             "full_price": null,
             "total_price": {
-              "price": "41250.00",
+              "price": "50275.00",
               "currency": {
                 "code": "UAH",
                 "sign": "₴"
@@ -2266,7 +2524,7 @@
       },
       "offers": [
         {
-          "id": "0x430A0000002800000001450000000900000E130000000000DCBBF7B48300000004717B0700008265000021320000164100000006000000000000000000000237000575D2B48A000006000000000077E23C0000000302020000636363B4830000B48900000200000000240000000000000001000000013853D757000474340000172200000000",
+          "id": "0x430A0000002800000001450000000900000E130000000000D21FFCB48400000004717A0700008265000021320000164100000006000000000000000000000001000575D2B48B000007000000000091977C0000000302020000636363B4840000B48B00000200000000240000000000000001000000001BDF13B6000476B20000172200000000",
           "from": {
             "id": "325",
             "name": "Кишинів",
@@ -2278,11 +2536,11 @@
             "price_from": null
           },
           "stay": {
-            "label": "6+1",
+            "label": "7",
             "stay": 7
           },
-          "date_start": "2026-07-10",
-          "date_end": "2026-07-17",
+          "date_start": "2026-07-11",
+          "date_end": "2026-07-18",
           "board": {
             "board_type": "AI",
             "name": "Все включено",
@@ -2302,7 +2560,7 @@
               "availability": null,
               "params": {
                 "class": null,
-                "flight_number": "8309",
+                "flight_number": "8311",
                 "marketing_airline": {
                   "name": "SkyUp Airlines",
                   "code": "4V",
@@ -2322,8 +2580,8 @@
                   "timezone": "Africa/Cairo"
                 },
                 "arrival_terminal": "",
-                "std": "2026-07-10T00:05:00+00:00",
-                "sta": "2026-07-10T03:35:00+00:00",
+                "std": "2026-07-11T08:55:00+00:00",
+                "sta": "2026-07-11T12:25:00+00:00",
                 "luggage": [
                   {
                     "type": "HNDL",
@@ -2342,7 +2600,7 @@
               "availability": null,
               "params": {
                 "class": null,
-                "flight_number": "8310",
+                "flight_number": "8312",
                 "marketing_airline": {
                   "name": "SkyUp Airlines",
                   "code": "4V",
@@ -2362,8 +2620,8 @@
                   "timezone": "Europe/Chisinau"
                 },
                 "arrival_terminal": "",
-                "std": "2026-07-17T04:35:00+00:00",
-                "sta": "2026-07-17T08:20:00+00:00",
+                "std": "2026-07-18T13:25:00+00:00",
+                "sta": "2026-07-18T17:10:00+00:00",
                 "luggage": [
                   {
                     "type": "HNDL",
@@ -2380,10 +2638,10 @@
           "price": {
             "components": [
               {
-                "title": "Base2-RMO/291195",
+                "title": "Base-1-RMO/291194",
                 "type": "tour",
                 "price": {
-                  "price": "41577.00",
+                  "price": "50493.00",
                   "currency": {
                     "code": "UAH",
                     "sign": "₴"
@@ -2395,7 +2653,7 @@
             "average_history_price": null,
             "full_price": null,
             "total_price": {
-              "price": "41577.00",
+              "price": "50493.00",
               "currency": {
                 "code": "UAH",
                 "sign": "₴"
@@ -2800,7 +3058,7 @@
       },
       "offers": [
         {
-          "id": "0x430A0000002800000001450000000900000E130000000000DCBBE4B48300000004717B0700006B840000003A0000164100000004000000000000000000000237000575D2B48A000006000000000078D2DC0000000302020000636363B4830000B489000002000000002400000000000000010000000038918FC4000474340000172200000000",
+          "id": "0x430A0000002800000001450000000900000E130000000000D21FE9B48400000004717A0700006B840000003A0000164100000004000000000000000000000001000575D2B48B000007000000000093290C0000000302020000636363B4840000B48B0000020000000024000000000000000100000000386D0FD7000476B20000172200000000",
           "from": {
             "id": "325",
             "name": "Кишинів",
@@ -2812,11 +3070,11 @@
             "price_from": null
           },
           "stay": {
-            "label": "6+1",
+            "label": "7",
             "stay": 7
           },
-          "date_start": "2026-07-10",
-          "date_end": "2026-07-17",
+          "date_start": "2026-07-11",
+          "date_end": "2026-07-18",
           "board": {
             "board_type": "BB",
             "name": "Ліжко та сніданок",
@@ -2836,7 +3094,7 @@
               "availability": null,
               "params": {
                 "class": null,
-                "flight_number": "8309",
+                "flight_number": "8311",
                 "marketing_airline": {
                   "name": "SkyUp Airlines",
                   "code": "4V",
@@ -2856,8 +3114,8 @@
                   "timezone": "Africa/Cairo"
                 },
                 "arrival_terminal": "",
-                "std": "2026-07-10T00:05:00+00:00",
-                "sta": "2026-07-10T03:35:00+00:00",
+                "std": "2026-07-11T08:55:00+00:00",
+                "sta": "2026-07-11T12:25:00+00:00",
                 "luggage": [
                   {
                     "type": "HNDL",
@@ -2876,7 +3134,7 @@
               "availability": null,
               "params": {
                 "class": null,
-                "flight_number": "8310",
+                "flight_number": "8312",
                 "marketing_airline": {
                   "name": "SkyUp Airlines",
                   "code": "4V",
@@ -2896,8 +3154,8 @@
                   "timezone": "Europe/Chisinau"
                 },
                 "arrival_terminal": "",
-                "std": "2026-07-17T04:35:00+00:00",
-                "sta": "2026-07-17T08:20:00+00:00",
+                "std": "2026-07-18T13:25:00+00:00",
+                "sta": "2026-07-18T17:10:00+00:00",
                 "luggage": [
                   {
                     "type": "HNDL",
@@ -2914,10 +3172,10 @@
           "price": {
             "components": [
               {
-                "title": "Base2-RMO/291195",
+                "title": "Base-1-RMO/291194",
                 "type": "tour",
                 "price": {
-                  "price": "41903.00",
+                  "price": "51037.00",
                   "currency": {
                     "code": "UAH",
                     "sign": "₴"
@@ -2929,7 +3187,7 @@
             "average_history_price": null,
             "full_price": null,
             "total_price": {
-              "price": "41903.00",
+              "price": "51037.00",
               "currency": {
                 "code": "UAH",
                 "sign": "₴"
@@ -3340,7 +3598,7 @@
       },
       "offers": [
         {
-          "id": "0x430A0000002800000001450000000900000E130000000000DCBC1EB48300000004717B070000A3590000B8400000164100000006000000000000000000000237000575D2B48A000006000000000078D2DC0000000302020000636363B4830000B489000002000000002400000000000000010000000012E9E7C4000474340000172200000000",
+          "id": "0x430A0000002800000001450000000900000E130000000000D22023B48400000004717A070000A3590000B8400000164100000006000000000000000000000001000575D2B48B000007000000000093290C0000000302020000636363B4840000B48B000002000000002400000000000000010000000013110632000476B20000172200000000",
           "from": {
             "id": "325",
             "name": "Кишинів",
@@ -3352,11 +3610,11 @@
             "price_from": null
           },
           "stay": {
-            "label": "6+1",
+            "label": "7",
             "stay": 7
           },
-          "date_start": "2026-07-10",
-          "date_end": "2026-07-17",
+          "date_start": "2026-07-11",
+          "date_end": "2026-07-18",
           "board": {
             "board_type": "AI",
             "name": "Все включено",
@@ -3376,7 +3634,7 @@
               "availability": null,
               "params": {
                 "class": null,
-                "flight_number": "8309",
+                "flight_number": "8311",
                 "marketing_airline": {
                   "name": "SkyUp Airlines",
                   "code": "4V",
@@ -3396,8 +3654,8 @@
                   "timezone": "Africa/Cairo"
                 },
                 "arrival_terminal": "",
-                "std": "2026-07-10T00:05:00+00:00",
-                "sta": "2026-07-10T03:35:00+00:00",
+                "std": "2026-07-11T08:55:00+00:00",
+                "sta": "2026-07-11T12:25:00+00:00",
                 "luggage": [
                   {
                     "type": "HNDL",
@@ -3416,7 +3674,7 @@
               "availability": null,
               "params": {
                 "class": null,
-                "flight_number": "8310",
+                "flight_number": "8312",
                 "marketing_airline": {
                   "name": "SkyUp Airlines",
                   "code": "4V",
@@ -3436,8 +3694,8 @@
                   "timezone": "Europe/Chisinau"
                 },
                 "arrival_terminal": "",
-                "std": "2026-07-17T04:35:00+00:00",
-                "sta": "2026-07-17T08:20:00+00:00",
+                "std": "2026-07-18T13:25:00+00:00",
+                "sta": "2026-07-18T17:10:00+00:00",
                 "luggage": [
                   {
                     "type": "HNDL",
@@ -3454,10 +3712,10 @@
           "price": {
             "components": [
               {
-                "title": "Base2-RMO/291195",
+                "title": "Base-1-RMO/291194",
                 "type": "tour",
                 "price": {
-                  "price": "41903.00",
+                  "price": "51037.00",
                   "currency": {
                     "code": "UAH",
                     "sign": "₴"
@@ -3469,7 +3727,7 @@
             "average_history_price": null,
             "full_price": null,
             "total_price": {
-              "price": "41903.00",
+              "price": "51037.00",
               "currency": {
                 "code": "UAH",
                 "sign": "₴"
@@ -3838,7 +4096,7 @@
       },
       "offers": [
         {
-          "id": "0x430A0000002800000001450000000900000E130000000000DCBC2DB48300000004717B070000C1DC0000B8400000164100000004000000000000000000000237000575D2B48A000006000000000078D2DC0000000302020000636363B4830000B48900000200000000240000000000000001000000003891FB88000474340000172200000000",
+          "id": "0x430A0000002800000001450000000900000E130000000000D22032B48400000004717A070000C1DC0000B8400000164100000004000000000000000000000001000575D2B48B000007000000000093290C0000000302020000636363B4840000B48B000002000000002400000000000000010000000038637670000476B20000172200000000",
           "from": {
             "id": "325",
             "name": "Кишинів",
@@ -3850,11 +4108,11 @@
             "price_from": null
           },
           "stay": {
-            "label": "6+1",
+            "label": "7",
             "stay": 7
           },
-          "date_start": "2026-07-10",
-          "date_end": "2026-07-17",
+          "date_start": "2026-07-11",
+          "date_end": "2026-07-18",
           "board": {
             "board_type": "BB",
             "name": "Ліжко та сніданок",
@@ -3874,7 +4132,7 @@
               "availability": null,
               "params": {
                 "class": null,
-                "flight_number": "8309",
+                "flight_number": "8311",
                 "marketing_airline": {
                   "name": "SkyUp Airlines",
                   "code": "4V",
@@ -3894,8 +4152,8 @@
                   "timezone": "Africa/Cairo"
                 },
                 "arrival_terminal": "",
-                "std": "2026-07-10T00:05:00+00:00",
-                "sta": "2026-07-10T03:35:00+00:00",
+                "std": "2026-07-11T08:55:00+00:00",
+                "sta": "2026-07-11T12:25:00+00:00",
                 "luggage": [
                   {
                     "type": "HNDL",
@@ -3914,7 +4172,7 @@
               "availability": null,
               "params": {
                 "class": null,
-                "flight_number": "8310",
+                "flight_number": "8312",
                 "marketing_airline": {
                   "name": "SkyUp Airlines",
                   "code": "4V",
@@ -3934,8 +4192,8 @@
                   "timezone": "Europe/Chisinau"
                 },
                 "arrival_terminal": "",
-                "std": "2026-07-17T04:35:00+00:00",
-                "sta": "2026-07-17T08:20:00+00:00",
+                "std": "2026-07-18T13:25:00+00:00",
+                "sta": "2026-07-18T17:10:00+00:00",
                 "luggage": [
                   {
                     "type": "HNDL",
@@ -3952,10 +4210,10 @@
           "price": {
             "components": [
               {
-                "title": "Base2-RMO/291195",
+                "title": "Base-1-RMO/291194",
                 "type": "tour",
                 "price": {
-                  "price": "41903.00",
+                  "price": "51037.00",
                   "currency": {
                     "code": "UAH",
                     "sign": "₴"
@@ -3967,7 +4225,7 @@
             "average_history_price": null,
             "full_price": null,
             "total_price": {
-              "price": "41903.00",
+              "price": "51037.00",
               "currency": {
                 "code": "UAH",
                 "sign": "₴"
@@ -4216,7 +4474,7 @@
       },
       "offers": [
         {
-          "id": "0x430A0000002800000001450000000900000E130000000000DCBC2CB48300000004717B070000C1DB0000B8400000164100000004000000000000000000000237000575D2B48A000006000000000078D2DC0000000302020000636363B4830000B48900000200000000240000000000000001000000003891FB5F000474340000172200000000",
+          "id": "0x430A0000002800000001450000000900000E130000000000D22031B48400000004717A070000C1DB0000B8400000164100000004000000000000000000000001000575D2B48B000007000000000093290C0000000302020000636363B4840000B48B000002000000002400000000000000010000000038637645000476B20000172200000000",
           "from": {
             "id": "325",
             "name": "Кишинів",
@@ -4228,11 +4486,11 @@
             "price_from": null
           },
           "stay": {
-            "label": "6+1",
+            "label": "7",
             "stay": 7
           },
-          "date_start": "2026-07-10",
-          "date_end": "2026-07-17",
+          "date_start": "2026-07-11",
+          "date_end": "2026-07-18",
           "board": {
             "board_type": "BB",
             "name": "Ліжко та сніданок",
@@ -4252,7 +4510,7 @@
               "availability": null,
               "params": {
                 "class": null,
-                "flight_number": "8309",
+                "flight_number": "8311",
                 "marketing_airline": {
                   "name": "SkyUp Airlines",
                   "code": "4V",
@@ -4272,8 +4530,8 @@
                   "timezone": "Africa/Cairo"
                 },
                 "arrival_terminal": "",
-                "std": "2026-07-10T00:05:00+00:00",
-                "sta": "2026-07-10T03:35:00+00:00",
+                "std": "2026-07-11T08:55:00+00:00",
+                "sta": "2026-07-11T12:25:00+00:00",
                 "luggage": [
                   {
                     "type": "HNDL",
@@ -4292,7 +4550,7 @@
               "availability": null,
               "params": {
                 "class": null,
-                "flight_number": "8310",
+                "flight_number": "8312",
                 "marketing_airline": {
                   "name": "SkyUp Airlines",
                   "code": "4V",
@@ -4312,8 +4570,8 @@
                   "timezone": "Europe/Chisinau"
                 },
                 "arrival_terminal": "",
-                "std": "2026-07-17T04:35:00+00:00",
-                "sta": "2026-07-17T08:20:00+00:00",
+                "std": "2026-07-18T13:25:00+00:00",
+                "sta": "2026-07-18T17:10:00+00:00",
                 "luggage": [
                   {
                     "type": "HNDL",
@@ -4330,10 +4588,10 @@
           "price": {
             "components": [
               {
-                "title": "Base2-RMO/291195",
+                "title": "Base-1-RMO/291194",
                 "type": "tour",
                 "price": {
-                  "price": "41903.00",
+                  "price": "51037.00",
                   "currency": {
                     "code": "UAH",
                     "sign": "₴"
@@ -4345,7 +4603,7 @@
             "average_history_price": null,
             "full_price": null,
             "total_price": {
-              "price": "41903.00",
+              "price": "51037.00",
               "currency": {
                 "code": "UAH",
                 "sign": "₴"
@@ -4564,7 +4822,7 @@
       },
       "offers": [
         {
-          "id": "0x430A0000002800000001450000000900000E130000000000DCBBA5B48300000004717B07000066E30000B8400000164100000006000000000000000000000237000575D2B48A000006000000000078D2DC0000000302020000636363B4830000B489000002000000002400000000000000010000000012CFF5FD000474340000172200000000",
+          "id": "0x430A0000002800000001450000000900000E130000000000D21FAAB48400000004717A07000066E30000B8400000164100000006000000000000000000000001000575D2B48B000007000000000093290C0000000302020000636363B4840000B48B000002000000002400000000000000010000000012D029D1000476B20000172200000000",
           "from": {
             "id": "325",
             "name": "Кишинів",
@@ -4576,11 +4834,11 @@
             "price_from": null
           },
           "stay": {
-            "label": "6+1",
+            "label": "7",
             "stay": 7
           },
-          "date_start": "2026-07-10",
-          "date_end": "2026-07-17",
+          "date_start": "2026-07-11",
+          "date_end": "2026-07-18",
           "board": {
             "board_type": "AI",
             "name": "Все включено",
@@ -4600,7 +4858,7 @@
               "availability": null,
               "params": {
                 "class": null,
-                "flight_number": "8309",
+                "flight_number": "8311",
                 "marketing_airline": {
                   "name": "SkyUp Airlines",
                   "code": "4V",
@@ -4620,8 +4878,8 @@
                   "timezone": "Africa/Cairo"
                 },
                 "arrival_terminal": "",
-                "std": "2026-07-10T00:05:00+00:00",
-                "sta": "2026-07-10T03:35:00+00:00",
+                "std": "2026-07-11T08:55:00+00:00",
+                "sta": "2026-07-11T12:25:00+00:00",
                 "luggage": [
                   {
                     "type": "HNDL",
@@ -4640,7 +4898,7 @@
               "availability": null,
               "params": {
                 "class": null,
-                "flight_number": "8310",
+                "flight_number": "8312",
                 "marketing_airline": {
                   "name": "SkyUp Airlines",
                   "code": "4V",
@@ -4660,8 +4918,8 @@
                   "timezone": "Europe/Chisinau"
                 },
                 "arrival_terminal": "",
-                "std": "2026-07-17T04:35:00+00:00",
-                "sta": "2026-07-17T08:20:00+00:00",
+                "std": "2026-07-18T13:25:00+00:00",
+                "sta": "2026-07-18T17:10:00+00:00",
                 "luggage": [
                   {
                     "type": "HNDL",
@@ -4678,10 +4936,10 @@
           "price": {
             "components": [
               {
-                "title": "Base2-RMO/291195",
+                "title": "Base-1-RMO/291194",
                 "type": "tour",
                 "price": {
-                  "price": "41903.00",
+                  "price": "51037.00",
                   "currency": {
                     "code": "UAH",
                     "sign": "₴"
@@ -4693,7 +4951,7 @@
             "average_history_price": null,
             "full_price": null,
             "total_price": {
-              "price": "41903.00",
+              "price": "51037.00",
               "currency": {
                 "code": "UAH",
                 "sign": "₴"
@@ -4790,17 +5048,17 @@
     },
     {
       "hotel": {
-        "id": "47539",
-        "name": "Viva Blue Resort Soma Bay (Adults Only 12+)",
+        "id": "27194",
+        "name": "Uni Sharm Aqua Hotel",
         "category": {
-          "category": "4",
-          "name": "4 - Чотири зірки"
+          "category": "3",
+          "name": "3 - Три зірки"
         },
         "badges": [],
         "descriptions": [
           {
             "title": "Опис",
-            "description": "Viva Blue Resort Soma Bay знаходиться на першій береговій лінії в заповідній зоні Шарм Ель Нага в тихому відокремленому місці.\n\nГотель працює за концепцією «тільки для дорослих».\n\nУ безпосередній близькості знаходяться знамениті гольф поля Championship, найбільший в регіоні талассо-центр, школи віндсерфінгу і кайтсерфінгу Kite House. Захоплюючі снорклинг, дайвінг і морські прогулянки подарують гостям незабутні враження.\n\nГотель знаходиться далеко від галасливої ​​курортної інфраструктури та може бути рекомендований як для тихого спокійного відпочинку, так і для любителів снорклинга і дайвінгу.",
+            "description": "Uni Sharm Aqua Hotel - невеликий готель в районі Hadaba. Готель має дуже зручне розташування. Біля готелю знаходяться торгові ряди, які порадують любителів шопінгу і місцевого колориту.",
             "type": "general"
           }
         ],
@@ -4808,158 +5066,50 @@
           {
             "type": "image",
             "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40812/photos/IMG_1806.jpg",
-            "alt": "Екстер'єр готелю вночі з освітленими басейнами та видом на океан. - Екстер'єр готелю вночі з освітленими басейнами та видом на океан."
+            "url": "https://media.joinup.travel/storage/hotel/40771/photos/DSC_0165.jpg",
+            "alt": "Uni Sharm Aqua Hotel"
           },
           {
             "type": "image",
             "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40812/photos/IMG_1656.jpg",
-            "alt": "Яскравий денний вид на басейн готелю з океаном на фоні. - Яскравий денний вид на басейн готелю з океаном на фоні."
+            "url": "https://media.joinup.travel/storage/hotel/40771/photos/DSC_0171.jpg",
+            "alt": "Uni Sharm Aqua Hotel"
           },
           {
             "type": "image",
             "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40812/photos/IMG_1648.jpg",
-            "alt": "Територія готелю освітлена вночі, видні басейни та сади. - Територія готелю освітлена вночі, видні басейни та сади."
+            "url": "https://media.joinup.travel/storage/hotel/40771/photos/DSC_0164.jpg",
+            "alt": "Uni Sharm Aqua Hotel"
           },
           {
             "type": "image",
             "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40812/photos/Pool-By-Night-2-Viva-Blue.jpg",
-            "alt": "Нічний вид на освітлену зону басейну з готелем на фоні. - Нічний вид на освітлену зону басейну з готелем на фоні."
+            "url": "https://media.joinup.travel/storage/hotel/40771/photos/DSC_0168.jpg",
+            "alt": "Uni Sharm Aqua Hotel"
           },
           {
             "type": "image",
             "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40812/photos/Pool-Area-Viva-Blue.jpg",
-            "alt": "Зовнішня зона басейну з будівлею готелю на фоні під час сутінків. - Зовнішня зона басейну з будівлею готелю на фоні під час сутінків."
+            "url": "https://media.joinup.travel/storage/hotel/40771/photos/DSC_0159-1.jpg",
+            "alt": "Uni Sharm Aqua Hotel"
           },
           {
             "type": "image",
             "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40812/photos/Pool-Area-2-Viva-Blue.jpg",
-            "alt": "Зона басейну з видом на океан та піщаним пляжем вдалині. - Зона басейну з видом на океан та піщаним пляжем вдалині."
+            "url": "https://media.joinup.travel/storage/hotel/40771/photos/DSC_0172-1.jpg",
+            "alt": "Двоє дітей йдуть до білих готельних будівель з пальмами та зеленню. - Двоє дітей йдуть до білих готельних будівель з пальмами та зеленню."
           },
           {
             "type": "image",
             "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40812/photos/Main-Pool-Viva-Blue.jpg",
-            "alt": "Будівля готелю з зоною басейну спереду та видом на океан на фоні. - Будівля готелю з зоною басейну спереду та видом на океан на фоні."
+            "url": "https://media.joinup.travel/storage/hotel/40771/photos/DSC_0178-1.jpg",
+            "alt": "Вид на велику зону басейну з шезлонгами та пальмами біля білих готельних будівель. - Вид на велику зону басейну з шезлонгами та пальмами біля білих готельних будівель."
           },
           {
             "type": "image",
             "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40812/photos/IMG_1661.jpg",
-            "alt": "Дерев'яний пірс, що простягається в океан, з людьми, що йдуть по ньому. - Дерев'яний пірс, що простягається в океан, з людьми, що йдуть по ньому."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40812/photos/Jetty-and-Beach-Viva-Blue.jpg",
-            "alt": "Дерев'яний пірс, що веде до пляжної зони з шезлонгами та парасольками. - Дерев'яний пірс, що веде до пляжної зони з шезлонгами та парасольками."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40812/photos/Pool-Viva-Blue.JPG",
-            "alt": "Дерев'яний пірс, що простягається в океан з чистою блакитною водою. - Дерев'яний пірс, що простягається в океан з чистою блакитною водою."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40812/photos/Beach-Main-View-Viva-Blue.jpg",
-            "alt": "Дерев'яний пірс, що веде до пляжу з чистою блакитною водою та піщаним берегом. - Дерев'яний пірс, що веде до пляжу з чистою блакитною водою та піщаним берегом."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40812/photos/IMG_1769.jpg",
-            "alt": "Зона тренажерного залу з обладнанням та двома людьми, які займаються спортом. - Зона тренажерного залу з обладнанням та двома людьми, які займаються спортом."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40812/photos/Reception-Viva-Blue.jpg",
-            "alt": "Реєстраційний стіл готелю з сучасним дизайном та привітною атмосферою. - Реєстраційний стіл готелю з сучасним дизайном та привітною атмосферою."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40812/photos/Beach-Bar-Viva-Blue.jpg",
-            "alt": "Відкрита зона для обідів з дерев'яними столами та стільцями під солом'яним дахом. - Відкрита зона для обідів з дерев'яними столами та стільцями під солом'яним дахом."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40812/photos/Lobby-3-Viva-Blue.jpg",
-            "alt": "Простора лобі готелю з комфортними місцями для сидіння та сучасним декором. - Простора лобі готелю з комфортними місцями для сидіння та сучасним декором."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40812/photos/Lobby-Bar-Viva-Blue.jpg",
-            "alt": "Барна зона готелю з сучасними місцями для сидіння та різноманітними напоями. - Барна зона готелю з сучасними місцями для сидіння та різноманітними напоями."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40812/photos/Main-Restaurant-Terrace-1-Viva-Blue.jpg",
-            "alt": "Відкрита зона для обідів зі столами та стільцями з видом на пляж. - Відкрита зона для обідів зі столами та стільцями з видом на пляж."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40812/photos/Pool-Grill-Restaurant-Viva-Blue.JPG",
-            "alt": "Відкрита зона для обідів з затіненими столами та стільцями з видом на океан. - Відкрита зона для обідів з затіненими столами та стільцями з видом на океан."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40812/photos/Main-Restaurant-Viva-Blue.jpg",
-            "alt": "Елегантний обідній стіл, накритий для двох з тарілками та склянками. - Елегантний обідній стіл, накритий для двох з тарілками та склянками."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40812/photos/Gym-1-Viva-Blue.jpg",
-            "alt": "Тренажери з біговою доріжкою та ваговою машиною у фітнес-зоні. - Тренажери з біговою доріжкою та ваговою машиною у фітнес-зоні."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40812/photos/Lobby-Bar-Viva-Blue-копія.jpg",
-            "alt": "Барна зона з барменом, що готує напої, та різноманітними пляшками на виставці. - Барна зона з барменом, що готує напої, та різноманітними пляшками на виставці."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40812/photos/Conference-Room-Viva-Blue.JPG",
-            "alt": "Простора зона для обідів з круглими столами та стільцями для гостей. - Простора зона для обідів з круглими столами та стільцями для гостей."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40812/photos/Massage-Area-Viva-Blue.jpg",
-            "alt": "Масажна кімната з двома ліжками та кольоровим підводним декором. - Масажна кімната з двома ліжками та кольоровим підводним декором."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40812/photos/Shops-Area-Viva-Blue.JPG",
-            "alt": "Магазин готелю з сувенірами та аптечними товарами на виставці. - Магазин готелю з сувенірами та аптечними товарами на виставці."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40812/photos/DSCN0092.jpg",
-            "alt": "Підводна сцена з кольоровими коралами та тропічними рибами, що плавають. - Підводна сцена з кольоровими коралами та тропічними рибами, що плавають."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40812/photos/DSCN0143.jpg",
-            "alt": "Крупний план тропічної риби, що плаває біля кольорового коралового рифу. - Крупний план тропічної риби, що плаває біля кольорового коралового рифу."
+            "url": "https://media.joinup.travel/storage/hotel/40771/photos/DSC_0161.jpg",
+            "alt": "Внутрішній вигляд лобі готелю з більярдним столом та зоною для відпочинку. - Внутрішній вигляд лобі готелю з більярдним столом та зоною для відпочинку."
           }
         ],
         "special_info": {
@@ -4975,11 +5125,11 @@
           "total_rooms": null
         },
         "location": {
-          "city": "Soma Bay",
+          "city": "Sharm-El-Sheikh/Hadaba",
           "country": "Egypt",
           "full_address": "",
-          "latitude": "26.902503",
-          "longitude": "33.961486",
+          "latitude": "27.862095102775",
+          "longitude": "34.311990192098",
           "region": [
             {
               "id": "c_9",
@@ -4992,9 +5142,9 @@
               "price_from": null
             },
             {
-              "id": "o_1315",
-              "name": "Затока Сома",
-              "slug": "soma-bay",
+              "id": "o_1840",
+              "name": "Шарм-Ель-Шейх/Хадаба",
+              "slug": "sharm-el-sheikhhadaba",
               "code_iso": "",
               "type": "city",
               "sub_regions": [],
@@ -5008,7 +5158,7 @@
       },
       "offers": [
         {
-          "id": "0x430A0000002800000001450000000900000E130000000000DCBC25B48300000004717B070000B9B30000319C0000164100000005000000000000000000000237000575D2B48A00000600000000007973680000000302020000636363B4830000B48900000200000000240000000000000001000000003891F7C6000474340000172200000000",
+          "id": "0x430A0000002800000001450000000900000E120000000000707F3AB48700000004718F0700006A3A0000B8400000164100000005000000000000000000000001000575EDB48E0000070000000000935AA80000000302020000636363B4870000B48E00000200000000240000000000000001000000003734A70A000476B20000172200000000",
           "from": {
             "id": "325",
             "name": "Кишинів",
@@ -5020,11 +5170,11 @@
             "price_from": null
           },
           "stay": {
-            "label": "6+1",
+            "label": "7",
             "stay": 7
           },
-          "date_start": "2026-07-10",
-          "date_end": "2026-07-17",
+          "date_start": "2026-07-14",
+          "date_end": "2026-07-21",
           "board": {
             "board_type": "HB",
             "name": "Напівпансіон",
@@ -5032,8 +5182,8 @@
           },
           "rooms": [
             {
-              "code": "12700",
-              "name": "Standard Sea Side View",
+              "code": "47168",
+              "name": "Standard Room ",
               "placement": "2AD"
             }
           ],
@@ -5044,10 +5194,10 @@
               "availability": null,
               "params": {
                 "class": null,
-                "flight_number": "8309",
+                "flight_number": "345",
                 "marketing_airline": {
-                  "name": "SkyUp Airlines",
-                  "code": "4V",
+                  "name": "HiSky",
+                  "code": "H7",
                   "logo": null,
                   "plane": null
                 },
@@ -5059,21 +5209,21 @@
                 },
                 "departure_terminal": "",
                 "arrival": {
-                  "code": "HRG",
-                  "name": "Hurghada International Airport",
+                  "code": "SSH",
+                  "name": "Sharm El Sheikh International Airport",
                   "timezone": "Africa/Cairo"
                 },
                 "arrival_terminal": "",
-                "std": "2026-07-10T00:05:00+00:00",
-                "sta": "2026-07-10T03:35:00+00:00",
+                "std": "2026-07-14T07:00:00+00:00",
+                "sta": "2026-07-14T10:30:00+00:00",
                 "luggage": [
                   {
                     "type": "HNDL",
-                    "weight": 9
+                    "weight": 8
                   },
                   {
                     "type": "CBAG",
-                    "weight": 23
+                    "weight": 20
                   }
                 ]
               }
@@ -5084,17 +5234,17 @@
               "availability": null,
               "params": {
                 "class": null,
-                "flight_number": "8310",
+                "flight_number": "346",
                 "marketing_airline": {
-                  "name": "SkyUp Airlines",
-                  "code": "4V",
+                  "name": "HiSky",
+                  "code": "H7",
                   "logo": null,
                   "plane": null
                 },
                 "operating_airline": null,
                 "departure": {
-                  "code": "HRG",
-                  "name": "Hurghada International Airport",
+                  "code": "SSH",
+                  "name": "Sharm El Sheikh International Airport",
                   "timezone": "Africa/Cairo"
                 },
                 "departure_terminal": "",
@@ -5104,12 +5254,12 @@
                   "timezone": "Europe/Chisinau"
                 },
                 "arrival_terminal": "",
-                "std": "2026-07-17T04:35:00+00:00",
-                "sta": "2026-07-17T08:20:00+00:00",
+                "std": "2026-07-21T11:30:00+00:00",
+                "sta": "2026-07-21T15:00:00+00:00",
                 "luggage": [
                   {
                     "type": "HNDL",
-                    "weight": 9
+                    "weight": 8
                   },
                   {
                     "type": "CBAG",
@@ -5122,10 +5272,10 @@
           "price": {
             "components": [
               {
-                "title": "Base2-RMO/291195",
+                "title": "Base-1-RMO/291215",
                 "type": "tour",
                 "price": {
-                  "price": "42120.00",
+                  "price": "51104.00",
                   "currency": {
                     "code": "UAH",
                     "sign": "₴"
@@ -5137,7 +5287,7 @@
             "average_history_price": null,
             "full_price": null,
             "total_price": {
-              "price": "42120.00",
+              "price": "51104.00",
               "currency": {
                 "code": "UAH",
                 "sign": "₴"
@@ -5167,164 +5317,56 @@
         {
           "type": "image",
           "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40812/photos/IMG_1806.jpg",
-          "alt": "Екстер'єр готелю вночі з освітленими басейнами та видом на океан. - Екстер'єр готелю вночі з освітленими басейнами та видом на океан."
+          "url": "https://media.joinup.travel/storage/hotel/40771/photos/DSC_0165.jpg",
+          "alt": "Uni Sharm Aqua Hotel"
         },
         {
           "type": "image",
           "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40812/photos/IMG_1656.jpg",
-          "alt": "Яскравий денний вид на басейн готелю з океаном на фоні. - Яскравий денний вид на басейн готелю з океаном на фоні."
+          "url": "https://media.joinup.travel/storage/hotel/40771/photos/DSC_0171.jpg",
+          "alt": "Uni Sharm Aqua Hotel"
         },
         {
           "type": "image",
           "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40812/photos/IMG_1648.jpg",
-          "alt": "Територія готелю освітлена вночі, видні басейни та сади. - Територія готелю освітлена вночі, видні басейни та сади."
+          "url": "https://media.joinup.travel/storage/hotel/40771/photos/DSC_0164.jpg",
+          "alt": "Uni Sharm Aqua Hotel"
         },
         {
           "type": "image",
           "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40812/photos/Pool-By-Night-2-Viva-Blue.jpg",
-          "alt": "Нічний вид на освітлену зону басейну з готелем на фоні. - Нічний вид на освітлену зону басейну з готелем на фоні."
+          "url": "https://media.joinup.travel/storage/hotel/40771/photos/DSC_0168.jpg",
+          "alt": "Uni Sharm Aqua Hotel"
         },
         {
           "type": "image",
           "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40812/photos/Pool-Area-Viva-Blue.jpg",
-          "alt": "Зовнішня зона басейну з будівлею готелю на фоні під час сутінків. - Зовнішня зона басейну з будівлею готелю на фоні під час сутінків."
+          "url": "https://media.joinup.travel/storage/hotel/40771/photos/DSC_0159-1.jpg",
+          "alt": "Uni Sharm Aqua Hotel"
         },
         {
           "type": "image",
           "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40812/photos/Pool-Area-2-Viva-Blue.jpg",
-          "alt": "Зона басейну з видом на океан та піщаним пляжем вдалині. - Зона басейну з видом на океан та піщаним пляжем вдалині."
+          "url": "https://media.joinup.travel/storage/hotel/40771/photos/DSC_0172-1.jpg",
+          "alt": "Двоє дітей йдуть до білих готельних будівель з пальмами та зеленню. - Двоє дітей йдуть до білих готельних будівель з пальмами та зеленню."
         },
         {
           "type": "image",
           "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40812/photos/Main-Pool-Viva-Blue.jpg",
-          "alt": "Будівля готелю з зоною басейну спереду та видом на океан на фоні. - Будівля готелю з зоною басейну спереду та видом на океан на фоні."
+          "url": "https://media.joinup.travel/storage/hotel/40771/photos/DSC_0178-1.jpg",
+          "alt": "Вид на велику зону басейну з шезлонгами та пальмами біля білих готельних будівель. - Вид на велику зону басейну з шезлонгами та пальмами біля білих готельних будівель."
         },
         {
           "type": "image",
           "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40812/photos/IMG_1661.jpg",
-          "alt": "Дерев'яний пірс, що простягається в океан, з людьми, що йдуть по ньому. - Дерев'яний пірс, що простягається в океан, з людьми, що йдуть по ньому."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40812/photos/Jetty-and-Beach-Viva-Blue.jpg",
-          "alt": "Дерев'яний пірс, що веде до пляжної зони з шезлонгами та парасольками. - Дерев'яний пірс, що веде до пляжної зони з шезлонгами та парасольками."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40812/photos/Pool-Viva-Blue.JPG",
-          "alt": "Дерев'яний пірс, що простягається в океан з чистою блакитною водою. - Дерев'яний пірс, що простягається в океан з чистою блакитною водою."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40812/photos/Beach-Main-View-Viva-Blue.jpg",
-          "alt": "Дерев'яний пірс, що веде до пляжу з чистою блакитною водою та піщаним берегом. - Дерев'яний пірс, що веде до пляжу з чистою блакитною водою та піщаним берегом."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40812/photos/IMG_1769.jpg",
-          "alt": "Зона тренажерного залу з обладнанням та двома людьми, які займаються спортом. - Зона тренажерного залу з обладнанням та двома людьми, які займаються спортом."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40812/photos/Reception-Viva-Blue.jpg",
-          "alt": "Реєстраційний стіл готелю з сучасним дизайном та привітною атмосферою. - Реєстраційний стіл готелю з сучасним дизайном та привітною атмосферою."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40812/photos/Beach-Bar-Viva-Blue.jpg",
-          "alt": "Відкрита зона для обідів з дерев'яними столами та стільцями під солом'яним дахом. - Відкрита зона для обідів з дерев'яними столами та стільцями під солом'яним дахом."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40812/photos/Lobby-3-Viva-Blue.jpg",
-          "alt": "Простора лобі готелю з комфортними місцями для сидіння та сучасним декором. - Простора лобі готелю з комфортними місцями для сидіння та сучасним декором."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40812/photos/Lobby-Bar-Viva-Blue.jpg",
-          "alt": "Барна зона готелю з сучасними місцями для сидіння та різноманітними напоями. - Барна зона готелю з сучасними місцями для сидіння та різноманітними напоями."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40812/photos/Main-Restaurant-Terrace-1-Viva-Blue.jpg",
-          "alt": "Відкрита зона для обідів зі столами та стільцями з видом на пляж. - Відкрита зона для обідів зі столами та стільцями з видом на пляж."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40812/photos/Pool-Grill-Restaurant-Viva-Blue.JPG",
-          "alt": "Відкрита зона для обідів з затіненими столами та стільцями з видом на океан. - Відкрита зона для обідів з затіненими столами та стільцями з видом на океан."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40812/photos/Main-Restaurant-Viva-Blue.jpg",
-          "alt": "Елегантний обідній стіл, накритий для двох з тарілками та склянками. - Елегантний обідній стіл, накритий для двох з тарілками та склянками."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40812/photos/Gym-1-Viva-Blue.jpg",
-          "alt": "Тренажери з біговою доріжкою та ваговою машиною у фітнес-зоні. - Тренажери з біговою доріжкою та ваговою машиною у фітнес-зоні."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40812/photos/Lobby-Bar-Viva-Blue-копія.jpg",
-          "alt": "Барна зона з барменом, що готує напої, та різноманітними пляшками на виставці. - Барна зона з барменом, що готує напої, та різноманітними пляшками на виставці."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40812/photos/Conference-Room-Viva-Blue.JPG",
-          "alt": "Простора зона для обідів з круглими столами та стільцями для гостей. - Простора зона для обідів з круглими столами та стільцями для гостей."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40812/photos/Massage-Area-Viva-Blue.jpg",
-          "alt": "Масажна кімната з двома ліжками та кольоровим підводним декором. - Масажна кімната з двома ліжками та кольоровим підводним декором."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40812/photos/Shops-Area-Viva-Blue.JPG",
-          "alt": "Магазин готелю з сувенірами та аптечними товарами на виставці. - Магазин готелю з сувенірами та аптечними товарами на виставці."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40812/photos/DSCN0092.jpg",
-          "alt": "Підводна сцена з кольоровими коралами та тропічними рибами, що плавають. - Підводна сцена з кольоровими коралами та тропічними рибами, що плавають."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40812/photos/DSCN0143.jpg",
-          "alt": "Крупний план тропічної риби, що плаває біля кольорового коралового рифу. - Крупний план тропічної риби, що плаває біля кольорового коралового рифу."
+          "url": "https://media.joinup.travel/storage/hotel/40771/photos/DSC_0161.jpg",
+          "alt": "Внутрішній вигляд лобі готелю з більярдним столом та зоною для відпочинку. - Внутрішній вигляд лобі готелю з більярдним столом та зоною для відпочинку."
         }
       ],
       "links": [
         {
           "type": "agent_hotel_page",
-          "link": "https://agent.joinup.ua/uk/hotel/47539"
+          "link": "https://agent.joinup.ua/uk/hotel/27194"
         }
       ]
     }
@@ -5332,7 +5374,7 @@
   "pagination": {
     "per_page": 10,
     "current_page": 2,
-    "last_page": 36,
+    "last_page": 35,
     "first_item": null,
     "last_item": null,
     "total_items": null

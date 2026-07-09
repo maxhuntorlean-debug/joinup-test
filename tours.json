@@ -160,7 +160,7 @@
       },
       "offers": [
         {
-          "id": "0x430A0000002800000001450000000900000E130000000000F51313B48700000004717A070000F24B00000A9F0000164100000006000000000000000000000001000577AFB48E00000700000000008C3CC80000000302020000636363B4870000B48E0000020000000024000000000000000100000000387C80E4000476B20000172200000000",
+          "id": "0x430A0000002800000001450000000900000E130000000000F51313B48700000004717A070000F24B00000A9F0000164100000006000000000000000000000001000578DCB48E00000700000000008622480000000302020000636363B4870000B48E0000020000000024000000000000000100000000387C80E4000476B20000172200000000",
           "from": {
             "id": "325",
             "name": "Кишинів",
@@ -277,7 +277,7 @@
                 "title": "Base-1-RMO/291194",
                 "type": "tour",
                 "price": {
-                  "price": "48455.00",
+                  "price": "46346.00",
                   "currency": {
                     "code": "UAH",
                     "sign": "₴"
@@ -289,7 +289,7 @@
             "average_history_price": null,
             "full_price": null,
             "total_price": {
-              "price": "48455.00",
+              "price": "46346.00",
               "currency": {
                 "code": "UAH",
                 "sign": "₴"
@@ -652,7 +652,7 @@
       },
       "offers": [
         {
-          "id": "0x430A0000002800000001450000000900000E130000000000F5124EB48700000004717A070000668E0000B84000001641000004B2000000000000000000000001000577AFB48E00000700000000008CDDB80000000302020000636363B4870000B48E00000200000000240000000000000001000000014FB044AA000476B20000172200000000",
+          "id": "0x430A0000002800000001450000000900000E130000000000F5124EB48700000004717A070000668E0000B84000001641000004B2000000000000000000000001000578DCB48E000007000000000086C3380000000302020000636363B4870000B48E00000200000000240000000000000001000000014FB044AA000476B20000172200000000",
           "from": {
             "id": "325",
             "name": "Кишинів",
@@ -769,7 +769,7 @@
                 "title": "Base-1-RMO/291194",
                 "type": "tour",
                 "price": {
-                  "price": "48672.00",
+                  "price": "46563.00",
                   "currency": {
                     "code": "UAH",
                     "sign": "₴"
@@ -781,7 +781,7 @@
             "average_history_price": null,
             "full_price": null,
             "total_price": {
-              "price": "48672.00",
+              "price": "46563.00",
               "currency": {
                 "code": "UAH",
                 "sign": "₴"
@@ -1264,7 +1264,7 @@
       },
       "offers": [
         {
-          "id": "0x430A0000002800000001450000000900000E130000000000F512A6B48700000004717A0700007F450000B8400000164100000005000000000000000000000001000577AFB48E000007000000000092D2B80000000302020000636363B4870000B48E000002000000002400000000000000010000000012D844BE000476B20000172200000000",
+          "id": "0x430A0000002800000001450000000900000E130000000000F512A6B48700000004717A0700007F450000B8400000164100000005000000000000000000000001000578DCB48E00000700000000008CB8380000000302020000636363B4870000B48E000002000000002400000000000000010000000012D844BE000476B20000172200000000",
           "from": {
             "id": "325",
             "name": "Кишинів",
@@ -1381,7 +1381,7 @@
                 "title": "Base-1-RMO/291194",
                 "type": "tour",
                 "price": {
-                  "price": "50730.00",
+                  "price": "48621.00",
                   "currency": {
                     "code": "UAH",
                     "sign": "₴"
@@ -1393,7 +1393,7 @@
             "average_history_price": null,
             "full_price": null,
             "total_price": {
-              "price": "50730.00",
+              "price": "48621.00",
               "currency": {
                 "code": "UAH",
                 "sign": "₴"
@@ -2002,7 +2002,7 @@
       },
       "offers": [
         {
-          "id": "0x430A0000002800000001450000000900000E130000000000F5130AB48700000004717A070000ED2B0000B8400000164100000006000000000000000000000001000577AFB48E000007000000000097368C0000000302020000636363B4870000B48E0000020000000024000000000000000100000000387688F2000476B20000172200000000",
+          "id": "0x430A0000002800000001450000000900000E130000000000F5130AB48700000004717A070000ED2B0000B8400000164100000006000000000000000000000001000578DCB48E0000070000000000911C0C0000000302020000636363B4870000B48E0000020000000024000000000000000100000000387688F2000476B20000172200000000",
           "from": {
             "id": "325",
             "name": "Кишинів",
@@ -2119,7 +2119,7 @@
                 "title": "Base-1-RMO/291194",
                 "type": "tour",
                 "price": {
-                  "price": "52247.00",
+                  "price": "50138.00",
                   "currency": {
                     "code": "UAH",
                     "sign": "₴"
@@ -2131,7 +2131,7 @@
             "average_history_price": null,
             "full_price": null,
             "total_price": {
-              "price": "52247.00",
+              "price": "50138.00",
               "currency": {
                 "code": "UAH",
                 "sign": "₴"
@@ -2602,7 +2602,7 @@
       },
       "offers": [
         {
-          "id": "0x430A0000002800000001450000000900000E130000000000F512CBB48700000004717A0700009AA30000B84000001641000004B2000000000000000000000001000577AFB48E00000700000000009787680000000302020000636363B4870000B48E00000200000000240000000000000001000000014EDE543D000476B20000172200000000",
+          "id": "0x430A0000002800000001450000000900000E130000000000F512CBB48700000004717A0700009AA30000B84000001641000004B2000000000000000000000001000578DCB48E0000070000000000916CE80000000302020000636363B4870000B48E00000200000000240000000000000001000000014EDE543D000476B20000172200000000",
           "from": {
             "id": "325",
             "name": "Кишинів",
@@ -2719,7 +2719,7 @@
                 "title": "Base-1-RMO/291194",
                 "type": "tour",
                 "price": {
-                  "price": "52356.00",
+                  "price": "50247.00",
                   "currency": {
                     "code": "UAH",
                     "sign": "₴"
@@ -2731,7 +2731,7 @@
             "average_history_price": null,
             "full_price": null,
             "total_price": {
-              "price": "52356.00",
+              "price": "50247.00",
               "currency": {
                 "code": "UAH",
                 "sign": "₴"
@@ -2823,330 +2823,6 @@
         {
           "type": "agent_hotel_page",
           "link": "https://agent.joinup.ua/uk/hotel/39587"
-        }
-      ]
-    },
-    {
-      "hotel": {
-        "id": "27194",
-        "name": "Uni Sharm Aqua Hotel",
-        "category": {
-          "category": "3",
-          "name": "3 - Три зірки"
-        },
-        "badges": [],
-        "descriptions": [
-          {
-            "title": "Опис",
-            "description": "Uni Sharm Aqua Hotel - невеликий готель в районі Hadaba. Готель має дуже зручне розташування. Біля готелю знаходяться торгові ряди, які порадують любителів шопінгу і місцевого колориту.",
-            "type": "general"
-          }
-        ],
-        "media": [
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40771/photos/DSC_0165.jpg",
-            "alt": "Uni Sharm Aqua Hotel"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40771/photos/DSC_0171.jpg",
-            "alt": "Uni Sharm Aqua Hotel"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40771/photos/DSC_0164.jpg",
-            "alt": "Uni Sharm Aqua Hotel"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40771/photos/DSC_0168.jpg",
-            "alt": "Uni Sharm Aqua Hotel"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40771/photos/DSC_0159-1.jpg",
-            "alt": "Uni Sharm Aqua Hotel"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40771/photos/DSC_0172-1.jpg",
-            "alt": "Двоє дітей йдуть до білих готельних будівель з пальмами та зеленню. - Двоє дітей йдуть до білих готельних будівель з пальмами та зеленню."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40771/photos/DSC_0178-1.jpg",
-            "alt": "Вид на велику зону басейну з шезлонгами та пальмами біля білих готельних будівель. - Вид на велику зону басейну з шезлонгами та пальмами біля білих готельних будівель."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/40771/photos/DSC_0161.jpg",
-            "alt": "Внутрішній вигляд лобі готелю з більярдним столом та зоною для відпочинку. - Внутрішній вигляд лобі готелю з більярдним столом та зоною для відпочинку."
-          }
-        ],
-        "special_info": {
-          "check_in": {
-            "name": "Реєстрація",
-            "value": "14:00"
-          },
-          "check_out": {
-            "name": "Виїзд з готелю",
-            "value": "12:00"
-          },
-          "group": null,
-          "total_rooms": null
-        },
-        "location": {
-          "city": "Sharm-El-Sheikh/Hadaba",
-          "country": "Egypt",
-          "full_address": "",
-          "latitude": "27.862095102775",
-          "longitude": "34.311990192098",
-          "region": [
-            {
-              "id": "c_9",
-              "name": "Єгипет",
-              "slug": "egypt",
-              "code_iso": "EG",
-              "type": "country",
-              "sub_regions": [],
-              "departure_cities": [],
-              "price_from": null
-            },
-            {
-              "id": "o_1840",
-              "name": "Шарм-Ель-Шейх/Хадаба",
-              "slug": "sharm-el-sheikhhadaba",
-              "code_iso": "",
-              "type": "city",
-              "sub_regions": [],
-              "departure_cities": [],
-              "price_from": null
-            }
-          ],
-          "description": "",
-          "additional_info": []
-        }
-      },
-      "offers": [
-        {
-          "id": "0x430A0000002800000001450000000900000E120000000000707F3AB48700000004718F0700006A3A0000B84000001641000000050000000000000000000000010005771DB48E00000700000000009AFBC80000000302020000636363B4870000B48E00000200000000240000000000000001000000003734A70A000476B20000172200000000",
-          "from": {
-            "id": "325",
-            "name": "Кишинів",
-            "slug": "",
-            "code_iso": "",
-            "type": "city",
-            "sub_regions": [],
-            "departure_cities": [],
-            "price_from": null
-          },
-          "stay": {
-            "label": "7",
-            "stay": 7
-          },
-          "date_start": "2026-07-14",
-          "date_end": "2026-07-21",
-          "board": {
-            "board_type": "HB",
-            "name": "Напівпансіон",
-            "code": "5"
-          },
-          "rooms": [
-            {
-              "code": "47168",
-              "name": "Standard Room ",
-              "placement": "2AD"
-            }
-          ],
-          "transports": [
-            {
-              "type": "flight",
-              "direction": "outbound",
-              "availability": null,
-              "params": {
-                "class": null,
-                "flight_number": "345",
-                "marketing_airline": {
-                  "name": "HiSky",
-                  "code": "H7",
-                  "logo": null,
-                  "plane": null
-                },
-                "operating_airline": null,
-                "departure": {
-                  "code": "RMO",
-                  "name": "Chişinău International Airport",
-                  "timezone": "Europe/Chisinau"
-                },
-                "departure_terminal": "",
-                "arrival": {
-                  "code": "SSH",
-                  "name": "Sharm El Sheikh International Airport",
-                  "timezone": "Africa/Cairo"
-                },
-                "arrival_terminal": "",
-                "std": "2026-07-14T07:00:00+00:00",
-                "sta": "2026-07-14T10:30:00+00:00",
-                "luggage": [
-                  {
-                    "type": "HNDL",
-                    "weight": 8
-                  },
-                  {
-                    "type": "CBAG",
-                    "weight": 20
-                  }
-                ]
-              }
-            },
-            {
-              "type": "flight",
-              "direction": "inbound",
-              "availability": null,
-              "params": {
-                "class": null,
-                "flight_number": "346",
-                "marketing_airline": {
-                  "name": "HiSky",
-                  "code": "H7",
-                  "logo": null,
-                  "plane": null
-                },
-                "operating_airline": null,
-                "departure": {
-                  "code": "SSH",
-                  "name": "Sharm El Sheikh International Airport",
-                  "timezone": "Africa/Cairo"
-                },
-                "departure_terminal": "",
-                "arrival": {
-                  "code": "RMO",
-                  "name": "Chişinău International Airport",
-                  "timezone": "Europe/Chisinau"
-                },
-                "arrival_terminal": "",
-                "std": "2026-07-21T11:30:00+00:00",
-                "sta": "2026-07-21T15:00:00+00:00",
-                "luggage": [
-                  {
-                    "type": "HNDL",
-                    "weight": 8
-                  },
-                  {
-                    "type": "CBAG",
-                    "weight": 23
-                  }
-                ]
-              }
-            }
-          ],
-          "price": {
-            "components": [
-              {
-                "title": "Base-1-RMO/291215",
-                "type": "tour",
-                "price": {
-                  "price": "53550.00",
-                  "currency": {
-                    "code": "UAH",
-                    "sign": "₴"
-                  }
-                }
-              }
-            ],
-            "per_pax_price": null,
-            "average_history_price": null,
-            "full_price": null,
-            "total_price": {
-              "price": "53550.00",
-              "currency": {
-                "code": "UAH",
-                "sign": "₴"
-              }
-            },
-            "full_installment_price": null,
-            "installment_price": null,
-            "payment_price": null,
-            "total_price_description": "Повна оплата доступна карткою або через Apple/Google Pay.",
-            "installment_price_description": "",
-            "badges": [],
-            "commission": null
-          },
-          "promotion": null,
-          "badges": [],
-          "notes": [],
-          "availability": null,
-          "stop_sale": null,
-          "is_booking_available": null,
-          "is_dynamic": false,
-          "pax_adl": [],
-          "pax_chd": [],
-          "children_ages": []
-        }
-      ],
-      "media": [
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40771/photos/DSC_0165.jpg",
-          "alt": "Uni Sharm Aqua Hotel"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40771/photos/DSC_0171.jpg",
-          "alt": "Uni Sharm Aqua Hotel"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40771/photos/DSC_0164.jpg",
-          "alt": "Uni Sharm Aqua Hotel"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40771/photos/DSC_0168.jpg",
-          "alt": "Uni Sharm Aqua Hotel"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40771/photos/DSC_0159-1.jpg",
-          "alt": "Uni Sharm Aqua Hotel"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40771/photos/DSC_0172-1.jpg",
-          "alt": "Двоє дітей йдуть до білих готельних будівель з пальмами та зеленню. - Двоє дітей йдуть до білих готельних будівель з пальмами та зеленню."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40771/photos/DSC_0178-1.jpg",
-          "alt": "Вид на велику зону басейну з шезлонгами та пальмами біля білих готельних будівель. - Вид на велику зону басейну з шезлонгами та пальмами біля білих готельних будівель."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/40771/photos/DSC_0161.jpg",
-          "alt": "Внутрішній вигляд лобі готелю з більярдним столом та зоною для відпочинку. - Внутрішній вигляд лобі готелю з більярдним столом та зоною для відпочинку."
-        }
-      ],
-      "links": [
-        {
-          "type": "agent_hotel_page",
-          "link": "https://agent.joinup.ua/uk/hotel/27194"
         }
       ]
     },
@@ -3502,7 +3178,7 @@
       },
       "offers": [
         {
-          "id": "0x430A0000002800000001450000000900000E130000000000F5124FB48700000004717A070000668F0000B8400000164100000006000000000000000000000001000577AFB48E00000700000000009D2BF00000000302020000636363B4870000B48E00000200000000240000000000000001000000002CA2A075000476B20000172200000000",
+          "id": "0x430A0000002800000001450000000900000E130000000000F5124FB48700000004717A070000668F0000B8400000164100000006000000000000000000000001000578DCB48E00000700000000009711700000000302020000636363B4870000B48E00000200000000240000000000000001000000002CA2A075000476B20000172200000000",
           "from": {
             "id": "325",
             "name": "Кишинів",
@@ -3619,7 +3295,7 @@
                 "title": "Base-1-RMO/291194",
                 "type": "tour",
                 "price": {
-                  "price": "54306.00",
+                  "price": "52197.00",
                   "currency": {
                     "code": "UAH",
                     "sign": "₴"
@@ -3631,7 +3307,7 @@
             "average_history_price": null,
             "full_price": null,
             "total_price": {
-              "price": "54306.00",
+              "price": "52197.00",
               "currency": {
                 "code": "UAH",
                 "sign": "₴"
@@ -3950,1284 +3626,6 @@
     },
     {
       "hotel": {
-        "id": "27517",
-        "name": "Viking Club",
-        "category": {
-          "category": "3",
-          "name": "3 - Три зірки"
-        },
-        "badges": [],
-        "descriptions": [
-          {
-            "title": "Опис",
-            "description": "Невеликий затишний готель знаходиться в безпосередній близькості від променаду Naama Bay і торгово-розважального комплексу Geneva City, що дозволяє гостям цікаво і насичено проводити своє дозвілля. Готель для економічного спокійного відпочинку з можливістю цікаво проводити своє дозвілля поза готелем.",
-            "type": "general"
-          }
-        ],
-        "media": [
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51277/photos/Viking-Club_18-min.jpg",
-            "alt": "Зона басейну з шезлонгами та парасольками в готелі. - Зона басейну з шезлонгами та парасольками в готелі."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51277/photos/1000186937.jpg",
-            "alt": "Viking Club"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51277/photos/Viking-Club_22-min.jpg",
-            "alt": "Дерев'яна вежа біля входу в готель Viking Club. - Дерев'яна вежа біля входу в готель Viking Club."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51277/photos/Viking-Club_10-min.jpg",
-            "alt": "Вид на басейн з шезлонгами та затіненим місцем. - Вид на басейн з шезлонгами та затіненим місцем."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51277/photos/Viking-Club_11-min.jpg",
-            "alt": "Вид біля басейну з парасольками та шезлонгами в готелі. - Вид біля басейну з парасольками та шезлонгами в готелі."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51277/photos/Viking-Club_17-min.jpg",
-            "alt": "Яскраві парасольки та шезлонги біля басейну. - Яскраві парасольки та шезлонги біля басейну."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51277/photos/Viking-Club_13-min.jpg",
-            "alt": "Ще один вид на зону басейну з шезлонгами та парасольками. - Ще один вид на зону басейну з шезлонгами та парасольками."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51277/photos/Viking-Club_14-min.jpg",
-            "alt": "Вид на зону басейну з шезлонгами та затіненим місцем. - Вид на зону басейну з шезлонгами та затіненим місцем."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51277/photos/Viking-Club_12-min.jpg",
-            "alt": "Вид біля басейну з парасольками та шезлонгами в готелі. - Вид біля басейну з парасольками та шезлонгами в готелі."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51277/photos/Viking-Club_06-min.jpg",
-            "alt": "Сучасна будівля готелю з видом на басейн та парасольками. - Сучасна будівля готелю з видом на басейн та парасольками."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51277/photos/Viking-Club_05-min.jpg",
-            "alt": "Будівля готелю з садовою зоною та вуличними місцями для сидіння. - Будівля готелю з садовою зоною та вуличними місцями для сидіння."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51277/photos/Viking-Club_07-min.jpg",
-            "alt": "Сучасна будівля готелю з балконами та зеленню. - Сучасна будівля готелю з балконами та зеленню."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51277/photos/Viking-Club_16-min.jpg",
-            "alt": "Будівля готелю з садом та зоною для відпочинку на вулиці. - Будівля готелю з садом та зоною для відпочинку на вулиці."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51277/photos/Viking-Club_19-min.jpg",
-            "alt": "Дерев'яна пергола з квітучими рослинами біля будівлі готелю. - Дерев'яна пергола з квітучими рослинами біля будівлі готелю."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51277/photos/Viking-Club_09-min.jpg",
-            "alt": "Сучасна будівля готелю з вуличними місцями для сидіння та зеленню. - Сучасна будівля готелю з вуличними місцями для сидіння та зеленню."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51277/photos/Viking-Club_20-min.jpg",
-            "alt": "Реєстраційна зона готелю з мармуровою стійкою та дерев'яними деталями. - Реєстраційна зона готелю з мармуровою стійкою та дерев'яними деталями."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51277/photos/Viking-Club_21-min.jpg",
-            "alt": "Зона відпочинку з кріслами з візерунками та декоративним настінним мистецтвом. - Зона відпочинку з кріслами з візерунками та декоративним настінним мистецтвом."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51277/photos/1000311771.jpg",
-            "alt": "Viking Club"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51277/photos/1000311767.jpg",
-            "alt": "Viking Club"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51277/photos/Viking-Club-min.jpg",
-            "alt": "Обідня зона з оранжевими скатертинами та дерев'яними стільцями. - Обідня зона з оранжевими скатертинами та дерев'яними стільцями."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51277/photos/Viking-Club_02-min.jpg",
-            "alt": "Обідня зона з великими вікнами та оранжевими скатертинами. - Обідня зона з великими вікнами та оранжевими скатертинами."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51277/photos/Viking-Club_03-min.jpg",
-            "alt": "Зовнішній вигляд ресторану готелю з дерев'яними деталями. - Зовнішній вигляд ресторану готелю з дерев'яними деталями."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51277/photos/Viking-Club_15-min.jpg",
-            "alt": "Відкрита барна зона з місцями для сидіння та тінню. - Відкрита барна зона з місцями для сидіння та тінню."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51277/photos/Viking-Club_08-min.jpg",
-            "alt": "Відкрита зона для сидіння з альтанкою та лавками. - Відкрита зона для сидіння з альтанкою та лавками."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51277/photos/Viking-Club_04-min.jpg",
-            "alt": "Зовнішній вигляд Viking Club з вивіскою. - Зовнішній вигляд Viking Club з вивіскою."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51277/photos/1000384801.jpg",
-            "alt": "Viking Club"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51277/photos/1000311739.jpg",
-            "alt": "Viking Club"
-          }
-        ],
-        "special_info": {
-          "check_in": {
-            "name": "Реєстрація",
-            "value": "14:00"
-          },
-          "check_out": {
-            "name": "Виїзд з готелю",
-            "value": "12:00"
-          },
-          "group": null,
-          "total_rooms": null
-        },
-        "location": {
-          "city": "Sharm El Sheikh/Naama Bay",
-          "country": "Egypt",
-          "full_address": "El- Mohandessin Towers No. 3, Maadi Corniche el Nil st., Maadi, Cairo – Egypt",
-          "latitude": "27.9123897",
-          "longitude": "34.3158642",
-          "region": [
-            {
-              "id": "c_9",
-              "name": "Єгипет",
-              "slug": "egypt",
-              "code_iso": "EG",
-              "type": "country",
-              "sub_regions": [],
-              "departure_cities": [],
-              "price_from": null
-            },
-            {
-              "id": "o_1841",
-              "name": "Шарм-ель-Шейх/Наама Бей",
-              "slug": "sharm-el-sheikhnaama-bay",
-              "code_iso": "",
-              "type": "city",
-              "sub_regions": [],
-              "departure_cities": [],
-              "price_from": null
-            }
-          ],
-          "description": "",
-          "additional_info": []
-        }
-      },
-      "offers": [
-        {
-          "id": "0x430A0000002800000001450000000900000E120000000000707F3CB48700000004718F0700006B7D0000B84000001641000000060000000000000000000000010005771DB48E00000700000000009D2D800000000302020000636363B4870000B48E0000020000000024000000000000000100000000386AB556000476B20000172200000000",
-          "from": {
-            "id": "325",
-            "name": "Кишинів",
-            "slug": "",
-            "code_iso": "",
-            "type": "city",
-            "sub_regions": [],
-            "departure_cities": [],
-            "price_from": null
-          },
-          "stay": {
-            "label": "7",
-            "stay": 7
-          },
-          "date_start": "2026-07-14",
-          "date_end": "2026-07-21",
-          "board": {
-            "board_type": "AI",
-            "name": "Все включено",
-            "code": "6"
-          },
-          "rooms": [
-            {
-              "code": "47168",
-              "name": "Standard Room ",
-              "placement": "2AD"
-            }
-          ],
-          "transports": [
-            {
-              "type": "flight",
-              "direction": "outbound",
-              "availability": null,
-              "params": {
-                "class": null,
-                "flight_number": "345",
-                "marketing_airline": {
-                  "name": "HiSky",
-                  "code": "H7",
-                  "logo": null,
-                  "plane": null
-                },
-                "operating_airline": null,
-                "departure": {
-                  "code": "RMO",
-                  "name": "Chişinău International Airport",
-                  "timezone": "Europe/Chisinau"
-                },
-                "departure_terminal": "",
-                "arrival": {
-                  "code": "SSH",
-                  "name": "Sharm El Sheikh International Airport",
-                  "timezone": "Africa/Cairo"
-                },
-                "arrival_terminal": "",
-                "std": "2026-07-14T07:00:00+00:00",
-                "sta": "2026-07-14T10:30:00+00:00",
-                "luggage": [
-                  {
-                    "type": "HNDL",
-                    "weight": 8
-                  },
-                  {
-                    "type": "CBAG",
-                    "weight": 20
-                  }
-                ]
-              }
-            },
-            {
-              "type": "flight",
-              "direction": "inbound",
-              "availability": null,
-              "params": {
-                "class": null,
-                "flight_number": "346",
-                "marketing_airline": {
-                  "name": "HiSky",
-                  "code": "H7",
-                  "logo": null,
-                  "plane": null
-                },
-                "operating_airline": null,
-                "departure": {
-                  "code": "SSH",
-                  "name": "Sharm El Sheikh International Airport",
-                  "timezone": "Africa/Cairo"
-                },
-                "departure_terminal": "",
-                "arrival": {
-                  "code": "RMO",
-                  "name": "Chişinău International Airport",
-                  "timezone": "Europe/Chisinau"
-                },
-                "arrival_terminal": "",
-                "std": "2026-07-21T11:30:00+00:00",
-                "sta": "2026-07-21T15:00:00+00:00",
-                "luggage": [
-                  {
-                    "type": "HNDL",
-                    "weight": 8
-                  },
-                  {
-                    "type": "CBAG",
-                    "weight": 23
-                  }
-                ]
-              }
-            }
-          ],
-          "price": {
-            "components": [
-              {
-                "title": "Base-1-RMO/291215",
-                "type": "tour",
-                "price": {
-                  "price": "54308.00",
-                  "currency": {
-                    "code": "UAH",
-                    "sign": "₴"
-                  }
-                }
-              }
-            ],
-            "per_pax_price": null,
-            "average_history_price": null,
-            "full_price": null,
-            "total_price": {
-              "price": "54308.00",
-              "currency": {
-                "code": "UAH",
-                "sign": "₴"
-              }
-            },
-            "full_installment_price": null,
-            "installment_price": null,
-            "payment_price": null,
-            "total_price_description": "Повна оплата доступна карткою або через Apple/Google Pay.",
-            "installment_price_description": "",
-            "badges": [],
-            "commission": null
-          },
-          "promotion": null,
-          "badges": [],
-          "notes": [],
-          "availability": null,
-          "stop_sale": null,
-          "is_booking_available": null,
-          "is_dynamic": false,
-          "pax_adl": [],
-          "pax_chd": [],
-          "children_ages": []
-        }
-      ],
-      "media": [
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51277/photos/Viking-Club_18-min.jpg",
-          "alt": "Зона басейну з шезлонгами та парасольками в готелі. - Зона басейну з шезлонгами та парасольками в готелі."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51277/photos/1000186937.jpg",
-          "alt": "Viking Club"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51277/photos/Viking-Club_22-min.jpg",
-          "alt": "Дерев'яна вежа біля входу в готель Viking Club. - Дерев'яна вежа біля входу в готель Viking Club."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51277/photos/Viking-Club_10-min.jpg",
-          "alt": "Вид на басейн з шезлонгами та затіненим місцем. - Вид на басейн з шезлонгами та затіненим місцем."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51277/photos/Viking-Club_11-min.jpg",
-          "alt": "Вид біля басейну з парасольками та шезлонгами в готелі. - Вид біля басейну з парасольками та шезлонгами в готелі."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51277/photos/Viking-Club_17-min.jpg",
-          "alt": "Яскраві парасольки та шезлонги біля басейну. - Яскраві парасольки та шезлонги біля басейну."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51277/photos/Viking-Club_13-min.jpg",
-          "alt": "Ще один вид на зону басейну з шезлонгами та парасольками. - Ще один вид на зону басейну з шезлонгами та парасольками."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51277/photos/Viking-Club_14-min.jpg",
-          "alt": "Вид на зону басейну з шезлонгами та затіненим місцем. - Вид на зону басейну з шезлонгами та затіненим місцем."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51277/photos/Viking-Club_12-min.jpg",
-          "alt": "Вид біля басейну з парасольками та шезлонгами в готелі. - Вид біля басейну з парасольками та шезлонгами в готелі."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51277/photos/Viking-Club_06-min.jpg",
-          "alt": "Сучасна будівля готелю з видом на басейн та парасольками. - Сучасна будівля готелю з видом на басейн та парасольками."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51277/photos/Viking-Club_05-min.jpg",
-          "alt": "Будівля готелю з садовою зоною та вуличними місцями для сидіння. - Будівля готелю з садовою зоною та вуличними місцями для сидіння."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51277/photos/Viking-Club_07-min.jpg",
-          "alt": "Сучасна будівля готелю з балконами та зеленню. - Сучасна будівля готелю з балконами та зеленню."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51277/photos/Viking-Club_16-min.jpg",
-          "alt": "Будівля готелю з садом та зоною для відпочинку на вулиці. - Будівля готелю з садом та зоною для відпочинку на вулиці."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51277/photos/Viking-Club_19-min.jpg",
-          "alt": "Дерев'яна пергола з квітучими рослинами біля будівлі готелю. - Дерев'яна пергола з квітучими рослинами біля будівлі готелю."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51277/photos/Viking-Club_09-min.jpg",
-          "alt": "Сучасна будівля готелю з вуличними місцями для сидіння та зеленню. - Сучасна будівля готелю з вуличними місцями для сидіння та зеленню."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51277/photos/Viking-Club_20-min.jpg",
-          "alt": "Реєстраційна зона готелю з мармуровою стійкою та дерев'яними деталями. - Реєстраційна зона готелю з мармуровою стійкою та дерев'яними деталями."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51277/photos/Viking-Club_21-min.jpg",
-          "alt": "Зона відпочинку з кріслами з візерунками та декоративним настінним мистецтвом. - Зона відпочинку з кріслами з візерунками та декоративним настінним мистецтвом."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51277/photos/1000311771.jpg",
-          "alt": "Viking Club"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51277/photos/1000311767.jpg",
-          "alt": "Viking Club"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51277/photos/Viking-Club-min.jpg",
-          "alt": "Обідня зона з оранжевими скатертинами та дерев'яними стільцями. - Обідня зона з оранжевими скатертинами та дерев'яними стільцями."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51277/photos/Viking-Club_02-min.jpg",
-          "alt": "Обідня зона з великими вікнами та оранжевими скатертинами. - Обідня зона з великими вікнами та оранжевими скатертинами."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51277/photos/Viking-Club_03-min.jpg",
-          "alt": "Зовнішній вигляд ресторану готелю з дерев'яними деталями. - Зовнішній вигляд ресторану готелю з дерев'яними деталями."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51277/photos/Viking-Club_15-min.jpg",
-          "alt": "Відкрита барна зона з місцями для сидіння та тінню. - Відкрита барна зона з місцями для сидіння та тінню."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51277/photos/Viking-Club_08-min.jpg",
-          "alt": "Відкрита зона для сидіння з альтанкою та лавками. - Відкрита зона для сидіння з альтанкою та лавками."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51277/photos/Viking-Club_04-min.jpg",
-          "alt": "Зовнішній вигляд Viking Club з вивіскою. - Зовнішній вигляд Viking Club з вивіскою."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51277/photos/1000384801.jpg",
-          "alt": "Viking Club"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51277/photos/1000311739.jpg",
-          "alt": "Viking Club"
-        }
-      ],
-      "links": [
-        {
-          "type": "agent_hotel_page",
-          "link": "https://agent.joinup.ua/uk/hotel/27517"
-        }
-      ]
-    },
-    {
-      "hotel": {
-        "id": "36152",
-        "name": "Sharm Holiday Resort Aqua Park",
-        "category": {
-          "category": "4",
-          "name": "4 - Чотири зірки"
-        },
-        "badges": [
-          {
-            "type": "other",
-            "name": "Solo (Ексклюзив)",
-            "icon": "https://static.joinup.travel/badges/solo.svg"
-          }
-        ],
-        "descriptions": [
-          {
-            "title": "Опис",
-            "description": "Готель розташований на курорті Шарм-ель-Шейх, у безпосередній близькості від торгово-розважального комплексу Genena City і променаду Naama Bay, що дозволяє цікаво і насичено проводити свій час.",
-            "type": "general"
-          }
-        ],
-        "media": [
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51248/photos/10-2nd-Pool-12-.jpg",
-            "alt": "Sharm Holiday Resort Aqua Park"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51248/photos/02-Aqua-Park-6-.jpg",
-            "alt": "Sharm Holiday Resort Aqua Park"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51248/photos/10-2nd-Pool-6-.jpg",
-            "alt": "Sharm Holiday Resort Aqua Park"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51248/photos/10-2nd-Pool-4-.jpg",
-            "alt": "Sharm Holiday Resort Aqua Park"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51248/photos/0-Entrance-.jpg",
-            "alt": "Sharm Holiday Resort Aqua Park"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51248/photos/10-2nd-Pool-5-.jpg",
-            "alt": "Sharm Holiday Resort Aqua Park"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51248/photos/10-2nd-Pool-9-.jpg",
-            "alt": "Sharm Holiday Resort Aqua Park"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51248/photos/10-2nd-Pool-8-.jpg",
-            "alt": "Sharm Holiday Resort Aqua Park"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51248/photos/07-Beach-4-.jpg",
-            "alt": "Sharm Holiday Resort Aqua Park"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51248/photos/07-Beach-10-.jpg",
-            "alt": "Sharm Holiday Resort Aqua Park"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51248/photos/07-Beach-8-.jpg",
-            "alt": "Sharm Holiday Resort Aqua Park"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51248/photos/07-Beach-6-.jpg",
-            "alt": "Sharm Holiday Resort Aqua Park"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51248/photos/07-Beach-5-.jpg",
-            "alt": "Sharm Holiday Resort Aqua Park"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51248/photos/02-Aqua-Park-8-.jpg",
-            "alt": "Sharm Holiday Resort Aqua Park"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51248/photos/02-Aqua-Park-7-.jpg",
-            "alt": "Sharm Holiday Resort Aqua Park"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51248/photos/02-Aqua-Park-1-.jpg",
-            "alt": "Sharm Holiday Resort Aqua Park"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51248/photos/02-Aqua-Park-5-.jpg",
-            "alt": "Sharm Holiday Resort Aqua Park"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51248/photos/17-Pool-Bar-4-.jpeg",
-            "alt": "Sharm Holiday Resort Aqua Park"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51248/photos/16-show-time-2-.jpg",
-            "alt": "Sharm Holiday Resort Aqua Park"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51248/photos/03-Main-Restaurant-14-.jpg",
-            "alt": "Sharm Holiday Resort Aqua Park"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51248/photos/114.jpg",
-            "alt": "Sharm Holiday Resort Aqua Park"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51248/photos/06-Conference-room-4-.jpg",
-            "alt": "Sharm Holiday Resort Aqua Park"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51248/photos/04-Sea-Food-Restaurant-8-.jpg",
-            "alt": "Sharm Holiday Resort Aqua Park"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51248/photos/04-Sea-Food-Restaurant-5-.jpg",
-            "alt": "Sharm Holiday Resort Aqua Park"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51248/photos/04-Sea-Food-Restaurant-1-.jpg",
-            "alt": "Sharm Holiday Resort Aqua Park"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51248/photos/03-Main-Restaurant-13-.jpg",
-            "alt": "Sharm Holiday Resort Aqua Park"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51248/photos/03-Main-Restaurant-10-.jpg",
-            "alt": "Sharm Holiday Resort Aqua Park"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51248/photos/03-Main-Restaurant-9-.jpg",
-            "alt": "Sharm Holiday Resort Aqua Park"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51248/photos/03-Main-Restaurant-8-.jpg",
-            "alt": "Sharm Holiday Resort Aqua Park"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51248/photos/03-Main-Restaurant-7-.jpg",
-            "alt": "Sharm Holiday Resort Aqua Park"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51248/photos/03-Main-Restaurant-6-.jpg",
-            "alt": "Sharm Holiday Resort Aqua Park"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51248/photos/03-Main-Restaurant-5-.jpg",
-            "alt": "Sharm Holiday Resort Aqua Park"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51248/photos/03-Main-Restaurant-3-.jpg",
-            "alt": "Sharm Holiday Resort Aqua Park"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51248/photos/03-Main-Restaurant-2-.jpg",
-            "alt": "Sharm Holiday Resort Aqua Park"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51248/photos/03-Main-Restaurant-1-.jpg",
-            "alt": "Sharm Holiday Resort Aqua Park"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51248/photos/01-Reception-5-.jpg",
-            "alt": "Sharm Holiday Resort Aqua Park"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51248/photos/01-Reception-3-.jpg",
-            "alt": "Sharm Holiday Resort Aqua Park"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51248/photos/01-Reception-2-.jpg",
-            "alt": "Sharm Holiday Resort Aqua Park"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51248/photos/13-Kids-Club-1-.jpg",
-            "alt": "Sharm Holiday Resort Aqua Park"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51248/photos/09-Animation-7-.jpg",
-            "alt": "Sharm Holiday Resort Aqua Park"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51248/photos/07-Beach-3-.jpg",
-            "alt": "Sharm Holiday Resort Aqua Park"
-          }
-        ],
-        "special_info": {
-          "check_in": {
-            "name": "Реєстрація",
-            "value": "14:00"
-          },
-          "check_out": {
-            "name": "Виїзд з готелю",
-            "value": "12:00"
-          },
-          "group": null,
-          "total_rooms": null
-        },
-        "location": {
-          "city": "Sharm El Sheikh/Naama Bay",
-          "country": "Egypt",
-          "full_address": "",
-          "latitude": "27.907988",
-          "longitude": "34.317369",
-          "region": [
-            {
-              "id": "c_9",
-              "name": "Єгипет",
-              "slug": "egypt",
-              "code_iso": "EG",
-              "type": "country",
-              "sub_regions": [],
-              "departure_cities": [],
-              "price_from": null
-            },
-            {
-              "id": "o_1841",
-              "name": "Шарм-ель-Шейх/Наама Бей",
-              "slug": "sharm-el-sheikhnaama-bay",
-              "code_iso": "",
-              "type": "city",
-              "sub_regions": [],
-              "departure_cities": [],
-              "price_from": null
-            }
-          ],
-          "description": "",
-          "additional_info": []
-        }
-      },
-      "offers": [
-        {
-          "id": "0x430A0000002800000001450000000900000E120000000000707F54B48700000004718F0700008D380000B84000001641000000060000000000000000000000010005771DB48E00000700000000009DA9540000000302020000636363B4870000B48E0000020000000024000000000000000100000000386ECE01000476B20000172200000000",
-          "from": {
-            "id": "325",
-            "name": "Кишинів",
-            "slug": "",
-            "code_iso": "",
-            "type": "city",
-            "sub_regions": [],
-            "departure_cities": [],
-            "price_from": null
-          },
-          "stay": {
-            "label": "7",
-            "stay": 7
-          },
-          "date_start": "2026-07-14",
-          "date_end": "2026-07-21",
-          "board": {
-            "board_type": "AI",
-            "name": "Все включено",
-            "code": "6"
-          },
-          "rooms": [
-            {
-              "code": "47168",
-              "name": "Standard Room ",
-              "placement": "2AD"
-            }
-          ],
-          "transports": [
-            {
-              "type": "flight",
-              "direction": "outbound",
-              "availability": null,
-              "params": {
-                "class": null,
-                "flight_number": "345",
-                "marketing_airline": {
-                  "name": "HiSky",
-                  "code": "H7",
-                  "logo": null,
-                  "plane": null
-                },
-                "operating_airline": null,
-                "departure": {
-                  "code": "RMO",
-                  "name": "Chişinău International Airport",
-                  "timezone": "Europe/Chisinau"
-                },
-                "departure_terminal": "",
-                "arrival": {
-                  "code": "SSH",
-                  "name": "Sharm El Sheikh International Airport",
-                  "timezone": "Africa/Cairo"
-                },
-                "arrival_terminal": "",
-                "std": "2026-07-14T07:00:00+00:00",
-                "sta": "2026-07-14T10:30:00+00:00",
-                "luggage": [
-                  {
-                    "type": "HNDL",
-                    "weight": 8
-                  },
-                  {
-                    "type": "CBAG",
-                    "weight": 20
-                  }
-                ]
-              }
-            },
-            {
-              "type": "flight",
-              "direction": "inbound",
-              "availability": null,
-              "params": {
-                "class": null,
-                "flight_number": "346",
-                "marketing_airline": {
-                  "name": "HiSky",
-                  "code": "H7",
-                  "logo": null,
-                  "plane": null
-                },
-                "operating_airline": null,
-                "departure": {
-                  "code": "SSH",
-                  "name": "Sharm El Sheikh International Airport",
-                  "timezone": "Africa/Cairo"
-                },
-                "departure_terminal": "",
-                "arrival": {
-                  "code": "RMO",
-                  "name": "Chişinău International Airport",
-                  "timezone": "Europe/Chisinau"
-                },
-                "arrival_terminal": "",
-                "std": "2026-07-21T11:30:00+00:00",
-                "sta": "2026-07-21T15:00:00+00:00",
-                "luggage": [
-                  {
-                    "type": "HNDL",
-                    "weight": 8
-                  },
-                  {
-                    "type": "CBAG",
-                    "weight": 23
-                  }
-                ]
-              }
-            }
-          ],
-          "price": {
-            "components": [
-              {
-                "title": "Base-1-RMO/291215",
-                "type": "tour",
-                "price": {
-                  "price": "54475.00",
-                  "currency": {
-                    "code": "UAH",
-                    "sign": "₴"
-                  }
-                }
-              }
-            ],
-            "per_pax_price": null,
-            "average_history_price": null,
-            "full_price": null,
-            "total_price": {
-              "price": "54475.00",
-              "currency": {
-                "code": "UAH",
-                "sign": "₴"
-              }
-            },
-            "full_installment_price": null,
-            "installment_price": null,
-            "payment_price": null,
-            "total_price_description": "Повна оплата доступна карткою або через Apple/Google Pay.",
-            "installment_price_description": "",
-            "badges": [],
-            "commission": null
-          },
-          "promotion": null,
-          "badges": [],
-          "notes": [],
-          "availability": null,
-          "stop_sale": null,
-          "is_booking_available": null,
-          "is_dynamic": false,
-          "pax_adl": [],
-          "pax_chd": [],
-          "children_ages": []
-        }
-      ],
-      "media": [
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51248/photos/10-2nd-Pool-12-.jpg",
-          "alt": "Sharm Holiday Resort Aqua Park"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51248/photos/02-Aqua-Park-6-.jpg",
-          "alt": "Sharm Holiday Resort Aqua Park"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51248/photos/10-2nd-Pool-6-.jpg",
-          "alt": "Sharm Holiday Resort Aqua Park"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51248/photos/10-2nd-Pool-4-.jpg",
-          "alt": "Sharm Holiday Resort Aqua Park"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51248/photos/0-Entrance-.jpg",
-          "alt": "Sharm Holiday Resort Aqua Park"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51248/photos/10-2nd-Pool-5-.jpg",
-          "alt": "Sharm Holiday Resort Aqua Park"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51248/photos/10-2nd-Pool-9-.jpg",
-          "alt": "Sharm Holiday Resort Aqua Park"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51248/photos/10-2nd-Pool-8-.jpg",
-          "alt": "Sharm Holiday Resort Aqua Park"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51248/photos/07-Beach-4-.jpg",
-          "alt": "Sharm Holiday Resort Aqua Park"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51248/photos/07-Beach-10-.jpg",
-          "alt": "Sharm Holiday Resort Aqua Park"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51248/photos/07-Beach-8-.jpg",
-          "alt": "Sharm Holiday Resort Aqua Park"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51248/photos/07-Beach-6-.jpg",
-          "alt": "Sharm Holiday Resort Aqua Park"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51248/photos/07-Beach-5-.jpg",
-          "alt": "Sharm Holiday Resort Aqua Park"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51248/photos/02-Aqua-Park-8-.jpg",
-          "alt": "Sharm Holiday Resort Aqua Park"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51248/photos/02-Aqua-Park-7-.jpg",
-          "alt": "Sharm Holiday Resort Aqua Park"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51248/photos/02-Aqua-Park-1-.jpg",
-          "alt": "Sharm Holiday Resort Aqua Park"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51248/photos/02-Aqua-Park-5-.jpg",
-          "alt": "Sharm Holiday Resort Aqua Park"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51248/photos/17-Pool-Bar-4-.jpeg",
-          "alt": "Sharm Holiday Resort Aqua Park"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51248/photos/16-show-time-2-.jpg",
-          "alt": "Sharm Holiday Resort Aqua Park"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51248/photos/03-Main-Restaurant-14-.jpg",
-          "alt": "Sharm Holiday Resort Aqua Park"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51248/photos/114.jpg",
-          "alt": "Sharm Holiday Resort Aqua Park"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51248/photos/06-Conference-room-4-.jpg",
-          "alt": "Sharm Holiday Resort Aqua Park"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51248/photos/04-Sea-Food-Restaurant-8-.jpg",
-          "alt": "Sharm Holiday Resort Aqua Park"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51248/photos/04-Sea-Food-Restaurant-5-.jpg",
-          "alt": "Sharm Holiday Resort Aqua Park"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51248/photos/04-Sea-Food-Restaurant-1-.jpg",
-          "alt": "Sharm Holiday Resort Aqua Park"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51248/photos/03-Main-Restaurant-13-.jpg",
-          "alt": "Sharm Holiday Resort Aqua Park"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51248/photos/03-Main-Restaurant-10-.jpg",
-          "alt": "Sharm Holiday Resort Aqua Park"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51248/photos/03-Main-Restaurant-9-.jpg",
-          "alt": "Sharm Holiday Resort Aqua Park"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51248/photos/03-Main-Restaurant-8-.jpg",
-          "alt": "Sharm Holiday Resort Aqua Park"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51248/photos/03-Main-Restaurant-7-.jpg",
-          "alt": "Sharm Holiday Resort Aqua Park"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51248/photos/03-Main-Restaurant-6-.jpg",
-          "alt": "Sharm Holiday Resort Aqua Park"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51248/photos/03-Main-Restaurant-5-.jpg",
-          "alt": "Sharm Holiday Resort Aqua Park"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51248/photos/03-Main-Restaurant-3-.jpg",
-          "alt": "Sharm Holiday Resort Aqua Park"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51248/photos/03-Main-Restaurant-2-.jpg",
-          "alt": "Sharm Holiday Resort Aqua Park"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51248/photos/03-Main-Restaurant-1-.jpg",
-          "alt": "Sharm Holiday Resort Aqua Park"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51248/photos/01-Reception-5-.jpg",
-          "alt": "Sharm Holiday Resort Aqua Park"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51248/photos/01-Reception-3-.jpg",
-          "alt": "Sharm Holiday Resort Aqua Park"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51248/photos/01-Reception-2-.jpg",
-          "alt": "Sharm Holiday Resort Aqua Park"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51248/photos/13-Kids-Club-1-.jpg",
-          "alt": "Sharm Holiday Resort Aqua Park"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51248/photos/09-Animation-7-.jpg",
-          "alt": "Sharm Holiday Resort Aqua Park"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51248/photos/07-Beach-3-.jpg",
-          "alt": "Sharm Holiday Resort Aqua Park"
-        }
-      ],
-      "links": [
-        {
-          "type": "agent_hotel_page",
-          "link": "https://agent.joinup.ua/uk/hotel/36152"
-        }
-      ]
-    },
-    {
-      "hotel": {
         "id": "33381",
         "name": "The Three Corners Equinox Beach Resort",
         "category": {
@@ -5464,7 +3862,7 @@
       },
       "offers": [
         {
-          "id": "0x430A0000002800000001450000000900000E130000000000F512AAB48700000004717A0700008265000021320000164100000006000000000000000000000001000577AFB48E00000700000000009DCC7C0000000302020000636363B4870000B48E00000200000000240000000000000001000000001BDF539A000476B20000172200000000",
+          "id": "0x430A0000002800000001450000000900000E130000000000F512AAB48700000004717A0700008265000021320000164100000006000000000000000000000001000578DCB48E000007000000000097B1FC0000000302020000636363B4870000B48E00000200000000240000000000000001000000001BDF539A000476B20000172200000000",
           "from": {
             "id": "325",
             "name": "Кишинів",
@@ -5581,7 +3979,7 @@
                 "title": "Base-1-RMO/291194",
                 "type": "tour",
                 "price": {
-                  "price": "54523.00",
+                  "price": "52414.00",
                   "currency": {
                     "code": "UAH",
                     "sign": "₴"
@@ -5593,7 +3991,7 @@
             "average_history_price": null,
             "full_price": null,
             "total_price": {
-              "price": "54523.00",
+              "price": "52414.00",
               "currency": {
                 "code": "UAH",
                 "sign": "₴"
@@ -5801,12 +4199,1440 @@
           "link": "https://agent.joinup.ua/uk/hotel/33381"
         }
       ]
+    },
+    {
+      "hotel": {
+        "id": "27524",
+        "name": "Mosaique El Gouna",
+        "category": {
+          "category": "4",
+          "name": "4 - Чотири зірки"
+        },
+        "badges": [],
+        "descriptions": [
+          {
+            "title": "Опис",
+            "description": "Готель, розташований за кілька хвилин ходьби від основних визначних пам'яток Ель-Гуни, пропонує гостям краєвиди на яхти в пристані. На території є відкриті басейни для дорослих та дітей, ресторан, два бари. Номери обладнані балконом або терасою, кондиціонером, сейфом, міні-баром та душем з феном.",
+            "type": "general"
+          }
+        ],
+        "media": [
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-El-Gouna-5.jpg",
+            "alt": "Вид на зону басейну, оточену будівлями та яскравими квітами. - Вид на зону басейну, оточену будівлями та яскравими квітами."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-El-Gouna-1.jpg",
+            "alt": "Інший ракурс зони басейну з шезлонгами та парасольками. - Інший ракурс зони басейну з шезлонгами та парасольками."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-El-Gouna-2.jpg",
+            "alt": "Чіткий вид на басейн, що відображає навколишню архітектуру. - Чіткий вид на басейн, що відображає навколишню архітектуру."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-El-Gouna-3.jpg",
+            "alt": "Вид з балкона на зону басейну з місцями для сидіння. - Вид з балкона на зону басейну з місцями для сидіння."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-El-Gouna-4.jpg",
+            "alt": "Вид з балкона з квітами та зоною басейну на задньому плані. - Вид з балкона з квітами та зоною басейну на задньому плані."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-exterior.jpg",
+            "alt": "Зовнішній вигляд готелю з пальмами та водними елементами. - Зовнішній вигляд готелю з пальмами та водними елементами."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-facade-2.jpg",
+            "alt": "Фронтальний вигляд входу в готель з пальмами вздовж стежки. - Фронтальний вигляд входу в готель з пальмами вздовж стежки."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-El-Gouna-Marina-Hotel-frontview.jpg",
+            "alt": "Бічний вигляд готелю, що демонструє його архітектуру та пальми. - Бічний вигляд готелю, що демонструє його архітектуру та пальми."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/El-Gouna-Red-Sea-New-Marina-Mosaique-Hotel-Top-View.jpg",
+            "alt": "Аерофотознімок марини з яхтами та прибережними будівлями. - Аерофотознімок марини з яхтами та прибережними будівлями."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/El-Gouna-aerial-view-Marina-moods.jpg",
+            "alt": "Аерофотознімок пляжної зони з шезлонгами та пляжними парасолями. - Аерофотознімок пляжної зони з шезлонгами та пляжними парасолями."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-hotel-El-Gouna-pool-Egypt.jpg",
+            "alt": "Зона біля басейну з шезлонгами та столом для напоїв. - Зона біля басейну з шезлонгами та столом для напоїв."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-marina-promenade.jpg",
+            "alt": "Вечірній вигляд на територію готелю з підсвіченими пальмами. - Вечірній вигляд на територію готелю з підсвіченими пальмами."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-kids-Pool.jpg",
+            "alt": "Зона басейну з затіненими місцями для сидіння та чистою блакитною водою. - Зона басейну з затіненими місцями для сидіння та чистою блакитною водою."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-Reception.jpg",
+            "alt": "Реєстраційна зона з кольоровими сидіннями та декоративними стінними елементами. - Реєстраційна зона з кольоровими сидіннями та декоративними стінними елементами."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-hotel-lobby-El-Gouna-1.jpg",
+            "alt": "Ще один вигляд зони реєстрації з яскравими сидіннями та декором. - Ще один вигляд зони реєстрації з яскравими сидіннями та декором."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-hotel-lobby-El-Gouna-2.jpg",
+            "alt": "Простора лобі з кольоровими сидіннями та фонтаном у центрі. - Простора лобі з кольоровими сидіннями та фонтаном у центрі."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-lobby-bar-cocktails.jpg",
+            "alt": "Крупний план напоїв на барній стійці з декоративним фоном. - Крупний план напоїв на барній стійці з декоративним фоном."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-Restaurant-indoor-area.jpg",
+            "alt": "Обідня зона з видом на марину та пальми за вікном. - Обідня зона з видом на марину та пальми за вікном."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-Red-Sea-lobby.jpg",
+            "alt": "Простора лобі з високими стелями та декоративними світильниками. - Простора лобі з високими стелями та декоративними світильниками."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-main-restaurant-chefs.jpg",
+            "alt": "Шеф-кухарі готують їжу в обідній зоні з привітною атмосферою. - Шеф-кухарі готують їжу в обідній зоні з привітною атмосферою."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Merbey-Restaurant-Mosaique-Hotel-El-Gouna-Red-Sea-Egypt.jpg",
+            "alt": "Елегантна обідня зона з арками та стильними столовими наборами. - Елегантна обідня зона з арками та стильними столовими наборами."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/el-gouna-red-sea-beaches-egypt-marina-beach-club.jpeg",
+            "alt": "Пляжна зона з солом'яними парасолями та шезлонгами на піску. - Пляжна зона з солом'яними парасолями та шезлонгами на піску."
+          }
+        ],
+        "special_info": {
+          "check_in": {
+            "name": "Реєстрація",
+            "value": "14:00"
+          },
+          "check_out": {
+            "name": "Виїзд з готелю",
+            "value": "12:00"
+          },
+          "group": null,
+          "total_rooms": null
+        },
+        "location": {
+          "city": "El Gouna",
+          "country": "Egypt",
+          "full_address": "",
+          "latitude": "27.412161131106",
+          "longitude": "33.67244583573",
+          "region": [
+            {
+              "id": "c_9",
+              "name": "Єгипет",
+              "slug": "egypt",
+              "code_iso": "EG",
+              "type": "country",
+              "sub_regions": [],
+              "departure_cities": [],
+              "price_from": null
+            },
+            {
+              "id": "o_1318",
+              "name": "Ель-Гуна",
+              "slug": "el-gouna",
+              "code_iso": "",
+              "type": "city",
+              "sub_regions": [],
+              "departure_cities": [],
+              "price_from": null
+            }
+          ],
+          "description": "",
+          "additional_info": []
+        }
+      },
+      "offers": [
+        {
+          "id": "0x430A0000002800000001450000000900000E130000000000F51297B48700000004717A0700006B840000003A0000164100000004000000000000000000000001000578DCB48E000007000000000099438C0000000302020000636363B4870000B48E000002000000002400000000000000010000000038764036000476B20000172200000000",
+          "from": {
+            "id": "325",
+            "name": "Кишинів",
+            "slug": "",
+            "code_iso": "",
+            "type": "city",
+            "sub_regions": [],
+            "departure_cities": [],
+            "price_from": null
+          },
+          "stay": {
+            "label": "7",
+            "stay": 7
+          },
+          "date_start": "2026-07-14",
+          "date_end": "2026-07-21",
+          "board": {
+            "board_type": "BB",
+            "name": "Ліжко та сніданок",
+            "code": "4"
+          },
+          "rooms": [
+            {
+              "code": "58",
+              "name": "Deluxe Room",
+              "placement": "2AD"
+            }
+          ],
+          "transports": [
+            {
+              "type": "flight",
+              "direction": "outbound",
+              "availability": null,
+              "params": {
+                "class": null,
+                "flight_number": "8311",
+                "marketing_airline": {
+                  "name": "SkyUp Airlines",
+                  "code": "4V",
+                  "logo": null,
+                  "plane": null
+                },
+                "operating_airline": null,
+                "departure": {
+                  "code": "RMO",
+                  "name": "Chişinău International Airport",
+                  "timezone": "Europe/Chisinau"
+                },
+                "departure_terminal": "",
+                "arrival": {
+                  "code": "HRG",
+                  "name": "Hurghada International Airport",
+                  "timezone": "Africa/Cairo"
+                },
+                "arrival_terminal": "",
+                "std": "2026-07-14T08:35:00+00:00",
+                "sta": "2026-07-14T12:05:00+00:00",
+                "luggage": [
+                  {
+                    "type": "HNDL",
+                    "weight": 9
+                  },
+                  {
+                    "type": "CBAG",
+                    "weight": 23
+                  }
+                ]
+              }
+            },
+            {
+              "type": "flight",
+              "direction": "inbound",
+              "availability": null,
+              "params": {
+                "class": null,
+                "flight_number": "8312",
+                "marketing_airline": {
+                  "name": "SkyUp Airlines",
+                  "code": "4V",
+                  "logo": null,
+                  "plane": null
+                },
+                "operating_airline": null,
+                "departure": {
+                  "code": "HRG",
+                  "name": "Hurghada International Airport",
+                  "timezone": "Africa/Cairo"
+                },
+                "departure_terminal": "",
+                "arrival": {
+                  "code": "RMO",
+                  "name": "Chişinău International Airport",
+                  "timezone": "Europe/Chisinau"
+                },
+                "arrival_terminal": "",
+                "std": "2026-07-21T13:05:00+00:00",
+                "sta": "2026-07-21T16:50:00+00:00",
+                "luggage": [
+                  {
+                    "type": "HNDL",
+                    "weight": 9
+                  },
+                  {
+                    "type": "CBAG",
+                    "weight": 23
+                  }
+                ]
+              }
+            }
+          ],
+          "price": {
+            "components": [
+              {
+                "title": "Base-1-RMO/291194",
+                "type": "tour",
+                "price": {
+                  "price": "52956.00",
+                  "currency": {
+                    "code": "UAH",
+                    "sign": "₴"
+                  }
+                }
+              }
+            ],
+            "per_pax_price": null,
+            "average_history_price": null,
+            "full_price": null,
+            "total_price": {
+              "price": "52956.00",
+              "currency": {
+                "code": "UAH",
+                "sign": "₴"
+              }
+            },
+            "full_installment_price": null,
+            "installment_price": null,
+            "payment_price": null,
+            "total_price_description": "Повна оплата доступна карткою або через Apple/Google Pay.",
+            "installment_price_description": "",
+            "badges": [],
+            "commission": null
+          },
+          "promotion": null,
+          "badges": [],
+          "notes": [],
+          "availability": null,
+          "stop_sale": null,
+          "is_booking_available": null,
+          "is_dynamic": false,
+          "pax_adl": [],
+          "pax_chd": [],
+          "children_ages": []
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-El-Gouna-5.jpg",
+          "alt": "Вид на зону басейну, оточену будівлями та яскравими квітами. - Вид на зону басейну, оточену будівлями та яскравими квітами."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-El-Gouna-1.jpg",
+          "alt": "Інший ракурс зони басейну з шезлонгами та парасольками. - Інший ракурс зони басейну з шезлонгами та парасольками."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-El-Gouna-2.jpg",
+          "alt": "Чіткий вид на басейн, що відображає навколишню архітектуру. - Чіткий вид на басейн, що відображає навколишню архітектуру."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-El-Gouna-3.jpg",
+          "alt": "Вид з балкона на зону басейну з місцями для сидіння. - Вид з балкона на зону басейну з місцями для сидіння."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-El-Gouna-4.jpg",
+          "alt": "Вид з балкона з квітами та зоною басейну на задньому плані. - Вид з балкона з квітами та зоною басейну на задньому плані."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-exterior.jpg",
+          "alt": "Зовнішній вигляд готелю з пальмами та водними елементами. - Зовнішній вигляд готелю з пальмами та водними елементами."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-facade-2.jpg",
+          "alt": "Фронтальний вигляд входу в готель з пальмами вздовж стежки. - Фронтальний вигляд входу в готель з пальмами вздовж стежки."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-El-Gouna-Marina-Hotel-frontview.jpg",
+          "alt": "Бічний вигляд готелю, що демонструє його архітектуру та пальми. - Бічний вигляд готелю, що демонструє його архітектуру та пальми."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/El-Gouna-Red-Sea-New-Marina-Mosaique-Hotel-Top-View.jpg",
+          "alt": "Аерофотознімок марини з яхтами та прибережними будівлями. - Аерофотознімок марини з яхтами та прибережними будівлями."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/El-Gouna-aerial-view-Marina-moods.jpg",
+          "alt": "Аерофотознімок пляжної зони з шезлонгами та пляжними парасолями. - Аерофотознімок пляжної зони з шезлонгами та пляжними парасолями."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-hotel-El-Gouna-pool-Egypt.jpg",
+          "alt": "Зона біля басейну з шезлонгами та столом для напоїв. - Зона біля басейну з шезлонгами та столом для напоїв."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-marina-promenade.jpg",
+          "alt": "Вечірній вигляд на територію готелю з підсвіченими пальмами. - Вечірній вигляд на територію готелю з підсвіченими пальмами."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-kids-Pool.jpg",
+          "alt": "Зона басейну з затіненими місцями для сидіння та чистою блакитною водою. - Зона басейну з затіненими місцями для сидіння та чистою блакитною водою."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-Reception.jpg",
+          "alt": "Реєстраційна зона з кольоровими сидіннями та декоративними стінними елементами. - Реєстраційна зона з кольоровими сидіннями та декоративними стінними елементами."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-hotel-lobby-El-Gouna-1.jpg",
+          "alt": "Ще один вигляд зони реєстрації з яскравими сидіннями та декором. - Ще один вигляд зони реєстрації з яскравими сидіннями та декором."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-hotel-lobby-El-Gouna-2.jpg",
+          "alt": "Простора лобі з кольоровими сидіннями та фонтаном у центрі. - Простора лобі з кольоровими сидіннями та фонтаном у центрі."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-lobby-bar-cocktails.jpg",
+          "alt": "Крупний план напоїв на барній стійці з декоративним фоном. - Крупний план напоїв на барній стійці з декоративним фоном."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-Restaurant-indoor-area.jpg",
+          "alt": "Обідня зона з видом на марину та пальми за вікном. - Обідня зона з видом на марину та пальми за вікном."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-Red-Sea-lobby.jpg",
+          "alt": "Простора лобі з високими стелями та декоративними світильниками. - Простора лобі з високими стелями та декоративними світильниками."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-main-restaurant-chefs.jpg",
+          "alt": "Шеф-кухарі готують їжу в обідній зоні з привітною атмосферою. - Шеф-кухарі готують їжу в обідній зоні з привітною атмосферою."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Merbey-Restaurant-Mosaique-Hotel-El-Gouna-Red-Sea-Egypt.jpg",
+          "alt": "Елегантна обідня зона з арками та стильними столовими наборами. - Елегантна обідня зона з арками та стильними столовими наборами."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/el-gouna-red-sea-beaches-egypt-marina-beach-club.jpeg",
+          "alt": "Пляжна зона з солом'яними парасолями та шезлонгами на піску. - Пляжна зона з солом'яними парасолями та шезлонгами на піску."
+        }
+      ],
+      "links": [
+        {
+          "type": "agent_hotel_page",
+          "link": "https://agent.joinup.ua/uk/hotel/27524"
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "id": "49627",
+        "name": "Captain's Inn El Gouna",
+        "category": {
+          "category": "3",
+          "name": "3 - Три зірки"
+        },
+        "badges": [],
+        "descriptions": [
+          {
+            "title": "Опис",
+            "description": "Captain’s Inn — це невеликий готель, ідеально розташований в красивій гавані Абу-Тіг, в самому модному місці — Ель-Гуна на узбережжі Червоного моря. В готелі знаходиться один з найпопулярніших ресторанівз великою терасою і столиками на набережній, звідки відкривається вид на блакитну воду причалу. Гості готелю Captain’s Inn також можуть відвідувати басейни готелю Ali Pasha, один з яких підігрівається взимку, а також піщаний пляж Marina Beach. Кілька багатомовних дайв-центрів, розташованих навколо пристані для яхт, роблять Captain’s Inn ідеальним дайвінг-готелем. Він також особливо популярний серед кайтсерферов, і любителів кайтбординга. Активні туристи і любителі вечірок будуть в захваті від усіх зручностей і можливостей відпочинку, пропонованих курортним містом Ель-Гуна.\n\nІнформація про структуру готелю і про номерний фонд:\n\nГотель складається з одного 3-х поверхового будинку.\nЗагальна кількість номерів — 56.\nРеновація - в готелі проведено капітальний ремонт.",
+            "type": "general"
+          }
+        ],
+        "media": [
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/51152/photos/El_Gouna_Red_Sea_Aerial_Shot_Abu_Tig_Marina-1-copy-3.jpeg",
+            "alt": "Захід сонця над мариною з яхтами та пальмами. - Захід сонця над мариною з яхтами та пальмами."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/51152/photos/OHM_Captains_Inn_El_Gouna_Red_Sea_Egypt_facade.jpeg",
+            "alt": "Жінка стоїть на балконі з видом на пальму. - Жінка стоїть на балконі з видом на пальму."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/51152/photos/El-Gouna-Red-Sea-Abu-Tig-Marina-Ali-Pasha-Hotel.jpeg",
+            "alt": "Аерознімок марини з човнами та навколишніми будівлями. - Аерознімок марини з човнами та навколишніми будівлями."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/51152/photos/Ancient_Sands_Golf_Resort_-Residences_El_Gouna_Red_Sea_The_Beach_-10-1.jpeg",
+            "alt": "Пляжна зона з солом'яними хатами та пальмами під блакитним небом. - Пляжна зона з солом'яними хатами та пальмами під блакитним небом."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/51152/photos/s-1.jpeg",
+            "alt": "Відкрита зона для обіду з столами з видом на марину. - Відкрита зона для обіду з столами з видом на марину."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/51152/photos/s.jpeg",
+            "alt": "Ресторан Marina Steakhouse з квітами та відкритими місцями для сидіння. - Ресторан Marina Steakhouse з квітами та відкритими місцями для сидіння."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/51152/photos/s-4.jpeg",
+            "alt": "Балкон з місцями для сидіння та видом на марину і човни. - Балкон з місцями для сидіння та видом на марину і човни."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/51152/photos/OHM_Captains_Inn_El_Gouna_Red_Sea_Egypt_serving.jpeg",
+            "alt": "Стильний балкон кімнати з місцями для сидіння та видом на марину. - Стильний балкон кімнати з місцями для сидіння та видом на марину."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/51152/photos/s-3.jpeg",
+            "alt": "Відкрита зона для обіду з столами з видом на марину. - Відкрита зона для обіду з столами з видом на марину."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/51152/photos/s-2.jpeg",
+            "alt": "Обідня зона з дерев'яними столами та смугастими стільцями. - Обідня зона з дерев'яними столами та смугастими стільцями."
+          }
+        ],
+        "special_info": {
+          "check_in": {
+            "name": "Реєстрація",
+            "value": "14:00"
+          },
+          "check_out": {
+            "name": "Виїзд з готелю",
+            "value": "12:00"
+          },
+          "group": null,
+          "total_rooms": null
+        },
+        "location": {
+          "city": "El Gouna",
+          "country": "Egypt",
+          "full_address": "",
+          "latitude": "27.4085416",
+          "longitude": "33.674091",
+          "region": [
+            {
+              "id": "c_9",
+              "name": "Єгипет",
+              "slug": "egypt",
+              "code_iso": "EG",
+              "type": "country",
+              "sub_regions": [],
+              "departure_cities": [],
+              "price_from": null
+            },
+            {
+              "id": "o_1318",
+              "name": "Ель-Гуна",
+              "slug": "el-gouna",
+              "code_iso": "",
+              "type": "city",
+              "sub_regions": [],
+              "departure_cities": [],
+              "price_from": null
+            }
+          ],
+          "description": "",
+          "additional_info": []
+        }
+      },
+      "offers": [
+        {
+          "id": "0x430A0000002800000001450000000900000E130000000000F512E0B48700000004717A070000C1DB0000B8400000164100000004000000000000000000000001000578DCB48E000007000000000099438C0000000302020000636363B4870000B48E0000020000000024000000000000000100000000386ABCD3000476B20000172200000000",
+          "from": {
+            "id": "325",
+            "name": "Кишинів",
+            "slug": "",
+            "code_iso": "",
+            "type": "city",
+            "sub_regions": [],
+            "departure_cities": [],
+            "price_from": null
+          },
+          "stay": {
+            "label": "7",
+            "stay": 7
+          },
+          "date_start": "2026-07-14",
+          "date_end": "2026-07-21",
+          "board": {
+            "board_type": "BB",
+            "name": "Ліжко та сніданок",
+            "code": "4"
+          },
+          "rooms": [
+            {
+              "code": "47168",
+              "name": "Standard Room ",
+              "placement": "2AD"
+            }
+          ],
+          "transports": [
+            {
+              "type": "flight",
+              "direction": "outbound",
+              "availability": null,
+              "params": {
+                "class": null,
+                "flight_number": "8311",
+                "marketing_airline": {
+                  "name": "SkyUp Airlines",
+                  "code": "4V",
+                  "logo": null,
+                  "plane": null
+                },
+                "operating_airline": null,
+                "departure": {
+                  "code": "RMO",
+                  "name": "Chişinău International Airport",
+                  "timezone": "Europe/Chisinau"
+                },
+                "departure_terminal": "",
+                "arrival": {
+                  "code": "HRG",
+                  "name": "Hurghada International Airport",
+                  "timezone": "Africa/Cairo"
+                },
+                "arrival_terminal": "",
+                "std": "2026-07-14T08:35:00+00:00",
+                "sta": "2026-07-14T12:05:00+00:00",
+                "luggage": [
+                  {
+                    "type": "HNDL",
+                    "weight": 9
+                  },
+                  {
+                    "type": "CBAG",
+                    "weight": 23
+                  }
+                ]
+              }
+            },
+            {
+              "type": "flight",
+              "direction": "inbound",
+              "availability": null,
+              "params": {
+                "class": null,
+                "flight_number": "8312",
+                "marketing_airline": {
+                  "name": "SkyUp Airlines",
+                  "code": "4V",
+                  "logo": null,
+                  "plane": null
+                },
+                "operating_airline": null,
+                "departure": {
+                  "code": "HRG",
+                  "name": "Hurghada International Airport",
+                  "timezone": "Africa/Cairo"
+                },
+                "departure_terminal": "",
+                "arrival": {
+                  "code": "RMO",
+                  "name": "Chişinău International Airport",
+                  "timezone": "Europe/Chisinau"
+                },
+                "arrival_terminal": "",
+                "std": "2026-07-21T13:05:00+00:00",
+                "sta": "2026-07-21T16:50:00+00:00",
+                "luggage": [
+                  {
+                    "type": "HNDL",
+                    "weight": 9
+                  },
+                  {
+                    "type": "CBAG",
+                    "weight": 23
+                  }
+                ]
+              }
+            }
+          ],
+          "price": {
+            "components": [
+              {
+                "title": "Base-1-RMO/291194",
+                "type": "tour",
+                "price": {
+                  "price": "52956.00",
+                  "currency": {
+                    "code": "UAH",
+                    "sign": "₴"
+                  }
+                }
+              }
+            ],
+            "per_pax_price": null,
+            "average_history_price": null,
+            "full_price": null,
+            "total_price": {
+              "price": "52956.00",
+              "currency": {
+                "code": "UAH",
+                "sign": "₴"
+              }
+            },
+            "full_installment_price": null,
+            "installment_price": null,
+            "payment_price": null,
+            "total_price_description": "Повна оплата доступна карткою або через Apple/Google Pay.",
+            "installment_price_description": "",
+            "badges": [],
+            "commission": null
+          },
+          "promotion": null,
+          "badges": [],
+          "notes": [],
+          "availability": null,
+          "stop_sale": null,
+          "is_booking_available": null,
+          "is_dynamic": false,
+          "pax_adl": [],
+          "pax_chd": [],
+          "children_ages": []
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/51152/photos/El_Gouna_Red_Sea_Aerial_Shot_Abu_Tig_Marina-1-copy-3.jpeg",
+          "alt": "Захід сонця над мариною з яхтами та пальмами. - Захід сонця над мариною з яхтами та пальмами."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/51152/photos/OHM_Captains_Inn_El_Gouna_Red_Sea_Egypt_facade.jpeg",
+          "alt": "Жінка стоїть на балконі з видом на пальму. - Жінка стоїть на балконі з видом на пальму."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/51152/photos/El-Gouna-Red-Sea-Abu-Tig-Marina-Ali-Pasha-Hotel.jpeg",
+          "alt": "Аерознімок марини з човнами та навколишніми будівлями. - Аерознімок марини з човнами та навколишніми будівлями."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/51152/photos/Ancient_Sands_Golf_Resort_-Residences_El_Gouna_Red_Sea_The_Beach_-10-1.jpeg",
+          "alt": "Пляжна зона з солом'яними хатами та пальмами під блакитним небом. - Пляжна зона з солом'яними хатами та пальмами під блакитним небом."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/51152/photos/s-1.jpeg",
+          "alt": "Відкрита зона для обіду з столами з видом на марину. - Відкрита зона для обіду з столами з видом на марину."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/51152/photos/s.jpeg",
+          "alt": "Ресторан Marina Steakhouse з квітами та відкритими місцями для сидіння. - Ресторан Marina Steakhouse з квітами та відкритими місцями для сидіння."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/51152/photos/s-4.jpeg",
+          "alt": "Балкон з місцями для сидіння та видом на марину і човни. - Балкон з місцями для сидіння та видом на марину і човни."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/51152/photos/OHM_Captains_Inn_El_Gouna_Red_Sea_Egypt_serving.jpeg",
+          "alt": "Стильний балкон кімнати з місцями для сидіння та видом на марину. - Стильний балкон кімнати з місцями для сидіння та видом на марину."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/51152/photos/s-3.jpeg",
+          "alt": "Відкрита зона для обіду з столами з видом на марину. - Відкрита зона для обіду з столами з видом на марину."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/51152/photos/s-2.jpeg",
+          "alt": "Обідня зона з дерев'яними столами та смугастими стільцями. - Обідня зона з дерев'яними столами та смугастими стільцями."
+        }
+      ],
+      "links": [
+        {
+          "type": "agent_hotel_page",
+          "link": "https://agent.joinup.ua/uk/hotel/49627"
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "id": "41817",
+        "name": "Marlin Inn Beach Resort",
+        "category": {
+          "category": "3",
+          "name": "3 - Три зірки"
+        },
+        "badges": [],
+        "descriptions": [
+          {
+            "title": "Опис",
+            "description": "Готель розташований у Хургаді, біля прогулянкової зони Ель-Мамша з безліччю ресторанів, барів, кальянних, сувенірних магазинів і популярних дискотек. Його особливостями є прекрасний піщаний пляж, доброзичливий персонал і вдале розташування.",
+            "type": "general"
+          }
+        ],
+        "media": [
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(1).jpg",
+            "alt": "Marlin Inn Beach Resort"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(2).jpg",
+            "alt": "Marlin Inn Beach Resort"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(3).jpg",
+            "alt": "Marlin Inn Beach Resort"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(4).jpg",
+            "alt": "Marlin Inn Beach Resort"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(5).jpg",
+            "alt": "Marlin Inn Beach Resort"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(6).jpg",
+            "alt": "Marlin Inn Beach Resort"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(7).jpg",
+            "alt": "Marlin Inn Beach Resort"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(8).jpg",
+            "alt": "Marlin Inn Beach Resort"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(9).jpg",
+            "alt": "Marlin Inn Beach Resort"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(10).jpg",
+            "alt": "Marlin Inn Beach Resort"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(11).jpg",
+            "alt": "Marlin Inn Beach Resort"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(12).jpg",
+            "alt": "Marlin Inn Beach Resort"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(13).jpg",
+            "alt": "Marlin Inn Beach Resort"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(14).jpg",
+            "alt": "Marlin Inn Beach Resort"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(15).jpg",
+            "alt": "Marlin Inn Beach Resort"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(16).jpg",
+            "alt": "Marlin Inn Beach Resort"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(17).jpg",
+            "alt": "Marlin Inn Beach Resort"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(18).jpg",
+            "alt": "Marlin Inn Beach Resort"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(19).jpg",
+            "alt": "Marlin Inn Beach Resort"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(20).jpg",
+            "alt": "Marlin Inn Beach Resort"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(21).jpg",
+            "alt": "Marlin Inn Beach Resort"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(22).jpg",
+            "alt": "Marlin Inn Beach Resort"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(23).jpg",
+            "alt": "Marlin Inn Beach Resort"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(24).jpg",
+            "alt": "Marlin Inn Beach Resort"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(25).jpg",
+            "alt": "Marlin Inn Beach Resort"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(26).jpg",
+            "alt": "Marlin Inn Beach Resort"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(27).jpg",
+            "alt": "Marlin Inn Beach Resort"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(28).jpg",
+            "alt": "Marlin Inn Beach Resort"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(29).jpg",
+            "alt": "Marlin Inn Beach Resort"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(30).jpg",
+            "alt": "Marlin Inn Beach Resort"
+          }
+        ],
+        "special_info": {
+          "check_in": {
+            "name": "Реєстрація",
+            "value": "14:00"
+          },
+          "check_out": {
+            "name": "Виїзд з готелю",
+            "value": "12:00"
+          },
+          "group": null,
+          "total_rooms": null
+        },
+        "location": {
+          "city": "Hurghada",
+          "country": "Egypt",
+          "full_address": "",
+          "latitude": "27.192393039779",
+          "longitude": "33.835173049516",
+          "region": [
+            {
+              "id": "c_9",
+              "name": "Єгипет",
+              "slug": "egypt",
+              "code_iso": "EG",
+              "type": "country",
+              "sub_regions": [],
+              "departure_cities": [],
+              "price_from": null
+            },
+            {
+              "id": "o_1313",
+              "name": "Хургада",
+              "slug": "hurghada",
+              "code_iso": "",
+              "type": "city",
+              "sub_regions": [],
+              "departure_cities": [],
+              "price_from": null
+            }
+          ],
+          "description": "",
+          "additional_info": []
+        }
+      },
+      "offers": [
+        {
+          "id": "0x430A0000002800000001450000000900000E130000000000F512D2B48700000004717A070000A3590000B8400000164100000006000000000000000000000001000578DCB48E000007000000000099438C0000000302020000636363B4870000B48E00000200000000240000000000000001000000001310BA7B000476B20000172200000000",
+          "from": {
+            "id": "325",
+            "name": "Кишинів",
+            "slug": "",
+            "code_iso": "",
+            "type": "city",
+            "sub_regions": [],
+            "departure_cities": [],
+            "price_from": null
+          },
+          "stay": {
+            "label": "7",
+            "stay": 7
+          },
+          "date_start": "2026-07-14",
+          "date_end": "2026-07-21",
+          "board": {
+            "board_type": "AI",
+            "name": "Все включено",
+            "code": "6"
+          },
+          "rooms": [
+            {
+              "code": "47168",
+              "name": "Standard Room ",
+              "placement": "2AD"
+            }
+          ],
+          "transports": [
+            {
+              "type": "flight",
+              "direction": "outbound",
+              "availability": null,
+              "params": {
+                "class": null,
+                "flight_number": "8311",
+                "marketing_airline": {
+                  "name": "SkyUp Airlines",
+                  "code": "4V",
+                  "logo": null,
+                  "plane": null
+                },
+                "operating_airline": null,
+                "departure": {
+                  "code": "RMO",
+                  "name": "Chişinău International Airport",
+                  "timezone": "Europe/Chisinau"
+                },
+                "departure_terminal": "",
+                "arrival": {
+                  "code": "HRG",
+                  "name": "Hurghada International Airport",
+                  "timezone": "Africa/Cairo"
+                },
+                "arrival_terminal": "",
+                "std": "2026-07-14T08:35:00+00:00",
+                "sta": "2026-07-14T12:05:00+00:00",
+                "luggage": [
+                  {
+                    "type": "HNDL",
+                    "weight": 9
+                  },
+                  {
+                    "type": "CBAG",
+                    "weight": 23
+                  }
+                ]
+              }
+            },
+            {
+              "type": "flight",
+              "direction": "inbound",
+              "availability": null,
+              "params": {
+                "class": null,
+                "flight_number": "8312",
+                "marketing_airline": {
+                  "name": "SkyUp Airlines",
+                  "code": "4V",
+                  "logo": null,
+                  "plane": null
+                },
+                "operating_airline": null,
+                "departure": {
+                  "code": "HRG",
+                  "name": "Hurghada International Airport",
+                  "timezone": "Africa/Cairo"
+                },
+                "departure_terminal": "",
+                "arrival": {
+                  "code": "RMO",
+                  "name": "Chişinău International Airport",
+                  "timezone": "Europe/Chisinau"
+                },
+                "arrival_terminal": "",
+                "std": "2026-07-21T13:05:00+00:00",
+                "sta": "2026-07-21T16:50:00+00:00",
+                "luggage": [
+                  {
+                    "type": "HNDL",
+                    "weight": 9
+                  },
+                  {
+                    "type": "CBAG",
+                    "weight": 23
+                  }
+                ]
+              }
+            }
+          ],
+          "price": {
+            "components": [
+              {
+                "title": "Base-1-RMO/291194",
+                "type": "tour",
+                "price": {
+                  "price": "52956.00",
+                  "currency": {
+                    "code": "UAH",
+                    "sign": "₴"
+                  }
+                }
+              }
+            ],
+            "per_pax_price": null,
+            "average_history_price": null,
+            "full_price": null,
+            "total_price": {
+              "price": "52956.00",
+              "currency": {
+                "code": "UAH",
+                "sign": "₴"
+              }
+            },
+            "full_installment_price": null,
+            "installment_price": null,
+            "payment_price": null,
+            "total_price_description": "Повна оплата доступна карткою або через Apple/Google Pay.",
+            "installment_price_description": "",
+            "badges": [],
+            "commission": null
+          },
+          "promotion": null,
+          "badges": [],
+          "notes": [],
+          "availability": null,
+          "stop_sale": null,
+          "is_booking_available": null,
+          "is_dynamic": false,
+          "pax_adl": [],
+          "pax_chd": [],
+          "children_ages": []
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(1).jpg",
+          "alt": "Marlin Inn Beach Resort"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(2).jpg",
+          "alt": "Marlin Inn Beach Resort"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(3).jpg",
+          "alt": "Marlin Inn Beach Resort"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(4).jpg",
+          "alt": "Marlin Inn Beach Resort"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(5).jpg",
+          "alt": "Marlin Inn Beach Resort"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(6).jpg",
+          "alt": "Marlin Inn Beach Resort"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(7).jpg",
+          "alt": "Marlin Inn Beach Resort"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(8).jpg",
+          "alt": "Marlin Inn Beach Resort"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(9).jpg",
+          "alt": "Marlin Inn Beach Resort"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(10).jpg",
+          "alt": "Marlin Inn Beach Resort"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(11).jpg",
+          "alt": "Marlin Inn Beach Resort"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(12).jpg",
+          "alt": "Marlin Inn Beach Resort"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(13).jpg",
+          "alt": "Marlin Inn Beach Resort"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(14).jpg",
+          "alt": "Marlin Inn Beach Resort"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(15).jpg",
+          "alt": "Marlin Inn Beach Resort"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(16).jpg",
+          "alt": "Marlin Inn Beach Resort"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(17).jpg",
+          "alt": "Marlin Inn Beach Resort"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(18).jpg",
+          "alt": "Marlin Inn Beach Resort"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(19).jpg",
+          "alt": "Marlin Inn Beach Resort"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(20).jpg",
+          "alt": "Marlin Inn Beach Resort"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(21).jpg",
+          "alt": "Marlin Inn Beach Resort"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(22).jpg",
+          "alt": "Marlin Inn Beach Resort"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(23).jpg",
+          "alt": "Marlin Inn Beach Resort"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(24).jpg",
+          "alt": "Marlin Inn Beach Resort"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(25).jpg",
+          "alt": "Marlin Inn Beach Resort"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(26).jpg",
+          "alt": "Marlin Inn Beach Resort"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(27).jpg",
+          "alt": "Marlin Inn Beach Resort"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(28).jpg",
+          "alt": "Marlin Inn Beach Resort"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(29).jpg",
+          "alt": "Marlin Inn Beach Resort"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/50635/photos/Marlin-Inn-Beach-Resort_-(30).jpg",
+          "alt": "Marlin Inn Beach Resort"
+        }
+      ],
+      "links": [
+        {
+          "type": "agent_hotel_page",
+          "link": "https://agent.joinup.ua/uk/hotel/41817"
+        }
+      ]
     }
   ],
   "pagination": {
     "per_page": 10,
     "current_page": 2,
-    "last_page": 35,
+    "last_page": 20,
     "first_item": null,
     "last_item": null,
     "total_items": null

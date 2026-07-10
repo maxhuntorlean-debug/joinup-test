@@ -160,7 +160,7 @@
       },
       "offers": [
         {
-          "id": "0x430A0000002800000001450000000900000E130000000000D23647B48600000004717A070000F24B00000A9F0000164100000006000000000000000000000001000578DCB48D00000700000000008930500000000302020000636363B4860000B48D000002000000002400000000000000010000000038797C23000476B20000172200000000",
+          "id": "0x430A0000002800000001450000000900000E130000000000D23647B48600000004717A070000F24B00000A9F000016410000000600000000000000000000000100057CECB48D0000070000000000782CD80000000302020000636363B4860000B48D000002000000002400000000000000010000000038797C23000476B20000172200000000",
           "from": {
             "id": "325",
             "name": "Кишинів",
@@ -277,7 +277,7 @@
                 "title": "Base-1-RMO/291194",
                 "type": "tour",
                 "price": {
-                  "price": "47572.00",
+                  "price": "41672.00",
                   "currency": {
                     "code": "UAH",
                     "sign": "₴"
@@ -289,7 +289,7 @@
             "average_history_price": null,
             "full_price": null,
             "total_price": {
-              "price": "47572.00",
+              "price": "41672.00",
               "currency": {
                 "code": "UAH",
                 "sign": "₴"
@@ -411,582 +411,6 @@
         {
           "type": "agent_hotel_page",
           "link": "https://agent.joinup.ua/uk/hotel/62027"
-        }
-      ]
-    },
-    {
-      "hotel": {
-        "id": "26254",
-        "name": "Empire Beach Aqua Park",
-        "category": {
-          "category": "3",
-          "name": "3 - Три зірки"
-        },
-        "badges": [],
-        "descriptions": [
-          {
-            "title": "Опис",
-            "description": "Готель розташований на самому березі Червоного моря, у старій частині Хургади. Готель має в своєму розпорядженні невеликою територією з власним пляжем, басейнами, ресторанами, барами і дитячий міні-клубом. Готель Empire Beach Resort 3* підійде для сімейного відпочинку з дітьми.\n\nІнформація про структуру готелю і про номерний фонд:\n\nГотель був відкритий в 1989 році, остання проводилась реновація в 2012 році. Готель складається з будівлі ресепшен і шести одне, двох і триповерхових корпусів. Всього в готелі 163 номери: Standard Rooms and Family Rooms.",
-            "type": "general"
-          }
-        ],
-        "media": [
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/50960/photos/26254-1.jpg",
-            "alt": "Empire Beach Aqua Park"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/50960/photos/mpire-Beach-Aqua-Park2.jpg",
-            "alt": "Яскрава водна гірка з пальмами та зоною басейну на задньому плані. - Яскрава водна гірка з пальмами та зоною басейну на задньому плані."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/50960/photos/133634064.jpg",
-            "alt": "Спокійний басейн з пальмами та шезлонгами під хмарним небом. - Спокійний басейн з пальмами та шезлонгами під хмарним небом."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/50960/photos/166253687-1.jpg",
-            "alt": "Сцена на пляжі з парасольками, шезлонгами та людьми, що насолоджуються морем. - Сцена на пляжі з парасольками, шезлонгами та людьми, що насолоджуються морем."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/50960/photos/133634100.jpg",
-            "alt": "Прибережний вид з піщаним пляжем, парасольками та спокійним морем під хмарним небом. - Прибережний вид з піщаним пляжем, парасольками та спокійним морем під хмарним небом."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/50960/photos/mpire-Beach-Aqua-Park.jpg",
-            "alt": "Яскрава зона водних гірок з кольоровими гірками та пальмами. - Яскрава зона водних гірок з кольоровими гірками та пальмами."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/50960/photos/133634079.jpg",
-            "alt": "Пляжна зона з парасольками та шезлонгами, люди відпочивають під хмарним небом. - Пляжна зона з парасольками та шезлонгами, люди відпочивають під хмарним небом."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/50960/photos/DSC_0735.jpg",
-            "alt": "Доріжка, що веде до зони басейну з пальмами та водними елементами. - Доріжка, що веде до зони басейну з пальмами та водними елементами."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/50960/photos/DSC_0724.jpg",
-            "alt": "Доріжка, облямована пальмами, веде до курортної зони. - Доріжка, облямована пальмами, веде до курортної зони."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/50960/photos/133634129.jpg",
-            "alt": "Ігровий майданчик з гойдалками та ігровими спорудами, оточений пальмами. - Ігровий майданчик з гойдалками та ігровими спорудами, оточений пальмами."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/50960/photos/DSC_0757.jpg",
-            "alt": "Зона басейну з шезлонгами та парасольками, пальми на задньому плані. - Зона басейну з шезлонгами та парасольками, пальми на задньому плані."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/50960/photos/aca9398a.jpg",
-            "alt": "Діти, які тримаються за руки на краю басейну, готові стрибнути. - Діти, які тримаються за руки на краю басейну, готові стрибнути."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/50960/photos/DSC_0732.jpg",
-            "alt": "Вхід до ресторану Olives з вуличними місцями та пальмами. - Вхід до ресторану Olives з вуличними місцями та пальмами."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/50960/photos/185982364.jpg",
-            "alt": "Відкрита зона для обіду ресторану Olives з столами та пальмами. - Відкрита зона для обіду ресторану Olives з столами та пальмами."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/50960/photos/a50a4a07.jpg",
-            "alt": "Дитячий майданчик з гойдалками та кольоровим ігровим будиночком, оточений пальмами. - Дитячий майданчик з гойдалками та кольоровим ігровим будиночком, оточений пальмами."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/50960/photos/166253384.jpg",
-            "alt": "Реєстраційна зона з затишним місцем для сидіння та декоративними рослинами. - Реєстраційна зона з затишним місцем для сидіння та декоративними рослинами."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/50960/photos/DSC_7820.jpg",
-            "alt": "Простора реєстраційна зона з мармуровою підлогою та великими вікнами. - Простора реєстраційна зона з мармуровою підлогою та великими вікнами."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/50960/photos/DSC_3768.jpg",
-            "alt": "Виставка шведського столу з різноманітними стравами та гарнірами. - Виставка шведського столу з різноманітними стравами та гарнірами."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/50960/photos/DSC_3694.jpg",
-            "alt": "Відкрита зона для обіду ресторану Olives з накритими столами для гостей. - Відкрита зона для обіду ресторану Olives з накритими столами для гостей."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/50960/photos/DSC_0752.jpg",
-            "alt": "Обідня зона з дерев'яними столами та стільцями, прикрашена рослинами. - Обідня зона з дерев'яними столами та стільцями, прикрашена рослинами."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/50960/photos/DSC_0744.jpg",
-            "alt": "Простора обідня зона з великими вікнами та дерев'яними меблями. - Простора обідня зона з великими вікнами та дерев'яними меблями."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/50960/photos/DSC_0739.jpg",
-            "alt": "Зона шведського столу з різноманітними варіантами їжі та декоративними елементами. - Зона шведського столу з різноманітними варіантами їжі та декоративними елементами."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/50960/photos/DSC_0741.jpg",
-            "alt": "Станція шведського столу з різноманітними стравами та гарнірами на виставці. - Станція шведського столу з різноманітними стравами та гарнірами на виставці."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/50960/photos/DSC_0754.jpg",
-            "alt": "Обідня зона з великими вікнами та видом на басейн. - Обідня зона з великими вікнами та видом на басейн."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/50960/photos/185984362.jpg",
-            "alt": "Обідня зона з накритими столами для їжі та великими вікнами. - Обідня зона з накритими столами для їжі та великими вікнами."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/50960/photos/185984446.jpg",
-            "alt": "Стіл, накритий для обіду, з видом на пальми за вікном. - Стіл, накритий для обіду, з видом на пальми за вікном."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/50960/photos/186388265.jpg",
-            "alt": "Виставка шведського столу з різноманітними закусками та гарнірами. - Виставка шведського столу з різноманітними закусками та гарнірами."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/50960/photos/186388303.jpg",
-            "alt": "Стіл шведського столу з різноманітними стравами та кольоровими гарнірами. - Стіл шведського столу з різноманітними стравами та кольоровими гарнірами."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/50960/photos/207304984.jpg",
-            "alt": "Крупний план десертної виставки з різними тортами та випічкою. - Крупний план десертної виставки з різними тортами та випічкою."
-          }
-        ],
-        "special_info": {
-          "check_in": {
-            "name": "Реєстрація",
-            "value": "14:00"
-          },
-          "check_out": {
-            "name": "Виїзд з готелю",
-            "value": "12:00"
-          },
-          "group": null,
-          "total_rooms": null
-        },
-        "location": {
-          "city": "Hurghada",
-          "country": "Egypt",
-          "full_address": "",
-          "latitude": "27.2608283",
-          "longitude": "33.8202202",
-          "region": [
-            {
-              "id": "c_9",
-              "name": "Єгипет",
-              "slug": "egypt",
-              "code_iso": "EG",
-              "type": "country",
-              "sub_regions": [],
-              "departure_cities": [],
-              "price_from": null
-            },
-            {
-              "id": "o_1313",
-              "name": "Хургада",
-              "slug": "hurghada",
-              "code_iso": "",
-              "type": "city",
-              "sub_regions": [],
-              "departure_cities": [],
-              "price_from": null
-            }
-          ],
-          "description": "",
-          "additional_info": []
-        }
-      },
-      "offers": [
-        {
-          "id": "0x430A0000002800000001450000000900000E130000000000F5124EB48700000004717A070000668E0000B84000001641000004B200000000000000000000000100057BB8B48E00000700000000008E64580000000302020000636363B4870000B48E00000200000000240000000000000001000000014FB044AA000476B20000172200000000",
-          "from": {
-            "id": "325",
-            "name": "Кишинів",
-            "slug": "",
-            "code_iso": "",
-            "type": "city",
-            "sub_regions": [],
-            "departure_cities": [],
-            "price_from": null
-          },
-          "stay": {
-            "label": "7",
-            "stay": 7
-          },
-          "date_start": "2026-07-14",
-          "date_end": "2026-07-21",
-          "board": {
-            "board_type": "AI",
-            "name": "All Inclusive",
-            "code": "1202"
-          },
-          "rooms": [
-            {
-              "code": "47168",
-              "name": "Standard Room ",
-              "placement": "2AD"
-            }
-          ],
-          "transports": [
-            {
-              "type": "flight",
-              "direction": "outbound",
-              "availability": null,
-              "params": {
-                "class": null,
-                "flight_number": "8311",
-                "marketing_airline": {
-                  "name": "SkyUp Airlines",
-                  "code": "4V",
-                  "logo": null,
-                  "plane": null
-                },
-                "operating_airline": null,
-                "departure": {
-                  "code": "RMO",
-                  "name": "Chişinău International Airport",
-                  "timezone": "Europe/Chisinau"
-                },
-                "departure_terminal": "",
-                "arrival": {
-                  "code": "HRG",
-                  "name": "Hurghada International Airport",
-                  "timezone": "Africa/Cairo"
-                },
-                "arrival_terminal": "",
-                "std": "2026-07-14T08:35:00+00:00",
-                "sta": "2026-07-14T12:05:00+00:00",
-                "luggage": [
-                  {
-                    "type": "HNDL",
-                    "weight": 9
-                  },
-                  {
-                    "type": "CBAG",
-                    "weight": 23
-                  }
-                ]
-              }
-            },
-            {
-              "type": "flight",
-              "direction": "inbound",
-              "availability": null,
-              "params": {
-                "class": null,
-                "flight_number": "8312",
-                "marketing_airline": {
-                  "name": "SkyUp Airlines",
-                  "code": "4V",
-                  "logo": null,
-                  "plane": null
-                },
-                "operating_airline": null,
-                "departure": {
-                  "code": "HRG",
-                  "name": "Hurghada International Airport",
-                  "timezone": "Africa/Cairo"
-                },
-                "departure_terminal": "",
-                "arrival": {
-                  "code": "RMO",
-                  "name": "Chişinău International Airport",
-                  "timezone": "Europe/Chisinau"
-                },
-                "arrival_terminal": "",
-                "std": "2026-07-21T13:05:00+00:00",
-                "sta": "2026-07-21T16:50:00+00:00",
-                "luggage": [
-                  {
-                    "type": "HNDL",
-                    "weight": 9
-                  },
-                  {
-                    "type": "CBAG",
-                    "weight": 23
-                  }
-                ]
-              }
-            }
-          ],
-          "price": {
-            "components": [
-              {
-                "title": "Base-1-RMO/291194",
-                "type": "tour",
-                "price": {
-                  "price": "49376.00",
-                  "currency": {
-                    "code": "UAH",
-                    "sign": "₴"
-                  }
-                }
-              }
-            ],
-            "per_pax_price": null,
-            "average_history_price": null,
-            "full_price": null,
-            "total_price": {
-              "price": "49376.00",
-              "currency": {
-                "code": "UAH",
-                "sign": "₴"
-              }
-            },
-            "full_installment_price": null,
-            "installment_price": null,
-            "payment_price": null,
-            "total_price_description": "Повна оплата доступна карткою або через Apple/Google Pay.",
-            "installment_price_description": "",
-            "badges": [],
-            "commission": null
-          },
-          "promotion": null,
-          "badges": [],
-          "notes": [],
-          "availability": null,
-          "stop_sale": null,
-          "is_booking_available": null,
-          "is_dynamic": false,
-          "pax_adl": [],
-          "pax_chd": [],
-          "children_ages": []
-        }
-      ],
-      "media": [
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/50960/photos/26254-1.jpg",
-          "alt": "Empire Beach Aqua Park"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/50960/photos/mpire-Beach-Aqua-Park2.jpg",
-          "alt": "Яскрава водна гірка з пальмами та зоною басейну на задньому плані. - Яскрава водна гірка з пальмами та зоною басейну на задньому плані."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/50960/photos/133634064.jpg",
-          "alt": "Спокійний басейн з пальмами та шезлонгами під хмарним небом. - Спокійний басейн з пальмами та шезлонгами під хмарним небом."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/50960/photos/166253687-1.jpg",
-          "alt": "Сцена на пляжі з парасольками, шезлонгами та людьми, що насолоджуються морем. - Сцена на пляжі з парасольками, шезлонгами та людьми, що насолоджуються морем."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/50960/photos/133634100.jpg",
-          "alt": "Прибережний вид з піщаним пляжем, парасольками та спокійним морем під хмарним небом. - Прибережний вид з піщаним пляжем, парасольками та спокійним морем під хмарним небом."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/50960/photos/mpire-Beach-Aqua-Park.jpg",
-          "alt": "Яскрава зона водних гірок з кольоровими гірками та пальмами. - Яскрава зона водних гірок з кольоровими гірками та пальмами."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/50960/photos/133634079.jpg",
-          "alt": "Пляжна зона з парасольками та шезлонгами, люди відпочивають під хмарним небом. - Пляжна зона з парасольками та шезлонгами, люди відпочивають під хмарним небом."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/50960/photos/DSC_0735.jpg",
-          "alt": "Доріжка, що веде до зони басейну з пальмами та водними елементами. - Доріжка, що веде до зони басейну з пальмами та водними елементами."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/50960/photos/DSC_0724.jpg",
-          "alt": "Доріжка, облямована пальмами, веде до курортної зони. - Доріжка, облямована пальмами, веде до курортної зони."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/50960/photos/133634129.jpg",
-          "alt": "Ігровий майданчик з гойдалками та ігровими спорудами, оточений пальмами. - Ігровий майданчик з гойдалками та ігровими спорудами, оточений пальмами."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/50960/photos/DSC_0757.jpg",
-          "alt": "Зона басейну з шезлонгами та парасольками, пальми на задньому плані. - Зона басейну з шезлонгами та парасольками, пальми на задньому плані."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/50960/photos/aca9398a.jpg",
-          "alt": "Діти, які тримаються за руки на краю басейну, готові стрибнути. - Діти, які тримаються за руки на краю басейну, готові стрибнути."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/50960/photos/DSC_0732.jpg",
-          "alt": "Вхід до ресторану Olives з вуличними місцями та пальмами. - Вхід до ресторану Olives з вуличними місцями та пальмами."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/50960/photos/185982364.jpg",
-          "alt": "Відкрита зона для обіду ресторану Olives з столами та пальмами. - Відкрита зона для обіду ресторану Olives з столами та пальмами."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/50960/photos/a50a4a07.jpg",
-          "alt": "Дитячий майданчик з гойдалками та кольоровим ігровим будиночком, оточений пальмами. - Дитячий майданчик з гойдалками та кольоровим ігровим будиночком, оточений пальмами."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/50960/photos/166253384.jpg",
-          "alt": "Реєстраційна зона з затишним місцем для сидіння та декоративними рослинами. - Реєстраційна зона з затишним місцем для сидіння та декоративними рослинами."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/50960/photos/DSC_7820.jpg",
-          "alt": "Простора реєстраційна зона з мармуровою підлогою та великими вікнами. - Простора реєстраційна зона з мармуровою підлогою та великими вікнами."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/50960/photos/DSC_3768.jpg",
-          "alt": "Виставка шведського столу з різноманітними стравами та гарнірами. - Виставка шведського столу з різноманітними стравами та гарнірами."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/50960/photos/DSC_3694.jpg",
-          "alt": "Відкрита зона для обіду ресторану Olives з накритими столами для гостей. - Відкрита зона для обіду ресторану Olives з накритими столами для гостей."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/50960/photos/DSC_0752.jpg",
-          "alt": "Обідня зона з дерев'яними столами та стільцями, прикрашена рослинами. - Обідня зона з дерев'яними столами та стільцями, прикрашена рослинами."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/50960/photos/DSC_0744.jpg",
-          "alt": "Простора обідня зона з великими вікнами та дерев'яними меблями. - Простора обідня зона з великими вікнами та дерев'яними меблями."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/50960/photos/DSC_0739.jpg",
-          "alt": "Зона шведського столу з різноманітними варіантами їжі та декоративними елементами. - Зона шведського столу з різноманітними варіантами їжі та декоративними елементами."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/50960/photos/DSC_0741.jpg",
-          "alt": "Станція шведського столу з різноманітними стравами та гарнірами на виставці. - Станція шведського столу з різноманітними стравами та гарнірами на виставці."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/50960/photos/DSC_0754.jpg",
-          "alt": "Обідня зона з великими вікнами та видом на басейн. - Обідня зона з великими вікнами та видом на басейн."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/50960/photos/185984362.jpg",
-          "alt": "Обідня зона з накритими столами для їжі та великими вікнами. - Обідня зона з накритими столами для їжі та великими вікнами."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/50960/photos/185984446.jpg",
-          "alt": "Стіл, накритий для обіду, з видом на пальми за вікном. - Стіл, накритий для обіду, з видом на пальми за вікном."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/50960/photos/186388265.jpg",
-          "alt": "Виставка шведського столу з різноманітними закусками та гарнірами. - Виставка шведського столу з різноманітними закусками та гарнірами."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/50960/photos/186388303.jpg",
-          "alt": "Стіл шведського столу з різноманітними стравами та кольоровими гарнірами. - Стіл шведського столу з різноманітними стравами та кольоровими гарнірами."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/50960/photos/207304984.jpg",
-          "alt": "Крупний план десертної виставки з різними тортами та випічкою. - Крупний план десертної виставки з різними тортами та випічкою."
-        }
-      ],
-      "links": [
-        {
-          "type": "agent_hotel_page",
-          "link": "https://agent.joinup.ua/uk/hotel/26254"
         }
       ]
     },
@@ -1264,7 +688,7 @@
       },
       "offers": [
         {
-          "id": "0x430A0000002800000001450000000900000E130000000000D2356CB48600000004717A0700007F450000B8400000164100000005000000000000000000000001000578DCB48D00000700000000008FC6400000000302020000636363B4860000B48D000002000000002400000000000000010000000012DA8682000476B20000172200000000",
+          "id": "0x430A0000002800000001450000000900000E130000000000D2356CB48600000004717A0700007F450000B840000016410000000500000000000000000000000100057CECB48D00000700000000007EC2C80000000302020000636363B4860000B48D000002000000002400000000000000010000000012DA8682000476B20000172200000000",
           "from": {
             "id": "325",
             "name": "Кишинів",
@@ -1381,7 +805,7 @@
                 "title": "Base-1-RMO/291194",
                 "type": "tour",
                 "price": {
-                  "price": "49856.00",
+                  "price": "43956.00",
                   "currency": {
                     "code": "UAH",
                     "sign": "₴"
@@ -1393,7 +817,7 @@
             "average_history_price": null,
             "full_price": null,
             "total_price": {
-              "price": "49856.00",
+              "price": "43956.00",
               "currency": {
                 "code": "UAH",
                 "sign": "₴"
@@ -1756,7 +1180,7 @@
       },
       "offers": [
         {
-          "id": "0x430A0000002800000001450000000900000E130000000000D235B7B48600000004717A0700009AA30000B84000001641000004B2000000000000000000000001000578DCB48D00000700000000009339100000000302020000636363B4860000B48D00000200000000240000000000000001000000014EDE50F5000476B20000172200000000",
+          "id": "0x430A0000002800000001450000000900000E130000000000D235B7B48600000004717A0700009AA30000B84000001641000004B200000000000000000000000100057CECB48D00000700000000008235980000000302020000636363B4860000B48D00000200000000240000000000000001000000014EDE50F5000476B20000172200000000",
           "from": {
             "id": "325",
             "name": "Кишинів",
@@ -1873,7 +1297,7 @@
                 "title": "Base-1-RMO/291194",
                 "type": "tour",
                 "price": {
-                  "price": "51052.00",
+                  "price": "45152.00",
                   "currency": {
                     "code": "UAH",
                     "sign": "₴"
@@ -1885,7 +1309,7 @@
             "average_history_price": null,
             "full_price": null,
             "total_price": {
-              "price": "51052.00",
+              "price": "45152.00",
               "currency": {
                 "code": "UAH",
                 "sign": "₴"
@@ -2350,7 +1774,7 @@
       },
       "offers": [
         {
-          "id": "0x430A0000002800000001450000000900000E130000000000D23631B48600000004717A070000ED2B0000B8400000164100000006000000000000000000000001000578DCB48D0000070000000000942A140000000302020000636363B4860000B48D00000200000000240000000000000001000000003873989F000476B20000172200000000",
+          "id": "0x430A0000002800000001450000000900000E130000000000D23631B48600000004717A070000ED2B0000B840000016410000000600000000000000000000000100057CECB48D000007000000000083269C0000000302020000636363B4860000B48D00000200000000240000000000000001000000003873989F000476B20000172200000000",
           "from": {
             "id": "325",
             "name": "Кишинів",
@@ -2467,7 +1891,7 @@
                 "title": "Base-1-RMO/291194",
                 "type": "tour",
                 "price": {
-                  "price": "51378.00",
+                  "price": "45478.00",
                   "currency": {
                     "code": "UAH",
                     "sign": "₴"
@@ -2479,7 +1903,7 @@
             "average_history_price": null,
             "full_price": null,
             "total_price": {
-              "price": "51378.00",
+              "price": "45478.00",
               "currency": {
                 "code": "UAH",
                 "sign": "₴"
@@ -3178,7 +2602,7 @@
       },
       "offers": [
         {
-          "id": "0x430A0000002800000001450000000900000E130000000000D234BEB48600000004717A070000668F0000B8400000164100000006000000000000000000000001000578DCB48D00000700000000009A1F780000000302020000636363B4860000B48D00000200000000240000000000000001000000002CA3E1F2000476B20000172200000000",
+          "id": "0x430A0000002800000001450000000900000E130000000000D234BEB48600000004717A070000668F0000B840000016410000000600000000000000000000000100057CECB48D0000070000000000891C000000000302020000636363B4860000B48D00000200000000240000000000000001000000002CA3E1F2000476B20000172200000000",
           "from": {
             "id": "325",
             "name": "Кишинів",
@@ -3295,7 +2719,7 @@
                 "title": "Base-1-RMO/291194",
                 "type": "tour",
                 "price": {
-                  "price": "53444.00",
+                  "price": "47545.00",
                   "currency": {
                     "code": "UAH",
                     "sign": "₴"
@@ -3307,7 +2731,7 @@
             "average_history_price": null,
             "full_price": null,
             "total_price": {
-              "price": "53444.00",
+              "price": "47545.00",
               "currency": {
                 "code": "UAH",
                 "sign": "₴"
@@ -3862,7 +3286,7 @@
       },
       "offers": [
         {
-          "id": "0x430A0000002800000001450000000900000E130000000000D23571B48600000004717A0700008265000021320000164100000006000000000000000000000001000578DCB48D00000700000000009AC0040000000302020000636363B4860000B48D00000200000000240000000000000001000000001BDF428D000476B20000172200000000",
+          "id": "0x430A0000002800000001450000000900000E130000000000D23571B48600000004717A070000826500002132000016410000000600000000000000000000000100057CECB48D000007000000000089BC8C0000000302020000636363B4860000B48D00000200000000240000000000000001000000001BDF428D000476B20000172200000000",
           "from": {
             "id": "325",
             "name": "Кишинів",
@@ -3979,7 +3403,7 @@
                 "title": "Base-1-RMO/291194",
                 "type": "tour",
                 "price": {
-                  "price": "53662.00",
+                  "price": "47762.00",
                   "currency": {
                     "code": "UAH",
                     "sign": "₴"
@@ -3991,7 +3415,7 @@
             "average_history_price": null,
             "full_price": null,
             "total_price": {
-              "price": "53662.00",
+              "price": "47762.00",
               "currency": {
                 "code": "UAH",
                 "sign": "₴"
@@ -4444,7 +3868,7 @@
       },
       "offers": [
         {
-          "id": "0x430A0000002800000001450000000900000E130000000000D235C5B48600000004717A070000A3590000B8400000164100000006000000000000000000000001000578DCB48D00000700000000009C51940000000302020000636363B4860000B48D0000020000000024000000000000000100000000131190D4000476B20000172200000000",
+          "id": "0x430A0000002800000001450000000900000E130000000000D235C5B48600000004717A070000A3590000B840000016410000000600000000000000000000000100057CECB48D00000700000000008B4E1C0000000302020000636363B4860000B48D0000020000000024000000000000000100000000131190D4000476B20000172200000000",
           "from": {
             "id": "325",
             "name": "Кишинів",
@@ -4561,7 +3985,7 @@
                 "title": "Base-1-RMO/291194",
                 "type": "tour",
                 "price": {
-                  "price": "54206.00",
+                  "price": "48306.00",
                   "currency": {
                     "code": "UAH",
                     "sign": "₴"
@@ -4573,7 +3997,7 @@
             "average_history_price": null,
             "full_price": null,
             "total_price": {
-              "price": "54206.00",
+              "price": "48306.00",
               "currency": {
                 "code": "UAH",
                 "sign": "₴"
@@ -4984,7 +4408,7 @@
       },
       "offers": [
         {
-          "id": "0x430A0000002800000001450000000900000E130000000000D2354FB48600000004717A0700006B840000003A0000164100000004000000000000000000000001000578DCB48D00000700000000009C51940000000302020000636363B4860000B48D0000020000000024000000000000000100000000387361CB000476B20000172200000000",
+          "id": "0x430A0000002800000001450000000900000E130000000000D2354FB48600000004717A0700006B840000003A000016410000000400000000000000000000000100057CECB48D00000700000000008B4E1C0000000302020000636363B4860000B48D0000020000000024000000000000000100000000387361CB000476B20000172200000000",
           "from": {
             "id": "325",
             "name": "Кишинів",
@@ -5101,7 +4525,7 @@
                 "title": "Base-1-RMO/291194",
                 "type": "tour",
                 "price": {
-                  "price": "54206.00",
+                  "price": "48306.00",
                   "currency": {
                     "code": "UAH",
                     "sign": "₴"
@@ -5113,7 +4537,7 @@
             "average_history_price": null,
             "full_price": null,
             "total_price": {
-              "price": "54206.00",
+              "price": "48306.00",
               "currency": {
                 "code": "UAH",
                 "sign": "₴"
@@ -5282,6 +4706,354 @@
     },
     {
       "hotel": {
+        "id": "26339",
+        "name": "Le Pacha Resort",
+        "category": {
+          "category": "4",
+          "name": "4 - Чотири зірки"
+        },
+        "badges": [],
+        "descriptions": [
+          {
+            "title": "Опис",
+            "description": "Готель Le Pacha Resort 4* розташований у самому серці Хургади — у районі Саккала, на вулиці Шератон, відомій своїми барами, дискотеками та крамницями. Готель відрізняється доглянутою зеленою територією, з басейнами та міні-аквапарком.\n\nІнформація щодо структури та номерного фонду готелю:\n\nВідкритий у 1997 році, у готелі проходить щорічна поетапна реновація. Готель складається із будівлі рецепції та 10-ти триповерхових корпусів, розташованих по периметру території.",
+            "type": "general"
+          }
+        ],
+        "media": [
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_05-min.jpg",
+            "alt": "Le Pacha Resort"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_06-min.jpg",
+            "alt": "Le Pacha Resort"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_08-min.jpg",
+            "alt": "Le Pacha Resort"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_09-min.jpg",
+            "alt": "Le Pacha Resort"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_13-min.jpg",
+            "alt": "Le Pacha Resort"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_11-min.jpg",
+            "alt": "Le Pacha Resort"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_10-min.jpg",
+            "alt": "Le Pacha Resort"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_12-min.jpg",
+            "alt": "Le Pacha Resort"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_07-min.jpg",
+            "alt": "Le Pacha Resort"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_14-min.jpg",
+            "alt": "Le Pacha Resort"
+          }
+        ],
+        "special_info": {
+          "check_in": {
+            "name": "Реєстрація",
+            "value": "15:00"
+          },
+          "check_out": {
+            "name": "Виїзд з готелю",
+            "value": "12:00"
+          },
+          "group": null,
+          "total_rooms": null
+        },
+        "location": {
+          "city": "Hurghada",
+          "country": "Egypt",
+          "full_address": "",
+          "latitude": "27.218583",
+          "longitude": "33.838447",
+          "region": [
+            {
+              "id": "c_9",
+              "name": "Єгипет",
+              "slug": "egypt",
+              "code_iso": "EG",
+              "type": "country",
+              "sub_regions": [],
+              "departure_cities": [],
+              "price_from": null
+            },
+            {
+              "id": "o_1313",
+              "name": "Хургада",
+              "slug": "hurghada",
+              "code_iso": "",
+              "type": "city",
+              "sub_regions": [],
+              "departure_cities": [],
+              "price_from": null
+            }
+          ],
+          "description": "",
+          "additional_info": []
+        }
+      },
+      "offers": [
+        {
+          "id": "0x430A0000002800000001450000000900000E130000000000D234D0B48600000004717A07000066E30000B840000016410000000600000000000000000000000100057CECB48D00000700000000008B4E1C0000000302020000636363B4860000B48D000002000000002400000000000000010000000012EE8C51000476B20000172200000000",
+          "from": {
+            "id": "325",
+            "name": "Кишинів",
+            "slug": "",
+            "code_iso": "",
+            "type": "city",
+            "sub_regions": [],
+            "departure_cities": [],
+            "price_from": null
+          },
+          "stay": {
+            "label": "7",
+            "stay": 7
+          },
+          "date_start": "2026-07-13",
+          "date_end": "2026-07-20",
+          "board": {
+            "board_type": "AI",
+            "name": "Все включено",
+            "code": "6"
+          },
+          "rooms": [
+            {
+              "code": "47168",
+              "name": "Standard Room ",
+              "placement": "2AD"
+            }
+          ],
+          "transports": [
+            {
+              "type": "flight",
+              "direction": "outbound",
+              "availability": null,
+              "params": {
+                "class": null,
+                "flight_number": "8311",
+                "marketing_airline": {
+                  "name": "SkyUp Airlines",
+                  "code": "4V",
+                  "logo": null,
+                  "plane": null
+                },
+                "operating_airline": null,
+                "departure": {
+                  "code": "RMO",
+                  "name": "Chişinău International Airport",
+                  "timezone": "Europe/Chisinau"
+                },
+                "departure_terminal": "",
+                "arrival": {
+                  "code": "HRG",
+                  "name": "Hurghada International Airport",
+                  "timezone": "Africa/Cairo"
+                },
+                "arrival_terminal": "",
+                "std": "2026-07-13T09:05:00+00:00",
+                "sta": "2026-07-13T12:35:00+00:00",
+                "luggage": [
+                  {
+                    "type": "HNDL",
+                    "weight": 9
+                  },
+                  {
+                    "type": "CBAG",
+                    "weight": 23
+                  }
+                ]
+              }
+            },
+            {
+              "type": "flight",
+              "direction": "inbound",
+              "availability": null,
+              "params": {
+                "class": null,
+                "flight_number": "8312",
+                "marketing_airline": {
+                  "name": "SkyUp Airlines",
+                  "code": "4V",
+                  "logo": null,
+                  "plane": null
+                },
+                "operating_airline": null,
+                "departure": {
+                  "code": "HRG",
+                  "name": "Hurghada International Airport",
+                  "timezone": "Africa/Cairo"
+                },
+                "departure_terminal": "",
+                "arrival": {
+                  "code": "RMO",
+                  "name": "Chişinău International Airport",
+                  "timezone": "Europe/Chisinau"
+                },
+                "arrival_terminal": "",
+                "std": "2026-07-20T13:35:00+00:00",
+                "sta": "2026-07-20T17:20:00+00:00",
+                "luggage": [
+                  {
+                    "type": "HNDL",
+                    "weight": 9
+                  },
+                  {
+                    "type": "CBAG",
+                    "weight": 23
+                  }
+                ]
+              }
+            }
+          ],
+          "price": {
+            "components": [
+              {
+                "title": "Base-1-RMO/291194",
+                "type": "tour",
+                "price": {
+                  "price": "48306.00",
+                  "currency": {
+                    "code": "UAH",
+                    "sign": "₴"
+                  }
+                }
+              }
+            ],
+            "per_pax_price": null,
+            "average_history_price": null,
+            "full_price": null,
+            "total_price": {
+              "price": "48306.00",
+              "currency": {
+                "code": "UAH",
+                "sign": "₴"
+              }
+            },
+            "full_installment_price": null,
+            "installment_price": null,
+            "payment_price": null,
+            "total_price_description": "Повна оплата доступна карткою або через Apple/Google Pay.",
+            "installment_price_description": "",
+            "badges": [],
+            "commission": null
+          },
+          "promotion": null,
+          "badges": [],
+          "notes": [],
+          "availability": null,
+          "stop_sale": null,
+          "is_booking_available": null,
+          "is_dynamic": false,
+          "pax_adl": [],
+          "pax_chd": [],
+          "children_ages": []
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_05-min.jpg",
+          "alt": "Le Pacha Resort"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_06-min.jpg",
+          "alt": "Le Pacha Resort"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_08-min.jpg",
+          "alt": "Le Pacha Resort"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_09-min.jpg",
+          "alt": "Le Pacha Resort"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_13-min.jpg",
+          "alt": "Le Pacha Resort"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_11-min.jpg",
+          "alt": "Le Pacha Resort"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_10-min.jpg",
+          "alt": "Le Pacha Resort"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_12-min.jpg",
+          "alt": "Le Pacha Resort"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_07-min.jpg",
+          "alt": "Le Pacha Resort"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_14-min.jpg",
+          "alt": "Le Pacha Resort"
+        }
+      ],
+      "links": [
+        {
+          "type": "agent_hotel_page",
+          "link": "https://agent.joinup.ua/uk/hotel/26339"
+        }
+      ]
+    },
+    {
+      "hotel": {
         "id": "49628",
         "name": "Turtle's Inn El Gouna",
         "category": {
@@ -5434,7 +5206,7 @@
       },
       "offers": [
         {
-          "id": "0x430A0000002800000001450000000900000E130000000000D235DFB48600000004717A070000C1DC0000B8400000164100000004000000000000000000000001000578DCB48D00000700000000009C51940000000302020000636363B4860000B48D000002000000002400000000000000010000000038686E82000476B20000172200000000",
+          "id": "0x430A0000002800000001450000000900000E130000000000D235DFB48600000004717A070000C1DC0000B840000016410000000400000000000000000000000100057CECB48D00000700000000008B4E1C0000000302020000636363B4860000B48D000002000000002400000000000000010000000038686E82000476B20000172200000000",
           "from": {
             "id": "325",
             "name": "Кишинів",
@@ -5551,7 +5323,7 @@
                 "title": "Base-1-RMO/291194",
                 "type": "tour",
                 "price": {
-                  "price": "54206.00",
+                  "price": "48306.00",
                   "currency": {
                     "code": "UAH",
                     "sign": "₴"
@@ -5563,7 +5335,7 @@
             "average_history_price": null,
             "full_price": null,
             "total_price": {
-              "price": "54206.00",
+              "price": "48306.00",
               "currency": {
                 "code": "UAH",
                 "sign": "₴"
@@ -5692,7 +5464,7 @@
   "pagination": {
     "per_page": 10,
     "current_page": 2,
-    "last_page": 20,
+    "last_page": 17,
     "first_item": null,
     "last_item": null,
     "total_items": null

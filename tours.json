@@ -2864,6 +2864,1602 @@
     },
     {
       "hotel": {
+        "id": "49628",
+        "name": "Turtle's Inn El Gouna",
+        "category": {
+          "category": "3",
+          "name": "3 - Три зірки"
+        },
+        "badges": [],
+        "descriptions": [
+          {
+            "title": "Опис",
+            "description": "Популярний тризірковий готель в Ель-Гуні розташований на території відомої пристані для яхт Абу Тіг, неподалік від популярних закладів харчування, розваг, магазинів і місць відпочинку. Цей затишний куточок має чудову  атмосферу, привабливий для любителів водних видів спорту та  вечірок. Це комфортний відпочинок за кілька кроків від жвавого променаду.\n\nІнформація про структуру готелю і про номерний фонд:\nГотель складається з одного 3-х поверхового будинку.\nЗагальна кількість номерів — 28.\nРеновація - в готелі проведено капітальний ремонт.",
+            "type": "general"
+          }
+        ],
+        "media": [
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/51236/photos/Ali_Pasha_Hotel_El_Gouna_red_Sea_Egypt_Pool-1.jpg",
+            "alt": "Turtle's Inn El Gouna"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/51236/photos/Turtles_Inn_Hotel_El_Gouna_Red_Sea_Facade.jpg",
+            "alt": "Turtle's Inn El Gouna"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/51236/photos/Turtles_Inn_El_Gouna_Red_Sea_Egypt_entrance.jpg",
+            "alt": "Turtle's Inn El Gouna"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/51236/photos/OHM_Captains_Inn_El_Gouna_Red_Sea_Egypt_Marina-2.jpg",
+            "alt": "Turtle's Inn El Gouna"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/51236/photos/OHM_Captains_Inn_El_Gouna_Red_Sea_Egypt_Marina_1-1.jpg",
+            "alt": "Turtle's Inn El Gouna"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/51236/photos/Turtles_Inn_El_Gouna_Red_Sea_Egypt_Lobby.jpg",
+            "alt": "Turtle's Inn El Gouna"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/51236/photos/OHM_turtles_detail_2.jpg",
+            "alt": "Turtle's Inn El Gouna"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/51236/photos/Turtles_Inn_El_Gouna_Red_Sea_Egypt_Courtyard.jpg",
+            "alt": "Turtle's Inn El Gouna"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/51236/photos/Captains_Inn_El_Gouna_Red_Sea_Egypt_restaurant_exterior-2.jpg",
+            "alt": "Turtle's Inn El Gouna"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/51236/photos/El_Gouna_Red_Sea_Marina_Beach_Ancient_Sands-5-2.jpg",
+            "alt": "Turtle's Inn El Gouna"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/51236/photos/Ali-Pasha-Hotel-El_Gouna_Red_Sea_The_Beach_-11.jpg",
+            "alt": "Turtle's Inn El Gouna"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/51236/photos/Ali-Pasha-Hotel-El_Gouna_Red_Sea_The_Beach_-27.jpg",
+            "alt": "Turtle's Inn El Gouna"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/51236/photos/Ali-Pasha-Hotel-El-Gouna-Red-Sea-Egypt-Pool-1-.jpg",
+            "alt": "Turtle's Inn El Gouna"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/51236/photos/El-Gouna-aerial-view-Marina_moods.jpg",
+            "alt": "Turtle's Inn El Gouna"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/51236/photos/El_Gouna_Red_Sea_Aerial_Shot_Abu_Tig_Marina-1-1.jpg",
+            "alt": "Turtle's Inn El Gouna"
+          }
+        ],
+        "special_info": {
+          "check_in": {
+            "name": "Реєстрація",
+            "value": "14:00"
+          },
+          "check_out": {
+            "name": "Виїзд з готелю",
+            "value": "12:00"
+          },
+          "group": null,
+          "total_rooms": null
+        },
+        "location": {
+          "city": "El Gouna",
+          "country": "Egypt",
+          "full_address": "",
+          "latitude": "27.408068",
+          "longitude": "33.674114",
+          "region": [
+            {
+              "id": "c_9",
+              "name": "Єгипет",
+              "slug": "egypt",
+              "code_iso": "EG",
+              "type": "country",
+              "sub_regions": [],
+              "departure_cities": [],
+              "price_from": null
+            },
+            {
+              "id": "o_1318",
+              "name": "Ель-Гуна",
+              "slug": "el-gouna",
+              "code_iso": "",
+              "type": "city",
+              "sub_regions": [],
+              "departure_cities": [],
+              "price_from": null
+            }
+          ],
+          "description": "",
+          "additional_info": []
+        }
+      },
+      "offers": [
+        {
+          "id": "0x430A0000002800000001450000000900000E130000000000F512E1B48700000004717A070000C1DC0000B840000016410000000400000000000000000000000100057DB2B48E0000070000000000A3B7540000000302020000636363B4870000B48E0000020000000024000000000000000100000000386ABCFD000476B20000172200000000",
+          "from": {
+            "id": "325",
+            "name": "Кишинів",
+            "slug": "",
+            "code_iso": "",
+            "type": "city",
+            "sub_regions": [],
+            "departure_cities": [],
+            "price_from": null
+          },
+          "stay": {
+            "label": "7",
+            "stay": 7
+          },
+          "date_start": "2026-07-14",
+          "date_end": "2026-07-21",
+          "board": {
+            "board_type": "BB",
+            "name": "Ліжко та сніданок",
+            "code": "4"
+          },
+          "rooms": [
+            {
+              "code": "47168",
+              "name": "Standard Room ",
+              "placement": "2AD"
+            }
+          ],
+          "transports": [
+            {
+              "type": "flight",
+              "direction": "outbound",
+              "availability": null,
+              "params": {
+                "class": null,
+                "flight_number": "8311",
+                "marketing_airline": {
+                  "name": "SkyUp Airlines",
+                  "code": "4V",
+                  "logo": null,
+                  "plane": null
+                },
+                "operating_airline": null,
+                "departure": {
+                  "code": "RMO",
+                  "name": "Chişinău International Airport",
+                  "timezone": "Europe/Chisinau"
+                },
+                "departure_terminal": "",
+                "arrival": {
+                  "code": "HRG",
+                  "name": "Hurghada International Airport",
+                  "timezone": "Africa/Cairo"
+                },
+                "arrival_terminal": "",
+                "std": "2026-07-14T08:35:00+00:00",
+                "sta": "2026-07-14T12:05:00+00:00",
+                "luggage": [
+                  {
+                    "type": "HNDL",
+                    "weight": 9
+                  },
+                  {
+                    "type": "CBAG",
+                    "weight": 23
+                  }
+                ]
+              }
+            },
+            {
+              "type": "flight",
+              "direction": "inbound",
+              "availability": null,
+              "params": {
+                "class": null,
+                "flight_number": "8312",
+                "marketing_airline": {
+                  "name": "SkyUp Airlines",
+                  "code": "4V",
+                  "logo": null,
+                  "plane": null
+                },
+                "operating_airline": null,
+                "departure": {
+                  "code": "HRG",
+                  "name": "Hurghada International Airport",
+                  "timezone": "Africa/Cairo"
+                },
+                "departure_terminal": "",
+                "arrival": {
+                  "code": "RMO",
+                  "name": "Chişinău International Airport",
+                  "timezone": "Europe/Chisinau"
+                },
+                "arrival_terminal": "",
+                "std": "2026-07-21T13:05:00+00:00",
+                "sta": "2026-07-21T16:50:00+00:00",
+                "luggage": [
+                  {
+                    "type": "HNDL",
+                    "weight": 9
+                  },
+                  {
+                    "type": "CBAG",
+                    "weight": 23
+                  }
+                ]
+              }
+            }
+          ],
+          "price": {
+            "components": [
+              {
+                "title": "Base-1-RMO/291194",
+                "type": "tour",
+                "price": {
+                  "price": "56771.00",
+                  "currency": {
+                    "code": "UAH",
+                    "sign": "₴"
+                  }
+                }
+              }
+            ],
+            "per_pax_price": null,
+            "average_history_price": null,
+            "full_price": null,
+            "total_price": {
+              "price": "56771.00",
+              "currency": {
+                "code": "UAH",
+                "sign": "₴"
+              }
+            },
+            "full_installment_price": null,
+            "installment_price": null,
+            "payment_price": null,
+            "total_price_description": "Повна оплата доступна карткою або через Apple/Google Pay.",
+            "installment_price_description": "",
+            "badges": [],
+            "commission": null
+          },
+          "promotion": null,
+          "badges": [],
+          "notes": [],
+          "availability": null,
+          "stop_sale": null,
+          "is_booking_available": null,
+          "is_dynamic": false,
+          "pax_adl": [],
+          "pax_chd": [],
+          "children_ages": []
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/51236/photos/Ali_Pasha_Hotel_El_Gouna_red_Sea_Egypt_Pool-1.jpg",
+          "alt": "Turtle's Inn El Gouna"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/51236/photos/Turtles_Inn_Hotel_El_Gouna_Red_Sea_Facade.jpg",
+          "alt": "Turtle's Inn El Gouna"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/51236/photos/Turtles_Inn_El_Gouna_Red_Sea_Egypt_entrance.jpg",
+          "alt": "Turtle's Inn El Gouna"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/51236/photos/OHM_Captains_Inn_El_Gouna_Red_Sea_Egypt_Marina-2.jpg",
+          "alt": "Turtle's Inn El Gouna"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/51236/photos/OHM_Captains_Inn_El_Gouna_Red_Sea_Egypt_Marina_1-1.jpg",
+          "alt": "Turtle's Inn El Gouna"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/51236/photos/Turtles_Inn_El_Gouna_Red_Sea_Egypt_Lobby.jpg",
+          "alt": "Turtle's Inn El Gouna"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/51236/photos/OHM_turtles_detail_2.jpg",
+          "alt": "Turtle's Inn El Gouna"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/51236/photos/Turtles_Inn_El_Gouna_Red_Sea_Egypt_Courtyard.jpg",
+          "alt": "Turtle's Inn El Gouna"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/51236/photos/Captains_Inn_El_Gouna_Red_Sea_Egypt_restaurant_exterior-2.jpg",
+          "alt": "Turtle's Inn El Gouna"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/51236/photos/El_Gouna_Red_Sea_Marina_Beach_Ancient_Sands-5-2.jpg",
+          "alt": "Turtle's Inn El Gouna"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/51236/photos/Ali-Pasha-Hotel-El_Gouna_Red_Sea_The_Beach_-11.jpg",
+          "alt": "Turtle's Inn El Gouna"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/51236/photos/Ali-Pasha-Hotel-El_Gouna_Red_Sea_The_Beach_-27.jpg",
+          "alt": "Turtle's Inn El Gouna"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/51236/photos/Ali-Pasha-Hotel-El-Gouna-Red-Sea-Egypt-Pool-1-.jpg",
+          "alt": "Turtle's Inn El Gouna"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/51236/photos/El-Gouna-aerial-view-Marina_moods.jpg",
+          "alt": "Turtle's Inn El Gouna"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/51236/photos/El_Gouna_Red_Sea_Aerial_Shot_Abu_Tig_Marina-1-1.jpg",
+          "alt": "Turtle's Inn El Gouna"
+        }
+      ],
+      "links": [
+        {
+          "type": "agent_hotel_page",
+          "link": "https://agent.joinup.ua/uk/hotel/49628"
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "id": "26339",
+        "name": "Le Pacha Resort",
+        "category": {
+          "category": "4",
+          "name": "4 - Чотири зірки"
+        },
+        "badges": [],
+        "descriptions": [
+          {
+            "title": "Опис",
+            "description": "Готель Le Pacha Resort 4* розташований у самому серці Хургади — у районі Саккала, на вулиці Шератон, відомій своїми барами, дискотеками та крамницями. Готель відрізняється доглянутою зеленою територією, з басейнами та міні-аквапарком.\n\nІнформація щодо структури та номерного фонду готелю:\n\nВідкритий у 1997 році, у готелі проходить щорічна поетапна реновація. Готель складається із будівлі рецепції та 10-ти триповерхових корпусів, розташованих по периметру території.",
+            "type": "general"
+          }
+        ],
+        "media": [
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_05-min.jpg",
+            "alt": "Le Pacha Resort"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_06-min.jpg",
+            "alt": "Le Pacha Resort"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_08-min.jpg",
+            "alt": "Le Pacha Resort"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_09-min.jpg",
+            "alt": "Le Pacha Resort"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_13-min.jpg",
+            "alt": "Le Pacha Resort"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_11-min.jpg",
+            "alt": "Le Pacha Resort"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_10-min.jpg",
+            "alt": "Le Pacha Resort"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_12-min.jpg",
+            "alt": "Le Pacha Resort"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_07-min.jpg",
+            "alt": "Le Pacha Resort"
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_14-min.jpg",
+            "alt": "Le Pacha Resort"
+          }
+        ],
+        "special_info": {
+          "check_in": {
+            "name": "Реєстрація",
+            "value": "15:00"
+          },
+          "check_out": {
+            "name": "Виїзд з готелю",
+            "value": "12:00"
+          },
+          "group": null,
+          "total_rooms": null
+        },
+        "location": {
+          "city": "Hurghada",
+          "country": "Egypt",
+          "full_address": "",
+          "latitude": "27.218583",
+          "longitude": "33.838447",
+          "region": [
+            {
+              "id": "c_9",
+              "name": "Єгипет",
+              "slug": "egypt",
+              "code_iso": "EG",
+              "type": "country",
+              "sub_regions": [],
+              "departure_cities": [],
+              "price_from": null
+            },
+            {
+              "id": "o_1313",
+              "name": "Хургада",
+              "slug": "hurghada",
+              "code_iso": "",
+              "type": "city",
+              "sub_regions": [],
+              "departure_cities": [],
+              "price_from": null
+            }
+          ],
+          "description": "",
+          "additional_info": []
+        }
+      },
+      "offers": [
+        {
+          "id": "0x430A0000002800000001450000000900000E130000000000F51258B48700000004717A07000066E30000B840000016410000000600000000000000000000000100057DB2B48E0000070000000000A3B7540000000302020000636363B4870000B48E000002000000002400000000000000010000000012EE8DB9000476B20000172200000000",
+          "from": {
+            "id": "325",
+            "name": "Кишинів",
+            "slug": "",
+            "code_iso": "",
+            "type": "city",
+            "sub_regions": [],
+            "departure_cities": [],
+            "price_from": null
+          },
+          "stay": {
+            "label": "7",
+            "stay": 7
+          },
+          "date_start": "2026-07-14",
+          "date_end": "2026-07-21",
+          "board": {
+            "board_type": "AI",
+            "name": "Все включено",
+            "code": "6"
+          },
+          "rooms": [
+            {
+              "code": "47168",
+              "name": "Standard Room ",
+              "placement": "2AD"
+            }
+          ],
+          "transports": [
+            {
+              "type": "flight",
+              "direction": "outbound",
+              "availability": null,
+              "params": {
+                "class": null,
+                "flight_number": "8311",
+                "marketing_airline": {
+                  "name": "SkyUp Airlines",
+                  "code": "4V",
+                  "logo": null,
+                  "plane": null
+                },
+                "operating_airline": null,
+                "departure": {
+                  "code": "RMO",
+                  "name": "Chişinău International Airport",
+                  "timezone": "Europe/Chisinau"
+                },
+                "departure_terminal": "",
+                "arrival": {
+                  "code": "HRG",
+                  "name": "Hurghada International Airport",
+                  "timezone": "Africa/Cairo"
+                },
+                "arrival_terminal": "",
+                "std": "2026-07-14T08:35:00+00:00",
+                "sta": "2026-07-14T12:05:00+00:00",
+                "luggage": [
+                  {
+                    "type": "HNDL",
+                    "weight": 9
+                  },
+                  {
+                    "type": "CBAG",
+                    "weight": 23
+                  }
+                ]
+              }
+            },
+            {
+              "type": "flight",
+              "direction": "inbound",
+              "availability": null,
+              "params": {
+                "class": null,
+                "flight_number": "8312",
+                "marketing_airline": {
+                  "name": "SkyUp Airlines",
+                  "code": "4V",
+                  "logo": null,
+                  "plane": null
+                },
+                "operating_airline": null,
+                "departure": {
+                  "code": "HRG",
+                  "name": "Hurghada International Airport",
+                  "timezone": "Africa/Cairo"
+                },
+                "departure_terminal": "",
+                "arrival": {
+                  "code": "RMO",
+                  "name": "Chişinău International Airport",
+                  "timezone": "Europe/Chisinau"
+                },
+                "arrival_terminal": "",
+                "std": "2026-07-21T13:05:00+00:00",
+                "sta": "2026-07-21T16:50:00+00:00",
+                "luggage": [
+                  {
+                    "type": "HNDL",
+                    "weight": 9
+                  },
+                  {
+                    "type": "CBAG",
+                    "weight": 23
+                  }
+                ]
+              }
+            }
+          ],
+          "price": {
+            "components": [
+              {
+                "title": "Base-1-RMO/291194",
+                "type": "tour",
+                "price": {
+                  "price": "56771.00",
+                  "currency": {
+                    "code": "UAH",
+                    "sign": "₴"
+                  }
+                }
+              }
+            ],
+            "per_pax_price": null,
+            "average_history_price": null,
+            "full_price": null,
+            "total_price": {
+              "price": "56771.00",
+              "currency": {
+                "code": "UAH",
+                "sign": "₴"
+              }
+            },
+            "full_installment_price": null,
+            "installment_price": null,
+            "payment_price": null,
+            "total_price_description": "Повна оплата доступна карткою або через Apple/Google Pay.",
+            "installment_price_description": "",
+            "badges": [],
+            "commission": null
+          },
+          "promotion": null,
+          "badges": [],
+          "notes": [],
+          "availability": null,
+          "stop_sale": null,
+          "is_booking_available": null,
+          "is_dynamic": false,
+          "pax_adl": [],
+          "pax_chd": [],
+          "children_ages": []
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_05-min.jpg",
+          "alt": "Le Pacha Resort"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_06-min.jpg",
+          "alt": "Le Pacha Resort"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_08-min.jpg",
+          "alt": "Le Pacha Resort"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_09-min.jpg",
+          "alt": "Le Pacha Resort"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_13-min.jpg",
+          "alt": "Le Pacha Resort"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_11-min.jpg",
+          "alt": "Le Pacha Resort"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_10-min.jpg",
+          "alt": "Le Pacha Resort"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_12-min.jpg",
+          "alt": "Le Pacha Resort"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_07-min.jpg",
+          "alt": "Le Pacha Resort"
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_14-min.jpg",
+          "alt": "Le Pacha Resort"
+        }
+      ],
+      "links": [
+        {
+          "type": "agent_hotel_page",
+          "link": "https://agent.joinup.ua/uk/hotel/26339"
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "id": "27524",
+        "name": "Mosaique El Gouna",
+        "category": {
+          "category": "4",
+          "name": "4 - Чотири зірки"
+        },
+        "badges": [],
+        "descriptions": [
+          {
+            "title": "Опис",
+            "description": "Готель, розташований за кілька хвилин ходьби від основних визначних пам'яток Ель-Гуни, пропонує гостям краєвиди на яхти в пристані. На території є відкриті басейни для дорослих та дітей, ресторан, два бари. Номери обладнані балконом або терасою, кондиціонером, сейфом, міні-баром та душем з феном.",
+            "type": "general"
+          }
+        ],
+        "media": [
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-El-Gouna-5.jpg",
+            "alt": "Вид на зону басейну, оточену будівлями та яскравими квітами. - Вид на зону басейну, оточену будівлями та яскравими квітами."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-El-Gouna-1.jpg",
+            "alt": "Інший ракурс зони басейну з шезлонгами та парасольками. - Інший ракурс зони басейну з шезлонгами та парасольками."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-El-Gouna-2.jpg",
+            "alt": "Чіткий вид на басейн, що відображає навколишню архітектуру. - Чіткий вид на басейн, що відображає навколишню архітектуру."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-El-Gouna-3.jpg",
+            "alt": "Вид з балкона на зону басейну з місцями для сидіння. - Вид з балкона на зону басейну з місцями для сидіння."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-El-Gouna-4.jpg",
+            "alt": "Вид з балкона з квітами та зоною басейну на задньому плані. - Вид з балкона з квітами та зоною басейну на задньому плані."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-exterior.jpg",
+            "alt": "Зовнішній вигляд готелю з пальмами та водними елементами. - Зовнішній вигляд готелю з пальмами та водними елементами."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-facade-2.jpg",
+            "alt": "Фронтальний вигляд входу в готель з пальмами вздовж стежки. - Фронтальний вигляд входу в готель з пальмами вздовж стежки."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-El-Gouna-Marina-Hotel-frontview.jpg",
+            "alt": "Бічний вигляд готелю, що демонструє його архітектуру та пальми. - Бічний вигляд готелю, що демонструє його архітектуру та пальми."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/El-Gouna-Red-Sea-New-Marina-Mosaique-Hotel-Top-View.jpg",
+            "alt": "Аерофотознімок марини з яхтами та прибережними будівлями. - Аерофотознімок марини з яхтами та прибережними будівлями."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/El-Gouna-aerial-view-Marina-moods.jpg",
+            "alt": "Аерофотознімок пляжної зони з шезлонгами та пляжними парасолями. - Аерофотознімок пляжної зони з шезлонгами та пляжними парасолями."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-hotel-El-Gouna-pool-Egypt.jpg",
+            "alt": "Зона біля басейну з шезлонгами та столом для напоїв. - Зона біля басейну з шезлонгами та столом для напоїв."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-marina-promenade.jpg",
+            "alt": "Вечірній вигляд на територію готелю з підсвіченими пальмами. - Вечірній вигляд на територію готелю з підсвіченими пальмами."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-kids-Pool.jpg",
+            "alt": "Зона басейну з затіненими місцями для сидіння та чистою блакитною водою. - Зона басейну з затіненими місцями для сидіння та чистою блакитною водою."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-Reception.jpg",
+            "alt": "Реєстраційна зона з кольоровими сидіннями та декоративними стінними елементами. - Реєстраційна зона з кольоровими сидіннями та декоративними стінними елементами."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-hotel-lobby-El-Gouna-1.jpg",
+            "alt": "Ще один вигляд зони реєстрації з яскравими сидіннями та декором. - Ще один вигляд зони реєстрації з яскравими сидіннями та декором."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-hotel-lobby-El-Gouna-2.jpg",
+            "alt": "Простора лобі з кольоровими сидіннями та фонтаном у центрі. - Простора лобі з кольоровими сидіннями та фонтаном у центрі."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-lobby-bar-cocktails.jpg",
+            "alt": "Крупний план напоїв на барній стійці з декоративним фоном. - Крупний план напоїв на барній стійці з декоративним фоном."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-Restaurant-indoor-area.jpg",
+            "alt": "Обідня зона з видом на марину та пальми за вікном. - Обідня зона з видом на марину та пальми за вікном."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-Red-Sea-lobby.jpg",
+            "alt": "Простора лобі з високими стелями та декоративними світильниками. - Простора лобі з високими стелями та декоративними світильниками."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-main-restaurant-chefs.jpg",
+            "alt": "Шеф-кухарі готують їжу в обідній зоні з привітною атмосферою. - Шеф-кухарі готують їжу в обідній зоні з привітною атмосферою."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Merbey-Restaurant-Mosaique-Hotel-El-Gouna-Red-Sea-Egypt.jpg",
+            "alt": "Елегантна обідня зона з арками та стильними столовими наборами. - Елегантна обідня зона з арками та стильними столовими наборами."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/39721/photos/el-gouna-red-sea-beaches-egypt-marina-beach-club.jpeg",
+            "alt": "Пляжна зона з солом'яними парасолями та шезлонгами на піску. - Пляжна зона з солом'яними парасолями та шезлонгами на піску."
+          }
+        ],
+        "special_info": {
+          "check_in": {
+            "name": "Реєстрація",
+            "value": "14:00"
+          },
+          "check_out": {
+            "name": "Виїзд з готелю",
+            "value": "12:00"
+          },
+          "group": null,
+          "total_rooms": null
+        },
+        "location": {
+          "city": "El Gouna",
+          "country": "Egypt",
+          "full_address": "",
+          "latitude": "27.412161131106",
+          "longitude": "33.67244583573",
+          "region": [
+            {
+              "id": "c_9",
+              "name": "Єгипет",
+              "slug": "egypt",
+              "code_iso": "EG",
+              "type": "country",
+              "sub_regions": [],
+              "departure_cities": [],
+              "price_from": null
+            },
+            {
+              "id": "o_1318",
+              "name": "Ель-Гуна",
+              "slug": "el-gouna",
+              "code_iso": "",
+              "type": "city",
+              "sub_regions": [],
+              "departure_cities": [],
+              "price_from": null
+            }
+          ],
+          "description": "",
+          "additional_info": []
+        }
+      },
+      "offers": [
+        {
+          "id": "0x430A0000002800000001450000000900000E130000000000F51297B48700000004717A0700006B840000003A000016410000000400000000000000000000000100057DB2B48E0000070000000000A3B7540000000302020000636363B4870000B48E000002000000002400000000000000010000000038764036000476B20000172200000000",
+          "from": {
+            "id": "325",
+            "name": "Кишинів",
+            "slug": "",
+            "code_iso": "",
+            "type": "city",
+            "sub_regions": [],
+            "departure_cities": [],
+            "price_from": null
+          },
+          "stay": {
+            "label": "7",
+            "stay": 7
+          },
+          "date_start": "2026-07-14",
+          "date_end": "2026-07-21",
+          "board": {
+            "board_type": "BB",
+            "name": "Ліжко та сніданок",
+            "code": "4"
+          },
+          "rooms": [
+            {
+              "code": "58",
+              "name": "Deluxe Room",
+              "placement": "2AD"
+            }
+          ],
+          "transports": [
+            {
+              "type": "flight",
+              "direction": "outbound",
+              "availability": null,
+              "params": {
+                "class": null,
+                "flight_number": "8311",
+                "marketing_airline": {
+                  "name": "SkyUp Airlines",
+                  "code": "4V",
+                  "logo": null,
+                  "plane": null
+                },
+                "operating_airline": null,
+                "departure": {
+                  "code": "RMO",
+                  "name": "Chişinău International Airport",
+                  "timezone": "Europe/Chisinau"
+                },
+                "departure_terminal": "",
+                "arrival": {
+                  "code": "HRG",
+                  "name": "Hurghada International Airport",
+                  "timezone": "Africa/Cairo"
+                },
+                "arrival_terminal": "",
+                "std": "2026-07-14T08:35:00+00:00",
+                "sta": "2026-07-14T12:05:00+00:00",
+                "luggage": [
+                  {
+                    "type": "HNDL",
+                    "weight": 9
+                  },
+                  {
+                    "type": "CBAG",
+                    "weight": 23
+                  }
+                ]
+              }
+            },
+            {
+              "type": "flight",
+              "direction": "inbound",
+              "availability": null,
+              "params": {
+                "class": null,
+                "flight_number": "8312",
+                "marketing_airline": {
+                  "name": "SkyUp Airlines",
+                  "code": "4V",
+                  "logo": null,
+                  "plane": null
+                },
+                "operating_airline": null,
+                "departure": {
+                  "code": "HRG",
+                  "name": "Hurghada International Airport",
+                  "timezone": "Africa/Cairo"
+                },
+                "departure_terminal": "",
+                "arrival": {
+                  "code": "RMO",
+                  "name": "Chişinău International Airport",
+                  "timezone": "Europe/Chisinau"
+                },
+                "arrival_terminal": "",
+                "std": "2026-07-21T13:05:00+00:00",
+                "sta": "2026-07-21T16:50:00+00:00",
+                "luggage": [
+                  {
+                    "type": "HNDL",
+                    "weight": 9
+                  },
+                  {
+                    "type": "CBAG",
+                    "weight": 23
+                  }
+                ]
+              }
+            }
+          ],
+          "price": {
+            "components": [
+              {
+                "title": "Base-1-RMO/291194",
+                "type": "tour",
+                "price": {
+                  "price": "56771.00",
+                  "currency": {
+                    "code": "UAH",
+                    "sign": "₴"
+                  }
+                }
+              }
+            ],
+            "per_pax_price": null,
+            "average_history_price": null,
+            "full_price": null,
+            "total_price": {
+              "price": "56771.00",
+              "currency": {
+                "code": "UAH",
+                "sign": "₴"
+              }
+            },
+            "full_installment_price": null,
+            "installment_price": null,
+            "payment_price": null,
+            "total_price_description": "Повна оплата доступна карткою або через Apple/Google Pay.",
+            "installment_price_description": "",
+            "badges": [],
+            "commission": null
+          },
+          "promotion": null,
+          "badges": [],
+          "notes": [],
+          "availability": null,
+          "stop_sale": null,
+          "is_booking_available": null,
+          "is_dynamic": false,
+          "pax_adl": [],
+          "pax_chd": [],
+          "children_ages": []
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-El-Gouna-5.jpg",
+          "alt": "Вид на зону басейну, оточену будівлями та яскравими квітами. - Вид на зону басейну, оточену будівлями та яскравими квітами."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-El-Gouna-1.jpg",
+          "alt": "Інший ракурс зони басейну з шезлонгами та парасольками. - Інший ракурс зони басейну з шезлонгами та парасольками."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-El-Gouna-2.jpg",
+          "alt": "Чіткий вид на басейн, що відображає навколишню архітектуру. - Чіткий вид на басейн, що відображає навколишню архітектуру."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-El-Gouna-3.jpg",
+          "alt": "Вид з балкона на зону басейну з місцями для сидіння. - Вид з балкона на зону басейну з місцями для сидіння."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-El-Gouna-4.jpg",
+          "alt": "Вид з балкона з квітами та зоною басейну на задньому плані. - Вид з балкона з квітами та зоною басейну на задньому плані."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-exterior.jpg",
+          "alt": "Зовнішній вигляд готелю з пальмами та водними елементами. - Зовнішній вигляд готелю з пальмами та водними елементами."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-facade-2.jpg",
+          "alt": "Фронтальний вигляд входу в готель з пальмами вздовж стежки. - Фронтальний вигляд входу в готель з пальмами вздовж стежки."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-El-Gouna-Marina-Hotel-frontview.jpg",
+          "alt": "Бічний вигляд готелю, що демонструє його архітектуру та пальми. - Бічний вигляд готелю, що демонструє його архітектуру та пальми."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/El-Gouna-Red-Sea-New-Marina-Mosaique-Hotel-Top-View.jpg",
+          "alt": "Аерофотознімок марини з яхтами та прибережними будівлями. - Аерофотознімок марини з яхтами та прибережними будівлями."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/El-Gouna-aerial-view-Marina-moods.jpg",
+          "alt": "Аерофотознімок пляжної зони з шезлонгами та пляжними парасолями. - Аерофотознімок пляжної зони з шезлонгами та пляжними парасолями."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-hotel-El-Gouna-pool-Egypt.jpg",
+          "alt": "Зона біля басейну з шезлонгами та столом для напоїв. - Зона біля басейну з шезлонгами та столом для напоїв."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-marina-promenade.jpg",
+          "alt": "Вечірній вигляд на територію готелю з підсвіченими пальмами. - Вечірній вигляд на територію готелю з підсвіченими пальмами."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-kids-Pool.jpg",
+          "alt": "Зона басейну з затіненими місцями для сидіння та чистою блакитною водою. - Зона басейну з затіненими місцями для сидіння та чистою блакитною водою."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-Reception.jpg",
+          "alt": "Реєстраційна зона з кольоровими сидіннями та декоративними стінними елементами. - Реєстраційна зона з кольоровими сидіннями та декоративними стінними елементами."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-hotel-lobby-El-Gouna-1.jpg",
+          "alt": "Ще один вигляд зони реєстрації з яскравими сидіннями та декором. - Ще один вигляд зони реєстрації з яскравими сидіннями та декором."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-hotel-lobby-El-Gouna-2.jpg",
+          "alt": "Простора лобі з кольоровими сидіннями та фонтаном у центрі. - Простора лобі з кольоровими сидіннями та фонтаном у центрі."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-lobby-bar-cocktails.jpg",
+          "alt": "Крупний план напоїв на барній стійці з декоративним фоном. - Крупний план напоїв на барній стійці з декоративним фоном."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-Restaurant-indoor-area.jpg",
+          "alt": "Обідня зона з видом на марину та пальми за вікном. - Обідня зона з видом на марину та пальми за вікном."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-Red-Sea-lobby.jpg",
+          "alt": "Простора лобі з високими стелями та декоративними світильниками. - Простора лобі з високими стелями та декоративними світильниками."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-main-restaurant-chefs.jpg",
+          "alt": "Шеф-кухарі готують їжу в обідній зоні з привітною атмосферою. - Шеф-кухарі готують їжу в обідній зоні з привітною атмосферою."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Merbey-Restaurant-Mosaique-Hotel-El-Gouna-Red-Sea-Egypt.jpg",
+          "alt": "Елегантна обідня зона з арками та стильними столовими наборами. - Елегантна обідня зона з арками та стильними столовими наборами."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/39721/photos/el-gouna-red-sea-beaches-egypt-marina-beach-club.jpeg",
+          "alt": "Пляжна зона з солом'яними парасолями та шезлонгами на піску. - Пляжна зона з солом'яними парасолями та шезлонгами на піску."
+        }
+      ],
+      "links": [
+        {
+          "type": "agent_hotel_page",
+          "link": "https://agent.joinup.ua/uk/hotel/27524"
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "id": "49627",
+        "name": "Captain's Inn El Gouna",
+        "category": {
+          "category": "3",
+          "name": "3 - Три зірки"
+        },
+        "badges": [],
+        "descriptions": [
+          {
+            "title": "Опис",
+            "description": "Captain’s Inn — це невеликий готель, ідеально розташований в красивій гавані Абу-Тіг, в самому модному місці — Ель-Гуна на узбережжі Червоного моря. В готелі знаходиться один з найпопулярніших ресторанівз великою терасою і столиками на набережній, звідки відкривається вид на блакитну воду причалу. Гості готелю Captain’s Inn також можуть відвідувати басейни готелю Ali Pasha, один з яких підігрівається взимку, а також піщаний пляж Marina Beach. Кілька багатомовних дайв-центрів, розташованих навколо пристані для яхт, роблять Captain’s Inn ідеальним дайвінг-готелем. Він також особливо популярний серед кайтсерферов, і любителів кайтбординга. Активні туристи і любителі вечірок будуть в захваті від усіх зручностей і можливостей відпочинку, пропонованих курортним містом Ель-Гуна.\n\nІнформація про структуру готелю і про номерний фонд:\n\nГотель складається з одного 3-х поверхового будинку.\nЗагальна кількість номерів — 56.\nРеновація - в готелі проведено капітальний ремонт.",
+            "type": "general"
+          }
+        ],
+        "media": [
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/51152/photos/El_Gouna_Red_Sea_Aerial_Shot_Abu_Tig_Marina-1-copy-3.jpeg",
+            "alt": "Захід сонця над мариною з яхтами та пальмами. - Захід сонця над мариною з яхтами та пальмами."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/51152/photos/OHM_Captains_Inn_El_Gouna_Red_Sea_Egypt_facade.jpeg",
+            "alt": "Жінка стоїть на балконі з видом на пальму. - Жінка стоїть на балконі з видом на пальму."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/51152/photos/El-Gouna-Red-Sea-Abu-Tig-Marina-Ali-Pasha-Hotel.jpeg",
+            "alt": "Аерознімок марини з човнами та навколишніми будівлями. - Аерознімок марини з човнами та навколишніми будівлями."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/51152/photos/Ancient_Sands_Golf_Resort_-Residences_El_Gouna_Red_Sea_The_Beach_-10-1.jpeg",
+            "alt": "Пляжна зона з солом'яними хатами та пальмами під блакитним небом. - Пляжна зона з солом'яними хатами та пальмами під блакитним небом."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/51152/photos/s-1.jpeg",
+            "alt": "Відкрита зона для обіду з столами з видом на марину. - Відкрита зона для обіду з столами з видом на марину."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/51152/photos/s.jpeg",
+            "alt": "Ресторан Marina Steakhouse з квітами та відкритими місцями для сидіння. - Ресторан Marina Steakhouse з квітами та відкритими місцями для сидіння."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/51152/photos/s-4.jpeg",
+            "alt": "Балкон з місцями для сидіння та видом на марину і човни. - Балкон з місцями для сидіння та видом на марину і човни."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/51152/photos/OHM_Captains_Inn_El_Gouna_Red_Sea_Egypt_serving.jpeg",
+            "alt": "Стильний балкон кімнати з місцями для сидіння та видом на марину. - Стильний балкон кімнати з місцями для сидіння та видом на марину."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/51152/photos/s-3.jpeg",
+            "alt": "Відкрита зона для обіду з столами з видом на марину. - Відкрита зона для обіду з столами з видом на марину."
+          },
+          {
+            "type": "image",
+            "name": "",
+            "url": "https://media.joinup.travel/storage/hotel/51152/photos/s-2.jpeg",
+            "alt": "Обідня зона з дерев'яними столами та смугастими стільцями. - Обідня зона з дерев'яними столами та смугастими стільцями."
+          }
+        ],
+        "special_info": {
+          "check_in": {
+            "name": "Реєстрація",
+            "value": "14:00"
+          },
+          "check_out": {
+            "name": "Виїзд з готелю",
+            "value": "12:00"
+          },
+          "group": null,
+          "total_rooms": null
+        },
+        "location": {
+          "city": "El Gouna",
+          "country": "Egypt",
+          "full_address": "",
+          "latitude": "27.4085416",
+          "longitude": "33.674091",
+          "region": [
+            {
+              "id": "c_9",
+              "name": "Єгипет",
+              "slug": "egypt",
+              "code_iso": "EG",
+              "type": "country",
+              "sub_regions": [],
+              "departure_cities": [],
+              "price_from": null
+            },
+            {
+              "id": "o_1318",
+              "name": "Ель-Гуна",
+              "slug": "el-gouna",
+              "code_iso": "",
+              "type": "city",
+              "sub_regions": [],
+              "departure_cities": [],
+              "price_from": null
+            }
+          ],
+          "description": "",
+          "additional_info": []
+        }
+      },
+      "offers": [
+        {
+          "id": "0x430A0000002800000001450000000900000E130000000000F512E0B48700000004717A070000C1DB0000B840000016410000000400000000000000000000000100057DB2B48E0000070000000000A3B7540000000302020000636363B4870000B48E0000020000000024000000000000000100000000386ABCD3000476B20000172200000000",
+          "from": {
+            "id": "325",
+            "name": "Кишинів",
+            "slug": "",
+            "code_iso": "",
+            "type": "city",
+            "sub_regions": [],
+            "departure_cities": [],
+            "price_from": null
+          },
+          "stay": {
+            "label": "7",
+            "stay": 7
+          },
+          "date_start": "2026-07-14",
+          "date_end": "2026-07-21",
+          "board": {
+            "board_type": "BB",
+            "name": "Ліжко та сніданок",
+            "code": "4"
+          },
+          "rooms": [
+            {
+              "code": "47168",
+              "name": "Standard Room ",
+              "placement": "2AD"
+            }
+          ],
+          "transports": [
+            {
+              "type": "flight",
+              "direction": "outbound",
+              "availability": null,
+              "params": {
+                "class": null,
+                "flight_number": "8311",
+                "marketing_airline": {
+                  "name": "SkyUp Airlines",
+                  "code": "4V",
+                  "logo": null,
+                  "plane": null
+                },
+                "operating_airline": null,
+                "departure": {
+                  "code": "RMO",
+                  "name": "Chişinău International Airport",
+                  "timezone": "Europe/Chisinau"
+                },
+                "departure_terminal": "",
+                "arrival": {
+                  "code": "HRG",
+                  "name": "Hurghada International Airport",
+                  "timezone": "Africa/Cairo"
+                },
+                "arrival_terminal": "",
+                "std": "2026-07-14T08:35:00+00:00",
+                "sta": "2026-07-14T12:05:00+00:00",
+                "luggage": [
+                  {
+                    "type": "HNDL",
+                    "weight": 9
+                  },
+                  {
+                    "type": "CBAG",
+                    "weight": 23
+                  }
+                ]
+              }
+            },
+            {
+              "type": "flight",
+              "direction": "inbound",
+              "availability": null,
+              "params": {
+                "class": null,
+                "flight_number": "8312",
+                "marketing_airline": {
+                  "name": "SkyUp Airlines",
+                  "code": "4V",
+                  "logo": null,
+                  "plane": null
+                },
+                "operating_airline": null,
+                "departure": {
+                  "code": "HRG",
+                  "name": "Hurghada International Airport",
+                  "timezone": "Africa/Cairo"
+                },
+                "departure_terminal": "",
+                "arrival": {
+                  "code": "RMO",
+                  "name": "Chişinău International Airport",
+                  "timezone": "Europe/Chisinau"
+                },
+                "arrival_terminal": "",
+                "std": "2026-07-21T13:05:00+00:00",
+                "sta": "2026-07-21T16:50:00+00:00",
+                "luggage": [
+                  {
+                    "type": "HNDL",
+                    "weight": 9
+                  },
+                  {
+                    "type": "CBAG",
+                    "weight": 23
+                  }
+                ]
+              }
+            }
+          ],
+          "price": {
+            "components": [
+              {
+                "title": "Base-1-RMO/291194",
+                "type": "tour",
+                "price": {
+                  "price": "56771.00",
+                  "currency": {
+                    "code": "UAH",
+                    "sign": "₴"
+                  }
+                }
+              }
+            ],
+            "per_pax_price": null,
+            "average_history_price": null,
+            "full_price": null,
+            "total_price": {
+              "price": "56771.00",
+              "currency": {
+                "code": "UAH",
+                "sign": "₴"
+              }
+            },
+            "full_installment_price": null,
+            "installment_price": null,
+            "payment_price": null,
+            "total_price_description": "Повна оплата доступна карткою або через Apple/Google Pay.",
+            "installment_price_description": "",
+            "badges": [],
+            "commission": null
+          },
+          "promotion": null,
+          "badges": [],
+          "notes": [],
+          "availability": null,
+          "stop_sale": null,
+          "is_booking_available": null,
+          "is_dynamic": false,
+          "pax_adl": [],
+          "pax_chd": [],
+          "children_ages": []
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/51152/photos/El_Gouna_Red_Sea_Aerial_Shot_Abu_Tig_Marina-1-copy-3.jpeg",
+          "alt": "Захід сонця над мариною з яхтами та пальмами. - Захід сонця над мариною з яхтами та пальмами."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/51152/photos/OHM_Captains_Inn_El_Gouna_Red_Sea_Egypt_facade.jpeg",
+          "alt": "Жінка стоїть на балконі з видом на пальму. - Жінка стоїть на балконі з видом на пальму."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/51152/photos/El-Gouna-Red-Sea-Abu-Tig-Marina-Ali-Pasha-Hotel.jpeg",
+          "alt": "Аерознімок марини з човнами та навколишніми будівлями. - Аерознімок марини з човнами та навколишніми будівлями."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/51152/photos/Ancient_Sands_Golf_Resort_-Residences_El_Gouna_Red_Sea_The_Beach_-10-1.jpeg",
+          "alt": "Пляжна зона з солом'яними хатами та пальмами під блакитним небом. - Пляжна зона з солом'яними хатами та пальмами під блакитним небом."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/51152/photos/s-1.jpeg",
+          "alt": "Відкрита зона для обіду з столами з видом на марину. - Відкрита зона для обіду з столами з видом на марину."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/51152/photos/s.jpeg",
+          "alt": "Ресторан Marina Steakhouse з квітами та відкритими місцями для сидіння. - Ресторан Marina Steakhouse з квітами та відкритими місцями для сидіння."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/51152/photos/s-4.jpeg",
+          "alt": "Балкон з місцями для сидіння та видом на марину і човни. - Балкон з місцями для сидіння та видом на марину і човни."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/51152/photos/OHM_Captains_Inn_El_Gouna_Red_Sea_Egypt_serving.jpeg",
+          "alt": "Стильний балкон кімнати з місцями для сидіння та видом на марину. - Стильний балкон кімнати з місцями для сидіння та видом на марину."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/51152/photos/s-3.jpeg",
+          "alt": "Відкрита зона для обіду з столами з видом на марину. - Відкрита зона для обіду з столами з видом на марину."
+        },
+        {
+          "type": "image",
+          "name": "",
+          "url": "https://media.joinup.travel/storage/hotel/51152/photos/s-2.jpeg",
+          "alt": "Обідня зона з дерев'яними столами та смугастими стільцями. - Обідня зона з дерев'яними столами та смугастими стільцями."
+        }
+      ],
+      "links": [
+        {
+          "type": "agent_hotel_page",
+          "link": "https://agent.joinup.ua/uk/hotel/49627"
+        }
+      ]
+    },
+    {
+      "hotel": {
         "id": "41817",
         "name": "Marlin Inn Beach Resort",
         "category": {
@@ -3447,1602 +5043,6 @@
         {
           "type": "agent_hotel_page",
           "link": "https://agent.joinup.ua/uk/hotel/41817"
-        }
-      ]
-    },
-    {
-      "hotel": {
-        "id": "49627",
-        "name": "Captain's Inn El Gouna",
-        "category": {
-          "category": "3",
-          "name": "3 - Три зірки"
-        },
-        "badges": [],
-        "descriptions": [
-          {
-            "title": "Опис",
-            "description": "Captain’s Inn — це невеликий готель, ідеально розташований в красивій гавані Абу-Тіг, в самому модному місці — Ель-Гуна на узбережжі Червоного моря. В готелі знаходиться один з найпопулярніших ресторанівз великою терасою і столиками на набережній, звідки відкривається вид на блакитну воду причалу. Гості готелю Captain’s Inn також можуть відвідувати басейни готелю Ali Pasha, один з яких підігрівається взимку, а також піщаний пляж Marina Beach. Кілька багатомовних дайв-центрів, розташованих навколо пристані для яхт, роблять Captain’s Inn ідеальним дайвінг-готелем. Він також особливо популярний серед кайтсерферов, і любителів кайтбординга. Активні туристи і любителі вечірок будуть в захваті від усіх зручностей і можливостей відпочинку, пропонованих курортним містом Ель-Гуна.\n\nІнформація про структуру готелю і про номерний фонд:\n\nГотель складається з одного 3-х поверхового будинку.\nЗагальна кількість номерів — 56.\nРеновація - в готелі проведено капітальний ремонт.",
-            "type": "general"
-          }
-        ],
-        "media": [
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51152/photos/El_Gouna_Red_Sea_Aerial_Shot_Abu_Tig_Marina-1-copy-3.jpeg",
-            "alt": "Захід сонця над мариною з яхтами та пальмами. - Захід сонця над мариною з яхтами та пальмами."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51152/photos/OHM_Captains_Inn_El_Gouna_Red_Sea_Egypt_facade.jpeg",
-            "alt": "Жінка стоїть на балконі з видом на пальму. - Жінка стоїть на балконі з видом на пальму."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51152/photos/El-Gouna-Red-Sea-Abu-Tig-Marina-Ali-Pasha-Hotel.jpeg",
-            "alt": "Аерознімок марини з човнами та навколишніми будівлями. - Аерознімок марини з човнами та навколишніми будівлями."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51152/photos/Ancient_Sands_Golf_Resort_-Residences_El_Gouna_Red_Sea_The_Beach_-10-1.jpeg",
-            "alt": "Пляжна зона з солом'яними хатами та пальмами під блакитним небом. - Пляжна зона з солом'яними хатами та пальмами під блакитним небом."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51152/photos/s-1.jpeg",
-            "alt": "Відкрита зона для обіду з столами з видом на марину. - Відкрита зона для обіду з столами з видом на марину."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51152/photos/s.jpeg",
-            "alt": "Ресторан Marina Steakhouse з квітами та відкритими місцями для сидіння. - Ресторан Marina Steakhouse з квітами та відкритими місцями для сидіння."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51152/photos/s-4.jpeg",
-            "alt": "Балкон з місцями для сидіння та видом на марину і човни. - Балкон з місцями для сидіння та видом на марину і човни."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51152/photos/OHM_Captains_Inn_El_Gouna_Red_Sea_Egypt_serving.jpeg",
-            "alt": "Стильний балкон кімнати з місцями для сидіння та видом на марину. - Стильний балкон кімнати з місцями для сидіння та видом на марину."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51152/photos/s-3.jpeg",
-            "alt": "Відкрита зона для обіду з столами з видом на марину. - Відкрита зона для обіду з столами з видом на марину."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51152/photos/s-2.jpeg",
-            "alt": "Обідня зона з дерев'яними столами та смугастими стільцями. - Обідня зона з дерев'яними столами та смугастими стільцями."
-          }
-        ],
-        "special_info": {
-          "check_in": {
-            "name": "Реєстрація",
-            "value": "14:00"
-          },
-          "check_out": {
-            "name": "Виїзд з готелю",
-            "value": "12:00"
-          },
-          "group": null,
-          "total_rooms": null
-        },
-        "location": {
-          "city": "El Gouna",
-          "country": "Egypt",
-          "full_address": "",
-          "latitude": "27.4085416",
-          "longitude": "33.674091",
-          "region": [
-            {
-              "id": "c_9",
-              "name": "Єгипет",
-              "slug": "egypt",
-              "code_iso": "EG",
-              "type": "country",
-              "sub_regions": [],
-              "departure_cities": [],
-              "price_from": null
-            },
-            {
-              "id": "o_1318",
-              "name": "Ель-Гуна",
-              "slug": "el-gouna",
-              "code_iso": "",
-              "type": "city",
-              "sub_regions": [],
-              "departure_cities": [],
-              "price_from": null
-            }
-          ],
-          "description": "",
-          "additional_info": []
-        }
-      },
-      "offers": [
-        {
-          "id": "0x430A0000002800000001450000000900000E130000000000F512E0B48700000004717A070000C1DB0000B840000016410000000400000000000000000000000100057DB2B48E0000070000000000A3B7540000000302020000636363B4870000B48E0000020000000024000000000000000100000000386ABCD3000476B20000172200000000",
-          "from": {
-            "id": "325",
-            "name": "Кишинів",
-            "slug": "",
-            "code_iso": "",
-            "type": "city",
-            "sub_regions": [],
-            "departure_cities": [],
-            "price_from": null
-          },
-          "stay": {
-            "label": "7",
-            "stay": 7
-          },
-          "date_start": "2026-07-14",
-          "date_end": "2026-07-21",
-          "board": {
-            "board_type": "BB",
-            "name": "Ліжко та сніданок",
-            "code": "4"
-          },
-          "rooms": [
-            {
-              "code": "47168",
-              "name": "Standard Room ",
-              "placement": "2AD"
-            }
-          ],
-          "transports": [
-            {
-              "type": "flight",
-              "direction": "outbound",
-              "availability": null,
-              "params": {
-                "class": null,
-                "flight_number": "8311",
-                "marketing_airline": {
-                  "name": "SkyUp Airlines",
-                  "code": "4V",
-                  "logo": null,
-                  "plane": null
-                },
-                "operating_airline": null,
-                "departure": {
-                  "code": "RMO",
-                  "name": "Chişinău International Airport",
-                  "timezone": "Europe/Chisinau"
-                },
-                "departure_terminal": "",
-                "arrival": {
-                  "code": "HRG",
-                  "name": "Hurghada International Airport",
-                  "timezone": "Africa/Cairo"
-                },
-                "arrival_terminal": "",
-                "std": "2026-07-14T08:35:00+00:00",
-                "sta": "2026-07-14T12:05:00+00:00",
-                "luggage": [
-                  {
-                    "type": "HNDL",
-                    "weight": 9
-                  },
-                  {
-                    "type": "CBAG",
-                    "weight": 23
-                  }
-                ]
-              }
-            },
-            {
-              "type": "flight",
-              "direction": "inbound",
-              "availability": null,
-              "params": {
-                "class": null,
-                "flight_number": "8312",
-                "marketing_airline": {
-                  "name": "SkyUp Airlines",
-                  "code": "4V",
-                  "logo": null,
-                  "plane": null
-                },
-                "operating_airline": null,
-                "departure": {
-                  "code": "HRG",
-                  "name": "Hurghada International Airport",
-                  "timezone": "Africa/Cairo"
-                },
-                "departure_terminal": "",
-                "arrival": {
-                  "code": "RMO",
-                  "name": "Chişinău International Airport",
-                  "timezone": "Europe/Chisinau"
-                },
-                "arrival_terminal": "",
-                "std": "2026-07-21T13:05:00+00:00",
-                "sta": "2026-07-21T16:50:00+00:00",
-                "luggage": [
-                  {
-                    "type": "HNDL",
-                    "weight": 9
-                  },
-                  {
-                    "type": "CBAG",
-                    "weight": 23
-                  }
-                ]
-              }
-            }
-          ],
-          "price": {
-            "components": [
-              {
-                "title": "Base-1-RMO/291194",
-                "type": "tour",
-                "price": {
-                  "price": "56771.00",
-                  "currency": {
-                    "code": "UAH",
-                    "sign": "₴"
-                  }
-                }
-              }
-            ],
-            "per_pax_price": null,
-            "average_history_price": null,
-            "full_price": null,
-            "total_price": {
-              "price": "56771.00",
-              "currency": {
-                "code": "UAH",
-                "sign": "₴"
-              }
-            },
-            "full_installment_price": null,
-            "installment_price": null,
-            "payment_price": null,
-            "total_price_description": "Повна оплата доступна карткою або через Apple/Google Pay.",
-            "installment_price_description": "",
-            "badges": [],
-            "commission": null
-          },
-          "promotion": null,
-          "badges": [],
-          "notes": [],
-          "availability": null,
-          "stop_sale": null,
-          "is_booking_available": null,
-          "is_dynamic": false,
-          "pax_adl": [],
-          "pax_chd": [],
-          "children_ages": []
-        }
-      ],
-      "media": [
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51152/photos/El_Gouna_Red_Sea_Aerial_Shot_Abu_Tig_Marina-1-copy-3.jpeg",
-          "alt": "Захід сонця над мариною з яхтами та пальмами. - Захід сонця над мариною з яхтами та пальмами."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51152/photos/OHM_Captains_Inn_El_Gouna_Red_Sea_Egypt_facade.jpeg",
-          "alt": "Жінка стоїть на балконі з видом на пальму. - Жінка стоїть на балконі з видом на пальму."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51152/photos/El-Gouna-Red-Sea-Abu-Tig-Marina-Ali-Pasha-Hotel.jpeg",
-          "alt": "Аерознімок марини з човнами та навколишніми будівлями. - Аерознімок марини з човнами та навколишніми будівлями."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51152/photos/Ancient_Sands_Golf_Resort_-Residences_El_Gouna_Red_Sea_The_Beach_-10-1.jpeg",
-          "alt": "Пляжна зона з солом'яними хатами та пальмами під блакитним небом. - Пляжна зона з солом'яними хатами та пальмами під блакитним небом."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51152/photos/s-1.jpeg",
-          "alt": "Відкрита зона для обіду з столами з видом на марину. - Відкрита зона для обіду з столами з видом на марину."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51152/photos/s.jpeg",
-          "alt": "Ресторан Marina Steakhouse з квітами та відкритими місцями для сидіння. - Ресторан Marina Steakhouse з квітами та відкритими місцями для сидіння."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51152/photos/s-4.jpeg",
-          "alt": "Балкон з місцями для сидіння та видом на марину і човни. - Балкон з місцями для сидіння та видом на марину і човни."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51152/photos/OHM_Captains_Inn_El_Gouna_Red_Sea_Egypt_serving.jpeg",
-          "alt": "Стильний балкон кімнати з місцями для сидіння та видом на марину. - Стильний балкон кімнати з місцями для сидіння та видом на марину."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51152/photos/s-3.jpeg",
-          "alt": "Відкрита зона для обіду з столами з видом на марину. - Відкрита зона для обіду з столами з видом на марину."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51152/photos/s-2.jpeg",
-          "alt": "Обідня зона з дерев'яними столами та смугастими стільцями. - Обідня зона з дерев'яними столами та смугастими стільцями."
-        }
-      ],
-      "links": [
-        {
-          "type": "agent_hotel_page",
-          "link": "https://agent.joinup.ua/uk/hotel/49627"
-        }
-      ]
-    },
-    {
-      "hotel": {
-        "id": "27524",
-        "name": "Mosaique El Gouna",
-        "category": {
-          "category": "4",
-          "name": "4 - Чотири зірки"
-        },
-        "badges": [],
-        "descriptions": [
-          {
-            "title": "Опис",
-            "description": "Готель, розташований за кілька хвилин ходьби від основних визначних пам'яток Ель-Гуни, пропонує гостям краєвиди на яхти в пристані. На території є відкриті басейни для дорослих та дітей, ресторан, два бари. Номери обладнані балконом або терасою, кондиціонером, сейфом, міні-баром та душем з феном.",
-            "type": "general"
-          }
-        ],
-        "media": [
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-El-Gouna-5.jpg",
-            "alt": "Вид на зону басейну, оточену будівлями та яскравими квітами. - Вид на зону басейну, оточену будівлями та яскравими квітами."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-El-Gouna-1.jpg",
-            "alt": "Інший ракурс зони басейну з шезлонгами та парасольками. - Інший ракурс зони басейну з шезлонгами та парасольками."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-El-Gouna-2.jpg",
-            "alt": "Чіткий вид на басейн, що відображає навколишню архітектуру. - Чіткий вид на басейн, що відображає навколишню архітектуру."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-El-Gouna-3.jpg",
-            "alt": "Вид з балкона на зону басейну з місцями для сидіння. - Вид з балкона на зону басейну з місцями для сидіння."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-El-Gouna-4.jpg",
-            "alt": "Вид з балкона з квітами та зоною басейну на задньому плані. - Вид з балкона з квітами та зоною басейну на задньому плані."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-exterior.jpg",
-            "alt": "Зовнішній вигляд готелю з пальмами та водними елементами. - Зовнішній вигляд готелю з пальмами та водними елементами."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-facade-2.jpg",
-            "alt": "Фронтальний вигляд входу в готель з пальмами вздовж стежки. - Фронтальний вигляд входу в готель з пальмами вздовж стежки."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-El-Gouna-Marina-Hotel-frontview.jpg",
-            "alt": "Бічний вигляд готелю, що демонструє його архітектуру та пальми. - Бічний вигляд готелю, що демонструє його архітектуру та пальми."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/39721/photos/El-Gouna-Red-Sea-New-Marina-Mosaique-Hotel-Top-View.jpg",
-            "alt": "Аерофотознімок марини з яхтами та прибережними будівлями. - Аерофотознімок марини з яхтами та прибережними будівлями."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/39721/photos/El-Gouna-aerial-view-Marina-moods.jpg",
-            "alt": "Аерофотознімок пляжної зони з шезлонгами та пляжними парасолями. - Аерофотознімок пляжної зони з шезлонгами та пляжними парасолями."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-hotel-El-Gouna-pool-Egypt.jpg",
-            "alt": "Зона біля басейну з шезлонгами та столом для напоїв. - Зона біля басейну з шезлонгами та столом для напоїв."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-marina-promenade.jpg",
-            "alt": "Вечірній вигляд на територію готелю з підсвіченими пальмами. - Вечірній вигляд на територію готелю з підсвіченими пальмами."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-kids-Pool.jpg",
-            "alt": "Зона басейну з затіненими місцями для сидіння та чистою блакитною водою. - Зона басейну з затіненими місцями для сидіння та чистою блакитною водою."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-Reception.jpg",
-            "alt": "Реєстраційна зона з кольоровими сидіннями та декоративними стінними елементами. - Реєстраційна зона з кольоровими сидіннями та декоративними стінними елементами."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-hotel-lobby-El-Gouna-1.jpg",
-            "alt": "Ще один вигляд зони реєстрації з яскравими сидіннями та декором. - Ще один вигляд зони реєстрації з яскравими сидіннями та декором."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-hotel-lobby-El-Gouna-2.jpg",
-            "alt": "Простора лобі з кольоровими сидіннями та фонтаном у центрі. - Простора лобі з кольоровими сидіннями та фонтаном у центрі."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-lobby-bar-cocktails.jpg",
-            "alt": "Крупний план напоїв на барній стійці з декоративним фоном. - Крупний план напоїв на барній стійці з декоративним фоном."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-Restaurant-indoor-area.jpg",
-            "alt": "Обідня зона з видом на марину та пальми за вікном. - Обідня зона з видом на марину та пальми за вікном."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-Red-Sea-lobby.jpg",
-            "alt": "Простора лобі з високими стелями та декоративними світильниками. - Простора лобі з високими стелями та декоративними світильниками."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-main-restaurant-chefs.jpg",
-            "alt": "Шеф-кухарі готують їжу в обідній зоні з привітною атмосферою. - Шеф-кухарі готують їжу в обідній зоні з привітною атмосферою."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/39721/photos/Merbey-Restaurant-Mosaique-Hotel-El-Gouna-Red-Sea-Egypt.jpg",
-            "alt": "Елегантна обідня зона з арками та стильними столовими наборами. - Елегантна обідня зона з арками та стильними столовими наборами."
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/39721/photos/el-gouna-red-sea-beaches-egypt-marina-beach-club.jpeg",
-            "alt": "Пляжна зона з солом'яними парасолями та шезлонгами на піску. - Пляжна зона з солом'яними парасолями та шезлонгами на піску."
-          }
-        ],
-        "special_info": {
-          "check_in": {
-            "name": "Реєстрація",
-            "value": "14:00"
-          },
-          "check_out": {
-            "name": "Виїзд з готелю",
-            "value": "12:00"
-          },
-          "group": null,
-          "total_rooms": null
-        },
-        "location": {
-          "city": "El Gouna",
-          "country": "Egypt",
-          "full_address": "",
-          "latitude": "27.412161131106",
-          "longitude": "33.67244583573",
-          "region": [
-            {
-              "id": "c_9",
-              "name": "Єгипет",
-              "slug": "egypt",
-              "code_iso": "EG",
-              "type": "country",
-              "sub_regions": [],
-              "departure_cities": [],
-              "price_from": null
-            },
-            {
-              "id": "o_1318",
-              "name": "Ель-Гуна",
-              "slug": "el-gouna",
-              "code_iso": "",
-              "type": "city",
-              "sub_regions": [],
-              "departure_cities": [],
-              "price_from": null
-            }
-          ],
-          "description": "",
-          "additional_info": []
-        }
-      },
-      "offers": [
-        {
-          "id": "0x430A0000002800000001450000000900000E130000000000F51297B48700000004717A0700006B840000003A000016410000000400000000000000000000000100057DB2B48E0000070000000000A3B7540000000302020000636363B4870000B48E000002000000002400000000000000010000000038764036000476B20000172200000000",
-          "from": {
-            "id": "325",
-            "name": "Кишинів",
-            "slug": "",
-            "code_iso": "",
-            "type": "city",
-            "sub_regions": [],
-            "departure_cities": [],
-            "price_from": null
-          },
-          "stay": {
-            "label": "7",
-            "stay": 7
-          },
-          "date_start": "2026-07-14",
-          "date_end": "2026-07-21",
-          "board": {
-            "board_type": "BB",
-            "name": "Ліжко та сніданок",
-            "code": "4"
-          },
-          "rooms": [
-            {
-              "code": "58",
-              "name": "Deluxe Room",
-              "placement": "2AD"
-            }
-          ],
-          "transports": [
-            {
-              "type": "flight",
-              "direction": "outbound",
-              "availability": null,
-              "params": {
-                "class": null,
-                "flight_number": "8311",
-                "marketing_airline": {
-                  "name": "SkyUp Airlines",
-                  "code": "4V",
-                  "logo": null,
-                  "plane": null
-                },
-                "operating_airline": null,
-                "departure": {
-                  "code": "RMO",
-                  "name": "Chişinău International Airport",
-                  "timezone": "Europe/Chisinau"
-                },
-                "departure_terminal": "",
-                "arrival": {
-                  "code": "HRG",
-                  "name": "Hurghada International Airport",
-                  "timezone": "Africa/Cairo"
-                },
-                "arrival_terminal": "",
-                "std": "2026-07-14T08:35:00+00:00",
-                "sta": "2026-07-14T12:05:00+00:00",
-                "luggage": [
-                  {
-                    "type": "HNDL",
-                    "weight": 9
-                  },
-                  {
-                    "type": "CBAG",
-                    "weight": 23
-                  }
-                ]
-              }
-            },
-            {
-              "type": "flight",
-              "direction": "inbound",
-              "availability": null,
-              "params": {
-                "class": null,
-                "flight_number": "8312",
-                "marketing_airline": {
-                  "name": "SkyUp Airlines",
-                  "code": "4V",
-                  "logo": null,
-                  "plane": null
-                },
-                "operating_airline": null,
-                "departure": {
-                  "code": "HRG",
-                  "name": "Hurghada International Airport",
-                  "timezone": "Africa/Cairo"
-                },
-                "departure_terminal": "",
-                "arrival": {
-                  "code": "RMO",
-                  "name": "Chişinău International Airport",
-                  "timezone": "Europe/Chisinau"
-                },
-                "arrival_terminal": "",
-                "std": "2026-07-21T13:05:00+00:00",
-                "sta": "2026-07-21T16:50:00+00:00",
-                "luggage": [
-                  {
-                    "type": "HNDL",
-                    "weight": 9
-                  },
-                  {
-                    "type": "CBAG",
-                    "weight": 23
-                  }
-                ]
-              }
-            }
-          ],
-          "price": {
-            "components": [
-              {
-                "title": "Base-1-RMO/291194",
-                "type": "tour",
-                "price": {
-                  "price": "56771.00",
-                  "currency": {
-                    "code": "UAH",
-                    "sign": "₴"
-                  }
-                }
-              }
-            ],
-            "per_pax_price": null,
-            "average_history_price": null,
-            "full_price": null,
-            "total_price": {
-              "price": "56771.00",
-              "currency": {
-                "code": "UAH",
-                "sign": "₴"
-              }
-            },
-            "full_installment_price": null,
-            "installment_price": null,
-            "payment_price": null,
-            "total_price_description": "Повна оплата доступна карткою або через Apple/Google Pay.",
-            "installment_price_description": "",
-            "badges": [],
-            "commission": null
-          },
-          "promotion": null,
-          "badges": [],
-          "notes": [],
-          "availability": null,
-          "stop_sale": null,
-          "is_booking_available": null,
-          "is_dynamic": false,
-          "pax_adl": [],
-          "pax_chd": [],
-          "children_ages": []
-        }
-      ],
-      "media": [
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-El-Gouna-5.jpg",
-          "alt": "Вид на зону басейну, оточену будівлями та яскравими квітами. - Вид на зону басейну, оточену будівлями та яскравими квітами."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-El-Gouna-1.jpg",
-          "alt": "Інший ракурс зони басейну з шезлонгами та парасольками. - Інший ракурс зони басейну з шезлонгами та парасольками."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-El-Gouna-2.jpg",
-          "alt": "Чіткий вид на басейн, що відображає навколишню архітектуру. - Чіткий вид на басейн, що відображає навколишню архітектуру."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-El-Gouna-3.jpg",
-          "alt": "Вид з балкона на зону басейну з місцями для сидіння. - Вид з балкона на зону басейну з місцями для сидіння."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-El-Gouna-4.jpg",
-          "alt": "Вид з балкона з квітами та зоною басейну на задньому плані. - Вид з балкона з квітами та зоною басейну на задньому плані."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-exterior.jpg",
-          "alt": "Зовнішній вигляд готелю з пальмами та водними елементами. - Зовнішній вигляд готелю з пальмами та водними елементами."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-facade-2.jpg",
-          "alt": "Фронтальний вигляд входу в готель з пальмами вздовж стежки. - Фронтальний вигляд входу в готель з пальмами вздовж стежки."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-El-Gouna-Marina-Hotel-frontview.jpg",
-          "alt": "Бічний вигляд готелю, що демонструє його архітектуру та пальми. - Бічний вигляд готелю, що демонструє його архітектуру та пальми."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/39721/photos/El-Gouna-Red-Sea-New-Marina-Mosaique-Hotel-Top-View.jpg",
-          "alt": "Аерофотознімок марини з яхтами та прибережними будівлями. - Аерофотознімок марини з яхтами та прибережними будівлями."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/39721/photos/El-Gouna-aerial-view-Marina-moods.jpg",
-          "alt": "Аерофотознімок пляжної зони з шезлонгами та пляжними парасолями. - Аерофотознімок пляжної зони з шезлонгами та пляжними парасолями."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-hotel-El-Gouna-pool-Egypt.jpg",
-          "alt": "Зона біля басейну з шезлонгами та столом для напоїв. - Зона біля басейну з шезлонгами та столом для напоїв."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-marina-promenade.jpg",
-          "alt": "Вечірній вигляд на територію готелю з підсвіченими пальмами. - Вечірній вигляд на територію готелю з підсвіченими пальмами."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-kids-Pool.jpg",
-          "alt": "Зона басейну з затіненими місцями для сидіння та чистою блакитною водою. - Зона басейну з затіненими місцями для сидіння та чистою блакитною водою."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-Reception.jpg",
-          "alt": "Реєстраційна зона з кольоровими сидіннями та декоративними стінними елементами. - Реєстраційна зона з кольоровими сидіннями та декоративними стінними елементами."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-hotel-lobby-El-Gouna-1.jpg",
-          "alt": "Ще один вигляд зони реєстрації з яскравими сидіннями та декором. - Ще один вигляд зони реєстрації з яскравими сидіннями та декором."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-hotel-lobby-El-Gouna-2.jpg",
-          "alt": "Простора лобі з кольоровими сидіннями та фонтаном у центрі. - Простора лобі з кольоровими сидіннями та фонтаном у центрі."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-lobby-bar-cocktails.jpg",
-          "alt": "Крупний план напоїв на барній стійці з декоративним фоном. - Крупний план напоїв на барній стійці з декоративним фоном."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-Restaurant-indoor-area.jpg",
-          "alt": "Обідня зона з видом на марину та пальми за вікном. - Обідня зона з видом на марину та пальми за вікном."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-Red-Sea-lobby.jpg",
-          "alt": "Простора лобі з високими стелями та декоративними світильниками. - Простора лобі з високими стелями та декоративними світильниками."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Mosaique-Hotel-El-Gouna-main-restaurant-chefs.jpg",
-          "alt": "Шеф-кухарі готують їжу в обідній зоні з привітною атмосферою. - Шеф-кухарі готують їжу в обідній зоні з привітною атмосферою."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/39721/photos/Merbey-Restaurant-Mosaique-Hotel-El-Gouna-Red-Sea-Egypt.jpg",
-          "alt": "Елегантна обідня зона з арками та стильними столовими наборами. - Елегантна обідня зона з арками та стильними столовими наборами."
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/39721/photos/el-gouna-red-sea-beaches-egypt-marina-beach-club.jpeg",
-          "alt": "Пляжна зона з солом'яними парасолями та шезлонгами на піску. - Пляжна зона з солом'яними парасолями та шезлонгами на піску."
-        }
-      ],
-      "links": [
-        {
-          "type": "agent_hotel_page",
-          "link": "https://agent.joinup.ua/uk/hotel/27524"
-        }
-      ]
-    },
-    {
-      "hotel": {
-        "id": "26339",
-        "name": "Le Pacha Resort",
-        "category": {
-          "category": "4",
-          "name": "4 - Чотири зірки"
-        },
-        "badges": [],
-        "descriptions": [
-          {
-            "title": "Опис",
-            "description": "Готель Le Pacha Resort 4* розташований у самому серці Хургади — у районі Саккала, на вулиці Шератон, відомій своїми барами, дискотеками та крамницями. Готель відрізняється доглянутою зеленою територією, з басейнами та міні-аквапарком.\n\nІнформація щодо структури та номерного фонду готелю:\n\nВідкритий у 1997 році, у готелі проходить щорічна поетапна реновація. Готель складається із будівлі рецепції та 10-ти триповерхових корпусів, розташованих по периметру території.",
-            "type": "general"
-          }
-        ],
-        "media": [
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_05-min.jpg",
-            "alt": "Le Pacha Resort"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_06-min.jpg",
-            "alt": "Le Pacha Resort"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_08-min.jpg",
-            "alt": "Le Pacha Resort"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_09-min.jpg",
-            "alt": "Le Pacha Resort"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_13-min.jpg",
-            "alt": "Le Pacha Resort"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_11-min.jpg",
-            "alt": "Le Pacha Resort"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_10-min.jpg",
-            "alt": "Le Pacha Resort"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_12-min.jpg",
-            "alt": "Le Pacha Resort"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_07-min.jpg",
-            "alt": "Le Pacha Resort"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_14-min.jpg",
-            "alt": "Le Pacha Resort"
-          }
-        ],
-        "special_info": {
-          "check_in": {
-            "name": "Реєстрація",
-            "value": "15:00"
-          },
-          "check_out": {
-            "name": "Виїзд з готелю",
-            "value": "12:00"
-          },
-          "group": null,
-          "total_rooms": null
-        },
-        "location": {
-          "city": "Hurghada",
-          "country": "Egypt",
-          "full_address": "",
-          "latitude": "27.218583",
-          "longitude": "33.838447",
-          "region": [
-            {
-              "id": "c_9",
-              "name": "Єгипет",
-              "slug": "egypt",
-              "code_iso": "EG",
-              "type": "country",
-              "sub_regions": [],
-              "departure_cities": [],
-              "price_from": null
-            },
-            {
-              "id": "o_1313",
-              "name": "Хургада",
-              "slug": "hurghada",
-              "code_iso": "",
-              "type": "city",
-              "sub_regions": [],
-              "departure_cities": [],
-              "price_from": null
-            }
-          ],
-          "description": "",
-          "additional_info": []
-        }
-      },
-      "offers": [
-        {
-          "id": "0x430A0000002800000001450000000900000E130000000000F51258B48700000004717A07000066E30000B840000016410000000600000000000000000000000100057DB2B48E0000070000000000A3B7540000000302020000636363B4870000B48E000002000000002400000000000000010000000012EE8DB9000476B20000172200000000",
-          "from": {
-            "id": "325",
-            "name": "Кишинів",
-            "slug": "",
-            "code_iso": "",
-            "type": "city",
-            "sub_regions": [],
-            "departure_cities": [],
-            "price_from": null
-          },
-          "stay": {
-            "label": "7",
-            "stay": 7
-          },
-          "date_start": "2026-07-14",
-          "date_end": "2026-07-21",
-          "board": {
-            "board_type": "AI",
-            "name": "Все включено",
-            "code": "6"
-          },
-          "rooms": [
-            {
-              "code": "47168",
-              "name": "Standard Room ",
-              "placement": "2AD"
-            }
-          ],
-          "transports": [
-            {
-              "type": "flight",
-              "direction": "outbound",
-              "availability": null,
-              "params": {
-                "class": null,
-                "flight_number": "8311",
-                "marketing_airline": {
-                  "name": "SkyUp Airlines",
-                  "code": "4V",
-                  "logo": null,
-                  "plane": null
-                },
-                "operating_airline": null,
-                "departure": {
-                  "code": "RMO",
-                  "name": "Chişinău International Airport",
-                  "timezone": "Europe/Chisinau"
-                },
-                "departure_terminal": "",
-                "arrival": {
-                  "code": "HRG",
-                  "name": "Hurghada International Airport",
-                  "timezone": "Africa/Cairo"
-                },
-                "arrival_terminal": "",
-                "std": "2026-07-14T08:35:00+00:00",
-                "sta": "2026-07-14T12:05:00+00:00",
-                "luggage": [
-                  {
-                    "type": "HNDL",
-                    "weight": 9
-                  },
-                  {
-                    "type": "CBAG",
-                    "weight": 23
-                  }
-                ]
-              }
-            },
-            {
-              "type": "flight",
-              "direction": "inbound",
-              "availability": null,
-              "params": {
-                "class": null,
-                "flight_number": "8312",
-                "marketing_airline": {
-                  "name": "SkyUp Airlines",
-                  "code": "4V",
-                  "logo": null,
-                  "plane": null
-                },
-                "operating_airline": null,
-                "departure": {
-                  "code": "HRG",
-                  "name": "Hurghada International Airport",
-                  "timezone": "Africa/Cairo"
-                },
-                "departure_terminal": "",
-                "arrival": {
-                  "code": "RMO",
-                  "name": "Chişinău International Airport",
-                  "timezone": "Europe/Chisinau"
-                },
-                "arrival_terminal": "",
-                "std": "2026-07-21T13:05:00+00:00",
-                "sta": "2026-07-21T16:50:00+00:00",
-                "luggage": [
-                  {
-                    "type": "HNDL",
-                    "weight": 9
-                  },
-                  {
-                    "type": "CBAG",
-                    "weight": 23
-                  }
-                ]
-              }
-            }
-          ],
-          "price": {
-            "components": [
-              {
-                "title": "Base-1-RMO/291194",
-                "type": "tour",
-                "price": {
-                  "price": "56771.00",
-                  "currency": {
-                    "code": "UAH",
-                    "sign": "₴"
-                  }
-                }
-              }
-            ],
-            "per_pax_price": null,
-            "average_history_price": null,
-            "full_price": null,
-            "total_price": {
-              "price": "56771.00",
-              "currency": {
-                "code": "UAH",
-                "sign": "₴"
-              }
-            },
-            "full_installment_price": null,
-            "installment_price": null,
-            "payment_price": null,
-            "total_price_description": "Повна оплата доступна карткою або через Apple/Google Pay.",
-            "installment_price_description": "",
-            "badges": [],
-            "commission": null
-          },
-          "promotion": null,
-          "badges": [],
-          "notes": [],
-          "availability": null,
-          "stop_sale": null,
-          "is_booking_available": null,
-          "is_dynamic": false,
-          "pax_adl": [],
-          "pax_chd": [],
-          "children_ages": []
-        }
-      ],
-      "media": [
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_05-min.jpg",
-          "alt": "Le Pacha Resort"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_06-min.jpg",
-          "alt": "Le Pacha Resort"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_08-min.jpg",
-          "alt": "Le Pacha Resort"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_09-min.jpg",
-          "alt": "Le Pacha Resort"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_13-min.jpg",
-          "alt": "Le Pacha Resort"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_11-min.jpg",
-          "alt": "Le Pacha Resort"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_10-min.jpg",
-          "alt": "Le Pacha Resort"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_12-min.jpg",
-          "alt": "Le Pacha Resort"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_07-min.jpg",
-          "alt": "Le Pacha Resort"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/30368/photos/Le-Pacha-Resort_14-min.jpg",
-          "alt": "Le Pacha Resort"
-        }
-      ],
-      "links": [
-        {
-          "type": "agent_hotel_page",
-          "link": "https://agent.joinup.ua/uk/hotel/26339"
-        }
-      ]
-    },
-    {
-      "hotel": {
-        "id": "49628",
-        "name": "Turtle's Inn El Gouna",
-        "category": {
-          "category": "3",
-          "name": "3 - Три зірки"
-        },
-        "badges": [],
-        "descriptions": [
-          {
-            "title": "Опис",
-            "description": "Популярний тризірковий готель в Ель-Гуні розташований на території відомої пристані для яхт Абу Тіг, неподалік від популярних закладів харчування, розваг, магазинів і місць відпочинку. Цей затишний куточок має чудову  атмосферу, привабливий для любителів водних видів спорту та  вечірок. Це комфортний відпочинок за кілька кроків від жвавого променаду.\n\nІнформація про структуру готелю і про номерний фонд:\nГотель складається з одного 3-х поверхового будинку.\nЗагальна кількість номерів — 28.\nРеновація - в готелі проведено капітальний ремонт.",
-            "type": "general"
-          }
-        ],
-        "media": [
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51236/photos/Ali_Pasha_Hotel_El_Gouna_red_Sea_Egypt_Pool-1.jpg",
-            "alt": "Turtle's Inn El Gouna"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51236/photos/Turtles_Inn_Hotel_El_Gouna_Red_Sea_Facade.jpg",
-            "alt": "Turtle's Inn El Gouna"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51236/photos/Turtles_Inn_El_Gouna_Red_Sea_Egypt_entrance.jpg",
-            "alt": "Turtle's Inn El Gouna"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51236/photos/OHM_Captains_Inn_El_Gouna_Red_Sea_Egypt_Marina-2.jpg",
-            "alt": "Turtle's Inn El Gouna"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51236/photos/OHM_Captains_Inn_El_Gouna_Red_Sea_Egypt_Marina_1-1.jpg",
-            "alt": "Turtle's Inn El Gouna"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51236/photos/Turtles_Inn_El_Gouna_Red_Sea_Egypt_Lobby.jpg",
-            "alt": "Turtle's Inn El Gouna"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51236/photos/OHM_turtles_detail_2.jpg",
-            "alt": "Turtle's Inn El Gouna"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51236/photos/Turtles_Inn_El_Gouna_Red_Sea_Egypt_Courtyard.jpg",
-            "alt": "Turtle's Inn El Gouna"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51236/photos/Captains_Inn_El_Gouna_Red_Sea_Egypt_restaurant_exterior-2.jpg",
-            "alt": "Turtle's Inn El Gouna"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51236/photos/El_Gouna_Red_Sea_Marina_Beach_Ancient_Sands-5-2.jpg",
-            "alt": "Turtle's Inn El Gouna"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51236/photos/Ali-Pasha-Hotel-El_Gouna_Red_Sea_The_Beach_-11.jpg",
-            "alt": "Turtle's Inn El Gouna"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51236/photos/Ali-Pasha-Hotel-El_Gouna_Red_Sea_The_Beach_-27.jpg",
-            "alt": "Turtle's Inn El Gouna"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51236/photos/Ali-Pasha-Hotel-El-Gouna-Red-Sea-Egypt-Pool-1-.jpg",
-            "alt": "Turtle's Inn El Gouna"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51236/photos/El-Gouna-aerial-view-Marina_moods.jpg",
-            "alt": "Turtle's Inn El Gouna"
-          },
-          {
-            "type": "image",
-            "name": "",
-            "url": "https://media.joinup.travel/storage/hotel/51236/photos/El_Gouna_Red_Sea_Aerial_Shot_Abu_Tig_Marina-1-1.jpg",
-            "alt": "Turtle's Inn El Gouna"
-          }
-        ],
-        "special_info": {
-          "check_in": {
-            "name": "Реєстрація",
-            "value": "14:00"
-          },
-          "check_out": {
-            "name": "Виїзд з готелю",
-            "value": "12:00"
-          },
-          "group": null,
-          "total_rooms": null
-        },
-        "location": {
-          "city": "El Gouna",
-          "country": "Egypt",
-          "full_address": "",
-          "latitude": "27.408068",
-          "longitude": "33.674114",
-          "region": [
-            {
-              "id": "c_9",
-              "name": "Єгипет",
-              "slug": "egypt",
-              "code_iso": "EG",
-              "type": "country",
-              "sub_regions": [],
-              "departure_cities": [],
-              "price_from": null
-            },
-            {
-              "id": "o_1318",
-              "name": "Ель-Гуна",
-              "slug": "el-gouna",
-              "code_iso": "",
-              "type": "city",
-              "sub_regions": [],
-              "departure_cities": [],
-              "price_from": null
-            }
-          ],
-          "description": "",
-          "additional_info": []
-        }
-      },
-      "offers": [
-        {
-          "id": "0x430A0000002800000001450000000900000E130000000000F512E1B48700000004717A070000C1DC0000B840000016410000000400000000000000000000000100057DB2B48E0000070000000000A3B7540000000302020000636363B4870000B48E0000020000000024000000000000000100000000386ABCFD000476B20000172200000000",
-          "from": {
-            "id": "325",
-            "name": "Кишинів",
-            "slug": "",
-            "code_iso": "",
-            "type": "city",
-            "sub_regions": [],
-            "departure_cities": [],
-            "price_from": null
-          },
-          "stay": {
-            "label": "7",
-            "stay": 7
-          },
-          "date_start": "2026-07-14",
-          "date_end": "2026-07-21",
-          "board": {
-            "board_type": "BB",
-            "name": "Ліжко та сніданок",
-            "code": "4"
-          },
-          "rooms": [
-            {
-              "code": "47168",
-              "name": "Standard Room ",
-              "placement": "2AD"
-            }
-          ],
-          "transports": [
-            {
-              "type": "flight",
-              "direction": "outbound",
-              "availability": null,
-              "params": {
-                "class": null,
-                "flight_number": "8311",
-                "marketing_airline": {
-                  "name": "SkyUp Airlines",
-                  "code": "4V",
-                  "logo": null,
-                  "plane": null
-                },
-                "operating_airline": null,
-                "departure": {
-                  "code": "RMO",
-                  "name": "Chişinău International Airport",
-                  "timezone": "Europe/Chisinau"
-                },
-                "departure_terminal": "",
-                "arrival": {
-                  "code": "HRG",
-                  "name": "Hurghada International Airport",
-                  "timezone": "Africa/Cairo"
-                },
-                "arrival_terminal": "",
-                "std": "2026-07-14T08:35:00+00:00",
-                "sta": "2026-07-14T12:05:00+00:00",
-                "luggage": [
-                  {
-                    "type": "HNDL",
-                    "weight": 9
-                  },
-                  {
-                    "type": "CBAG",
-                    "weight": 23
-                  }
-                ]
-              }
-            },
-            {
-              "type": "flight",
-              "direction": "inbound",
-              "availability": null,
-              "params": {
-                "class": null,
-                "flight_number": "8312",
-                "marketing_airline": {
-                  "name": "SkyUp Airlines",
-                  "code": "4V",
-                  "logo": null,
-                  "plane": null
-                },
-                "operating_airline": null,
-                "departure": {
-                  "code": "HRG",
-                  "name": "Hurghada International Airport",
-                  "timezone": "Africa/Cairo"
-                },
-                "departure_terminal": "",
-                "arrival": {
-                  "code": "RMO",
-                  "name": "Chişinău International Airport",
-                  "timezone": "Europe/Chisinau"
-                },
-                "arrival_terminal": "",
-                "std": "2026-07-21T13:05:00+00:00",
-                "sta": "2026-07-21T16:50:00+00:00",
-                "luggage": [
-                  {
-                    "type": "HNDL",
-                    "weight": 9
-                  },
-                  {
-                    "type": "CBAG",
-                    "weight": 23
-                  }
-                ]
-              }
-            }
-          ],
-          "price": {
-            "components": [
-              {
-                "title": "Base-1-RMO/291194",
-                "type": "tour",
-                "price": {
-                  "price": "56771.00",
-                  "currency": {
-                    "code": "UAH",
-                    "sign": "₴"
-                  }
-                }
-              }
-            ],
-            "per_pax_price": null,
-            "average_history_price": null,
-            "full_price": null,
-            "total_price": {
-              "price": "56771.00",
-              "currency": {
-                "code": "UAH",
-                "sign": "₴"
-              }
-            },
-            "full_installment_price": null,
-            "installment_price": null,
-            "payment_price": null,
-            "total_price_description": "Повна оплата доступна карткою або через Apple/Google Pay.",
-            "installment_price_description": "",
-            "badges": [],
-            "commission": null
-          },
-          "promotion": null,
-          "badges": [],
-          "notes": [],
-          "availability": null,
-          "stop_sale": null,
-          "is_booking_available": null,
-          "is_dynamic": false,
-          "pax_adl": [],
-          "pax_chd": [],
-          "children_ages": []
-        }
-      ],
-      "media": [
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51236/photos/Ali_Pasha_Hotel_El_Gouna_red_Sea_Egypt_Pool-1.jpg",
-          "alt": "Turtle's Inn El Gouna"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51236/photos/Turtles_Inn_Hotel_El_Gouna_Red_Sea_Facade.jpg",
-          "alt": "Turtle's Inn El Gouna"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51236/photos/Turtles_Inn_El_Gouna_Red_Sea_Egypt_entrance.jpg",
-          "alt": "Turtle's Inn El Gouna"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51236/photos/OHM_Captains_Inn_El_Gouna_Red_Sea_Egypt_Marina-2.jpg",
-          "alt": "Turtle's Inn El Gouna"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51236/photos/OHM_Captains_Inn_El_Gouna_Red_Sea_Egypt_Marina_1-1.jpg",
-          "alt": "Turtle's Inn El Gouna"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51236/photos/Turtles_Inn_El_Gouna_Red_Sea_Egypt_Lobby.jpg",
-          "alt": "Turtle's Inn El Gouna"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51236/photos/OHM_turtles_detail_2.jpg",
-          "alt": "Turtle's Inn El Gouna"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51236/photos/Turtles_Inn_El_Gouna_Red_Sea_Egypt_Courtyard.jpg",
-          "alt": "Turtle's Inn El Gouna"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51236/photos/Captains_Inn_El_Gouna_Red_Sea_Egypt_restaurant_exterior-2.jpg",
-          "alt": "Turtle's Inn El Gouna"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51236/photos/El_Gouna_Red_Sea_Marina_Beach_Ancient_Sands-5-2.jpg",
-          "alt": "Turtle's Inn El Gouna"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51236/photos/Ali-Pasha-Hotel-El_Gouna_Red_Sea_The_Beach_-11.jpg",
-          "alt": "Turtle's Inn El Gouna"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51236/photos/Ali-Pasha-Hotel-El_Gouna_Red_Sea_The_Beach_-27.jpg",
-          "alt": "Turtle's Inn El Gouna"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51236/photos/Ali-Pasha-Hotel-El-Gouna-Red-Sea-Egypt-Pool-1-.jpg",
-          "alt": "Turtle's Inn El Gouna"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51236/photos/El-Gouna-aerial-view-Marina_moods.jpg",
-          "alt": "Turtle's Inn El Gouna"
-        },
-        {
-          "type": "image",
-          "name": "",
-          "url": "https://media.joinup.travel/storage/hotel/51236/photos/El_Gouna_Red_Sea_Aerial_Shot_Abu_Tig_Marina-1-1.jpg",
-          "alt": "Turtle's Inn El Gouna"
-        }
-      ],
-      "links": [
-        {
-          "type": "agent_hotel_page",
-          "link": "https://agent.joinup.ua/uk/hotel/49628"
         }
       ]
     },

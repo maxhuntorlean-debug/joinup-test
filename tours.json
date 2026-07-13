@@ -7455,6 +7455,12 @@
             "icon": ""
           },
           {
+            "code": "68210",
+            "name": "M Marina Hotel & Spa Al Alamein",
+            "description": "",
+            "icon": ""
+          },
+          {
             "code": "57044",
             "name": "Magic Beach",
             "description": "",
@@ -7901,12 +7907,6 @@
           {
             "code": "32690",
             "name": "Pickalbatros White Beach Resort",
-            "description": "",
-            "icon": ""
-          },
-          {
-            "code": "68210",
-            "name": "Porto Marina Hotel & Spa Al Alamein",
             "description": "",
             "icon": ""
           },

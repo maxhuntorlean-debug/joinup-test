@@ -8565,6 +8565,12 @@
             "icon": ""
           },
           {
+            "code": "66609",
+            "name": "Sunrise Arabian Beach Resort",
+            "description": "",
+            "icon": ""
+          },
+          {
             "code": "68580",
             "name": "Sunrise Azalea Aqua Park Resort",
             "description": "",
@@ -8597,6 +8603,12 @@
           {
             "code": "66600",
             "name": "Sunrise Holidays Resort (Adults Only 16+)",
+            "description": "",
+            "icon": ""
+          },
+          {
+            "code": "66613",
+            "name": "Sunrise Montemare Resort",
             "description": "",
             "icon": ""
           },

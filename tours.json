@@ -6291,6 +6291,12 @@
       "params": {
         "values": [
           {
+            "code": "81550",
+            "name": "A Club Amphoras Beach",
+            "description": "",
+            "icon": ""
+          },
+          {
             "code": "59973",
             "name": "Ajira Bay Hotel Hurghada Marina",
             "description": "",
@@ -6299,6 +6305,12 @@
           {
             "code": "59972",
             "name": "Ajira Boutique Hotel Hurghada Marina",
+            "description": "",
+            "icon": ""
+          },
+          {
+            "code": "60288",
+            "name": "Ajira Resort Sahl Hasheesh",
             "description": "",
             "icon": ""
           },
@@ -6837,6 +6849,12 @@
             "icon": ""
           },
           {
+            "code": "53876",
+            "name": "Eagle Paradise Soma Bay",
+            "description": "",
+            "icon": ""
+          },
+          {
             "code": "36195",
             "name": "Eagles Down Town Zahabia Resort (ex.Zahabia Village)",
             "description": "",
@@ -7097,6 +7115,12 @@
           {
             "code": "66093",
             "name": "Hotelux La Playa Alamein",
+            "description": "",
+            "icon": ""
+          },
+          {
+            "code": "26430",
+            "name": "Iberotel Makadi Beach",
             "description": "",
             "icon": ""
           },
@@ -8241,6 +8265,18 @@
             "icon": ""
           },
           {
+            "code": "26537",
+            "name": "Serenity Alma Resort(ex.Serenity Fun City)",
+            "description": "",
+            "icon": ""
+          },
+          {
+            "code": "26447",
+            "name": "Serenity Alpha Beach(ex.Serenity Makadi Beach)",
+            "description": "",
+            "icon": ""
+          },
+          {
             "code": "60830",
             "name": "Serry Beach Resort",
             "description": "",
@@ -8637,6 +8673,12 @@
             "icon": ""
           },
           {
+            "code": "80571",
+            "name": "Sunrise Serano Club",
+            "description": "",
+            "icon": ""
+          },
+          {
             "code": "66596",
             "name": "Sunrise Solara Aqua Park",
             "description": "",
@@ -8645,6 +8687,12 @@
           {
             "code": "66604",
             "name": "Sunrise Tucana Resort",
+            "description": "",
+            "icon": ""
+          },
+          {
+            "code": "66616",
+            "name": "Sunrise White Hills",
             "description": "",
             "icon": ""
           },
